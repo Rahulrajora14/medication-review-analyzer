@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1,f1_negative,f1_neutral,f1_positive,val_macro_f1,C
+TF-IDF + Logistic Regression,0.7493,0.6277,0.7709,0.7244,0.3086,0.8501,0.6277,0.5

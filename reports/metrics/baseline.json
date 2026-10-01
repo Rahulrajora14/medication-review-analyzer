@@ -1,0 +1,11 @@
+{
+  "model": "TF-IDF + Logistic Regression",
+  "accuracy": 0.7493,
+  "macro_f1": 0.6277,
+  "weighted_f1": 0.7709,
+  "f1_negative": 0.7244,
+  "f1_neutral": 0.3086,
+  "f1_positive": 0.8501,
+  "val_macro_f1": 0.6277,
+  "C": 0.5
+}

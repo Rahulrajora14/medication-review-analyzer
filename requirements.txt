@@ -1,0 +1,17 @@
+# Data + classical ML
+pandas>=2.0
+numpy>=1.26
+pyarrow>=14.0
+scikit-learn>=1.4
+matplotlib>=3.8
+joblib>=1.3
+
+# Deep learning (small language model fine-tuning)
+torch>=2.2
+transformers>=4.46
+
+# Dashboard
+streamlit>=1.50
+
+# Testing
+pytest>=8.0

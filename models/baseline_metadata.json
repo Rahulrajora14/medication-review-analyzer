@@ -1,0 +1,59 @@
+{
+  "C": 0.5,
+  "top_words": {
+    "negative": [
+      "worse",
+      "not recommend",
+      "not",
+      "worst",
+      "horrible",
+      "never",
+      "not worth",
+      "disappointed",
+      "this",
+      "terrible",
+      "no improvement",
+      "nothing for",
+      "awful",
+      "waste",
+      "no relief"
+    ],
+    "neutral": [
+      "however",
+      "but",
+      "was great",
+      "yet",
+      "helps with",
+      "although",
+      "hoping",
+      "hopefully",
+      "hope",
+      "though",
+      "unfortunately",
+      "guess",
+      "not sure",
+      "just started",
+      "causes"
+    ],
+    "positive": [
+      "love",
+      "great",
+      "amazing",
+      "miracle",
+      "best",
+      "works",
+      "love it",
+      "years",
+      "no side",
+      "life",
+      "saved",
+      "the only",
+      "wonderful",
+      "gone",
+      "love this"
+    ]
+  },
+  "library_versions": {
+    "scikit-learn": "1.8.0"
+  }
+}

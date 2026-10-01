@@ -1,0 +1,3176 @@
+drug,reviews,avg_rating,pct_negative,pct_neutral,pct_positive,top_condition
+Levonorgestrel,2525,7.39,20.4,9.5,70.1,Birth Control
+Etonogestrel,2225,5.76,39.5,13.1,47.4,Birth Control
+Ethinyl estradiol / norethindrone,1961,5.57,41.6,10.8,47.7,Birth Control
+Phentermine,1832,8.77,4.9,5.5,89.6,Weight Loss
+Nexplanon,1444,5.7,39.9,14.1,46.0,Birth Control
+Ethinyl estradiol / norgestimate,1433,5.76,39.0,11.9,49.1,Birth Control
+Sertraline,1312,7.41,18.1,9.1,72.9,Depression
+Gabapentin,1311,7.41,20.1,6.4,73.5,Anxiety
+Ethinyl estradiol / levonorgestrel,1299,5.61,41.3,14.1,44.6,Birth Control
+Miconazole,1186,2.9,74.8,9.9,15.3,Vaginal Yeast Infection
+Escitalopram,1115,7.9,13.2,8.2,78.7,Anxiety
+Metronidazole,1072,6.83,19.8,18.2,62.0,Bacterial Vaginitis
+Tramadol,1014,7.14,22.8,5.8,71.4,Pain
+Citalopram,986,7.65,14.3,9.1,76.6,Anxiety and Stress
+Tioconazole,977,4.51,55.8,8.3,35.9,Vaginal Yeast Infection
+Bupropion,926,7.45,18.1,9.1,72.8,Depression
+Venlafaxine,921,6.76,26.5,8.4,65.1,Depression
+Amitriptyline,846,7.78,15.4,6.1,78.5,Migraine Prevention
+Clonazepam,843,8.47,10.0,4.3,85.8,Anxiety
+Mirena,839,6.64,29.2,11.0,59.8,Birth Control
+Trazodone,770,6.92,25.3,7.5,67.1,Insomnia
+Doxycycline,762,7.02,21.3,12.9,65.9,Acne
+Quetiapine,755,7.33,18.5,9.9,71.5,Bipolar Disorde
+Implanon,750,6.24,33.5,13.5,53.1,Birth Control
+Fluoxetine,700,7.68,15.9,7.6,76.6,Depression
+Duloxetine,676,6.71,26.9,8.7,64.3,Depression
+Medroxyprogesterone,672,4.76,52.2,10.3,37.5,Birth Control
+Bupropion / naltrexone,671,6.88,24.0,10.7,65.3,Obesity
+Varenicline,658,8.85,6.4,4.6,89.1,Smoking Cessation
+Azithromycin,649,7.14,19.3,12.3,68.4,Chlamydia Infection
+Mirtazapine,631,7.06,21.6,11.1,67.4,Depression
+Lexapro,625,7.7,15.4,7.0,77.6,Anxiety
+Drospirenone / ethinyl estradiol,596,6.33,32.0,11.9,56.0,Birth Control
+Propranolol,586,8.62,9.0,5.1,85.8,mance Anxiety
+Alprazolam,582,9.03,5.2,3.3,91.6,Anxiety
+Depo-Provera,578,4.79,51.7,9.9,38.4,Birth Control
+Cymbalta,577,6.51,29.3,8.3,62.4,Depression
+Contrave,576,6.69,26.6,11.6,61.8,Obesity
+Liraglutide,557,7.92,13.5,8.3,78.3,Obesity
+Zoloft,554,7.54,17.0,6.0,77.1,Depression
+Topiramate,553,6.73,26.4,10.3,63.3,Migraine Prevention
+Lamotrigine,553,8.06,13.2,6.5,80.3,Bipolar Disorde
+Copper,543,7.41,20.6,6.8,72.6,Birth Control
+Skyla,532,7.22,18.4,14.3,67.3,Birth Control
+Pregabalin,532,7.36,18.2,10.5,71.2,Generalized Anxiety Disorde
+Paroxetine,519,7.31,20.4,8.5,71.1,Anxiety
+Nitrofurantoin,501,5.03,48.9,9.2,41.9,Urinary Tract Infection
+Clindamycin,495,6.2,31.9,13.3,54.7,Bacterial Infection
+Hydroxyzine,480,6.06,34.8,8.3,56.9,Anxiety
+Oxycodone,478,8.51,7.7,4.2,88.1,Pain
+Lo Loestrin Fe,459,6.05,35.1,11.8,53.2,Birth Control
+Sulfamethoxazole / trimethoprim,449,5.42,44.3,11.6,44.1,Urinary Tract Infection
+Ethinyl estradiol / etonogestrel,432,6.54,27.8,15.7,56.5,Birth Control
+Desvenlafaxine,432,7.2,21.1,7.6,71.3,Depression
+Lorazepam,431,8.39,9.3,6.5,84.2,Anxiety
+Buspirone,430,6.24,32.3,8.8,58.8,Anxiety
+Chantix,430,8.71,8.8,2.8,88.4,Smoking Cessation
+Magnesium sulfate / potassium sulfate / sodium sulfate,428,7.44,18.0,8.6,73.4,Bowel Preparation
+Vortioxetine,421,6.17,32.8,11.2,56.1,Depression
+Acetaminophen / hydrocodone,417,7.94,11.5,7.7,80.8,Pain
+Diclofenac,415,7.76,16.9,6.3,76.9,Pain
+Isotretinoin,412,8.41,10.0,4.4,85.7,Acne
+Zolpidem,409,7.38,20.3,9.0,70.7,Insomnia
+Methadone,406,8.8,5.4,5.4,89.2,Opiate Withdrawal
+NuvaRing,403,6.72,26.6,14.4,59.1,Birth Control
+Plan B,401,8.77,9.2,2.7,88.0,Emergency Contraception
+Belviq,397,7.9,16.1,7.1,76.8,Weight Loss
+Suprep Bowel Prep Kit,395,7.42,17.7,10.9,71.4,Bowel Preparation
+Bisacodyl,393,5.8,38.4,11.7,49.9,Constipation
+Prednisone,383,7.74,16.7,6.5,76.8,Inflammatory Conditions
+Ciprofloxacin,375,5.46,43.7,10.9,45.3,Urinary Tract Infection
+Lorcaserin,375,7.99,16.0,6.7,77.3,Weight Loss
+Lisinopril,374,5.36,44.4,11.2,44.4,High Blood Pressure
+Pristiq,362,7.23,19.3,9.7,71.0,Depression
+Clonidine,362,7.58,17.4,9.4,73.2,Opiate Withdrawal
+Aripiprazole,359,6.68,28.1,9.2,62.7,Bipolar Disorde
+Clarithromycin,352,5.53,37.5,18.8,43.8,Sinusitis
+Norethindrone,346,4.97,48.6,15.3,36.1,Birth Control
+Methylphenidate,340,7.67,12.6,12.4,75.0,ADHD
+Naproxen,338,6.87,27.2,7.4,65.4,Back Pain
+Amphetamine / dextroamphetamine,338,8.12,10.7,6.8,82.5,ADHD
+Desogestrel / ethinyl estradiol,336,5.72,39.0,15.8,45.2,Birth Control
+Acetaminophen / oxycodone,335,8.44,7.8,4.5,87.8,Pain
+Sprintec,333,6.07,33.0,13.5,53.5,Birth Control
+Lisdexamfetamine,330,7.66,15.5,9.4,75.2,ADHD
+Metformin,324,7.14,17.3,13.6,69.1,Polycystic Ovary Syndrome
+Diazepam,316,8.74,7.6,3.2,89.2,Anxiety
+Celexa,316,7.41,18.4,8.5,73.1,Anxiety and Stress
+Buprenorphine / naloxone,315,8.42,11.7,3.8,84.4,Opiate Dependence
+Minocycline,314,6.31,31.2,12.7,56.1,Acne
+Nortriptyline,312,7.68,15.1,7.1,77.9,Migraine Prevention
+Plan B One-Step,312,8.7,8.0,5.4,86.5,Emergency Contraception
+Xanax,311,8.71,7.1,4.5,88.4,Anxiety
+Spironolactone,309,7.82,14.2,8.7,77.0,Acne
+Vilazodone,309,6.07,35.9,12.0,52.1,Depression
+Loestrin 24 Fe,309,5.97,34.0,14.9,51.1,Birth Control
+Amoxicillin / clavulanate,305,5.41,43.9,11.8,44.3,Sinusitis
+Abilify,302,6.29,31.8,9.3,58.9,Bipolar Disorde
+Paxil,298,7.28,19.1,9.4,71.5,Anxiety
+Prozac,297,7.54,16.5,8.4,75.1,Depression
+Lyrica,293,6.6,28.3,11.3,60.4,ibromyalgia
+Vyvanse,293,7.81,14.3,7.2,78.5,ADHD
+Dulcolax,288,5.56,40.3,14.2,45.5,Constipation
+Tretinoin,288,7.9,13.9,8.0,78.1,Acne
+Klonopin,281,8.63,8.2,2.8,89.0,Anxiety
+Levofloxacin,278,5.18,47.8,8.3,43.9,Sinusitis
+Phentermine / topiramate,275,8.12,12.4,6.5,81.1,Weight Loss
+Epiduo,273,7.19,22.0,9.5,68.5,Acne
+Meloxicam,273,6.94,26.0,6.2,67.8,Inflammatory Conditions
+Microgestin Fe 1 / 20,266,5.97,36.1,13.9,50.0,Birth Control
+Adapalene / benzoyl peroxide,265,7.75,14.0,7.5,78.5,Acne
+Levothyroxine,262,6.56,30.5,8.4,61.1,Underactive Thyroid
+Trintellix,261,6.05,34.1,10.3,55.6,Depression
+Cyclobenzaprine,259,6.38,30.9,8.5,60.6,Muscle Spasm
+ParaGard,258,6.48,32.6,8.9,58.5,Birth Control
+Ethinyl estradiol / norelgestromin,256,6.71,27.7,7.4,64.8,Birth Control
+Tri-Sprintec,254,5.86,36.6,14.2,49.2,Birth Control
+Propofol,254,8.08,17.3,4.7,78.0,Anesthesia
+Effexor XR,253,7.51,18.2,6.3,75.5,Depression
+Metoprolol,252,6.41,28.2,12.7,59.1,High Blood Pressure
+Yaz,248,6.08,35.9,10.5,53.6,Birth Control
+Olanzapine,248,6.55,25.4,14.5,60.1,Bipolar Disorde
+Viibryd,246,6.74,26.8,8.9,64.2,Depression
+Lurasidone,245,7.13,21.6,8.2,70.2,Bipolar Disorde
+Suboxone,243,9.03,5.3,4.5,90.1,Opiate Dependence
+Saxenda,238,7.85,14.3,7.6,78.2,Obesity
+Sumatriptan,237,8.16,13.5,5.9,80.6,Migraine
+Buprenorphine,237,7.47,19.4,6.8,73.8,Chronic Pain
+Tadalafil,237,8.64,8.9,4.6,86.5,Erectile Dysfunction
+Benzonatate,237,4.78,55.3,2.5,42.2,Cough
+Fentanyl,237,8.34,8.0,3.4,88.6,Pain
+Seroquel,237,7.44,13.9,11.8,74.3,Bipolar Disorde
+Risperidone,235,6.2,32.8,11.9,55.3,Bipolar Disorde
+Topamax,232,6.5,28.4,12.5,59.1,Migraine Prevention
+Testosterone,228,7.71,15.4,8.8,75.9,"Hypogonadism, Male"
+Victoza,226,8.15,11.1,5.8,83.2,"Diabetes, Type 2"
+Accutane,226,8.37,10.6,5.8,83.6,Acne
+Latuda,226,6.48,31.0,8.4,60.6,Bipolar Disorde
+Lamictal,226,8.37,9.3,7.5,83.2,Bipolar Disorde
+Lithium,224,7.52,17.9,6.2,75.9,Bipolar Disorde
+Fluconazole,220,7.05,25.5,7.7,66.8,Vaginal Yeast Infection
+Qsymia,219,7.72,16.4,7.8,75.8,Weight Loss
+Benzoyl peroxide / clindamycin,218,7.89,14.2,6.9,78.9,Acne
+Adipex-P,218,9.07,3.7,3.2,93.1,Weight Loss
+Linzess,218,7.44,20.6,8.3,71.1,"Constipation, Chronic"
+Aluminum chloride hexahydrate,217,8.84,7.8,2.3,89.9,Hyperhidrosis
+Amlodipine,216,5.07,49.1,10.2,40.7,High Blood Pressure
+Magnesium citrate,214,9.02,4.7,3.7,91.6,Constipation
+Temazepam,213,6.74,26.8,8.0,65.3,Insomnia
+Linaclotide,211,7.23,24.2,6.6,69.2,"Constipation, Chronic"
+Baclofen,211,7.39,19.0,7.1,73.9,Muscle Spasm
+Modafinil,204,7.73,16.7,7.8,75.5,Narcolepsy
+Losartan,202,5.5,39.1,13.9,47.0,High Blood Pressure
+Valacyclovir,200,8.8,9.5,3.5,87.0,Cold Sores
+Hydromorphone,197,8.23,13.2,3.0,83.8,Pain
+Wellbutrin,197,7.46,17.3,8.6,74.1,Depression
+TriNessa,197,6.09,33.5,13.7,52.8,Birth Control
+Naltrexone,197,8.21,11.7,6.6,81.7,Alcohol Dependence
+Humira,196,7.09,24.0,8.2,67.9,Rheumatoid Arthritis
+Estradiol,195,6.37,33.3,11.8,54.9,Postmenopausal Symptoms
+Morphine,193,7.69,11.9,11.4,76.7,Pain
+Terbinafine,193,7.04,26.4,7.8,65.8,"Onychomycosis, Toenail"
+BuSpar,192,6.44,30.2,10.9,58.9,Anxiety
+Adalimumab,185,7.14,24.3,7.6,68.1,Rheumatoid Arthritis
+Methylprednisolone,183,7.6,18.0,7.7,74.3,Inflammatory Conditions
+Cephalexin,183,7.07,21.9,12.6,65.6,Skin or Soft Tissue Infection
+Montelukast,181,5.44,45.3,10.5,44.2,Asthma
+Ambien,179,7.27,20.7,7.8,71.5,Insomnia
+Divalproex sodium,175,6.5,27.4,10.3,62.3,Bipolar Disorde
+Cialis,175,8.55,9.7,3.4,86.9,Erectile Dysfunction
+Oxybutynin,173,7.04,23.1,11.0,65.9,Overactive Bladde
+Doxepin,172,6.7,31.4,5.8,62.8,Insomnia
+Dulaglutide,172,6.19,32.0,13.4,54.7,"Diabetes, Type 2"
+Polyethylene glycol 3350 with electrolytes,171,6.86,23.4,13.5,63.2,Bowel Preparation
+Ondansetron,170,8.05,15.9,4.1,80.0,Nausea/Vomiting
+Imiquimod,166,7.15,19.3,7.8,72.9,Human Papilloma Virus
+Adapalene,165,7.24,21.8,7.9,70.3,Acne
+Tamsulosin,165,6.24,33.9,15.2,50.9,Benign Prostatic Hyperplasia
+Aviane,164,6.76,26.8,7.9,65.2,Birth Control
+Cefdinir,164,4.11,61.6,11.6,26.8,Sinusitis
+Effexor,161,6.25,28.6,13.7,57.8,Depression
+Tapentadol,161,6.47,28.0,11.2,60.9,Pain
+Armodafinil,160,7.54,16.2,6.9,76.9,Narcolepsy
+Methotrexate,159,7.48,13.8,11.9,74.2,Rheumatoid Arthritis
+Macrobid,154,4.94,51.3,9.7,39.0,Urinary Tract Infection
+Savella,154,6.82,20.8,14.9,64.3,ibromyalgia
+Atomoxetine,152,5.43,45.4,7.9,46.7,ADHD
+Apri,152,5.72,38.8,16.4,44.7,Birth Control
+Ativan,152,8.12,13.2,7.2,79.6,Anxiety
+Ortho Tri-Cyclen Lo,149,6.81,23.5,13.4,63.1,Birth Control
+Liletta,149,5.89,31.5,23.5,45.0,Birth Control
+Tizanidine,149,6.43,29.5,10.1,60.4,Muscle Spasm
+Ropinirole,148,6.47,27.0,14.2,58.8,Restless Legs Syndrome
+Seasonique,148,5.35,43.9,14.9,41.2,Birth Control
+Carbamazepine,147,6.78,25.2,10.9,63.9,Trigeminal Neuralgia
+Ortho Evra,146,7.42,17.8,9.6,72.6,Birth Control
+Wellbutrin XL,145,7.39,17.2,11.0,71.7,Depression
+Levaquin,145,5.52,40.0,12.4,47.6,Sinusitis
+Levetiracetam,144,6.6,27.8,12.5,59.7,Seizures
+Suvorexant,143,3.91,62.9,6.3,30.8,Insomnia
+Metoclopramide,142,4.65,54.9,6.3,38.7,Migraine
+Oxcarbazepine,141,7.84,14.9,7.1,78.0,Bipolar Disorde
+Atenolol,140,7.37,20.7,5.7,73.6,High Blood Pressure
+Strattera,139,5.53,41.0,11.5,47.5,ADHD
+Promethazine,139,8.37,12.2,4.3,83.5,Nausea/Vomiting
+Harvoni,138,8.61,11.6,2.9,85.5,Hepatitis C
+Concerta,138,7.05,19.6,11.6,68.8,ADHD
+Bactrim,138,6.07,38.4,8.7,52.9,Urinary Tract Infection
+Ledipasvir / sofosbuvir,134,8.83,6.7,5.2,88.1,Hepatitis C
+Ziprasidone,133,5.68,36.8,9.8,53.4,Bipolar Disorde
+Sildenafil,133,8.33,10.5,4.5,85.0,Erectile Dysfunction
+Amoxicillin,133,6.71,26.3,12.8,60.9,Bacterial Infection
+Lutera,133,6.5,28.6,12.8,58.6,Birth Control
+Rizatriptan,133,9.04,3.8,2.3,94.0,Migraine
+Ketorolac,133,7.4,23.3,3.0,73.7,Pain
+Junel Fe 1 / 20,133,5.39,43.6,10.5,45.9,Birth Control
+Orlistat,132,7.75,14.4,6.1,79.5,Obesity
+Cyproheptadine,131,8.49,9.2,6.9,84.0,Anorexia
+Melatonin,131,6.88,26.7,7.6,65.6,Insomnia
+Milnacipran,131,6.74,24.4,15.3,60.3,ibromyalgia
+Saphris,130,7.28,21.5,5.4,73.1,Bipolar Disorde
+Belsomra,129,3.47,70.5,3.9,25.6,Insomnia
+Adderall,129,8.19,8.5,9.3,82.2,ADHD
+Dilaudid,129,8.66,9.3,3.9,86.8,Pain
+Tamiflu,128,6.87,27.3,6.2,66.4,Influenza
+Trulicity,127,5.73,37.8,11.0,51.2,"Diabetes, Type 2"
+Methocarbamol,127,6.35,30.7,11.0,58.3,Muscle Spasm
+Oseltamivir,126,6.9,31.7,2.4,65.9,Influenza
+Yasmin,125,6.24,36.0,8.8,55.2,Birth Control
+Exenatide,123,7.33,22.0,8.1,69.9,"Diabetes, Type 2"
+Eszopiclone,123,5.76,40.7,8.1,51.2,Insomnia
+OxyContin,120,8.59,5.8,6.7,87.5,Pain
+Asenapine,120,7.6,16.7,6.7,76.7,Bipolar Disorde
+Thyroid desiccated,118,8.03,16.1,5.1,78.8,Underactive Thyroid
+Indomethacin,118,8.09,9.3,9.3,81.4,"Gout, Acute"
+Percocet,117,8.85,3.4,0.9,95.7,Pain
+Geodon,117,6.33,31.6,9.4,59.0,Bipolar Disorde
+Gildess Fe 1 / 20,117,4.49,57.3,12.8,29.9,Birth Control
+OnabotulinumtoxinA,117,6.77,30.8,5.1,64.1,Overactive Bladde
+Mesalamine,116,7.57,17.2,5.2,77.6,"Ulcerative Colitis, Active"
+Meclizine,116,7.53,15.5,12.1,72.4,Vertig
+Hydroxychloroquine,115,7.06,20.9,10.4,68.7,Rheumatoid Arthritis
+Leuprolide,115,6.45,27.0,13.0,60.0,Endometriosis
+Guanfacine,115,5.7,42.6,3.5,53.9,ADHD
+Augmentin,115,5.97,37.4,9.6,53.0,Sinusitis
+Hypercare,114,8.97,7.0,4.4,88.6,Hyperhidrosis
+Acyclovir,114,8.32,9.6,6.1,84.2,Herpes Simplex
+Phendimetrazine,113,8.47,8.0,5.3,86.7,Obesity
+Nuvigil,112,7.28,19.6,9.8,70.5,Narcolepsy
+Dicyclomine,111,7.73,13.5,10.8,75.7,Irritable Bowel Syndrome
+Zyprexa,111,6.48,27.9,10.8,61.3,Bipolar Disorde
+Guaifenesin,111,7.86,13.5,8.1,78.4,ibromyalgia
+Abreva,111,5.83,41.4,5.4,53.2,Herpes Simplex
+Carisoprodol,110,9.06,5.5,3.6,90.9,Muscle Spasm
+Etanercept,110,8.54,6.4,5.5,88.2,Rheumatoid Arthritis
+Nucynta,109,6.43,27.5,12.8,59.6,Pain
+Ethinyl estradiol / norgestrel,109,6.05,35.8,10.1,54.1,Birth Control
+Minastrin 24 Fe,108,4.88,52.8,10.2,37.0,Birth Control
+Xulane,107,6.14,33.6,11.2,55.1,Birth Control
+Dextromethorphan,107,3.72,61.7,12.1,26.2,Cough
+Acetaminophen / butalbital / caffeine,106,8.85,8.5,3.8,87.7,Headache
+Docosanol,104,6.12,38.5,1.9,59.6,Herpes Simplex
+Oxymorphone,103,7.9,14.6,5.8,79.6,Pain
+Cipro,103,5.67,41.7,8.7,49.5,Urinary Tract Infection
+Fluvoxamine,102,6.91,24.5,10.8,64.7,Obsessive Compulsive Disorde
+Cetirizine,102,6.74,25.5,14.7,59.8,Allergic Rhinitis
+Drysol,102,9.31,2.0,2.0,96.1,Hyperhidrosis
+Polyethylene glycol 3350,101,8.59,9.9,5.0,85.1,Constipation
+Hydrochlorothiazide,101,5.74,34.7,19.8,45.5,High Blood Pressure
+Drospirenone / ethinyl estradiol / levomefolate calcium,100,6.61,24.0,20.0,56.0,Birth Control
+Neurontin,100,7.54,12.0,11.0,77.0,Pain
+Acetaminophen / aspirin / caffeine,100,7.56,23.0,4.0,73.0,Migraine
+Verapamil,99,8.08,14.1,7.1,78.8,Cluster Headaches
+Ultram,99,6.47,28.3,10.1,61.6,Pain
+Flagyl,99,6.87,23.2,9.1,67.7,Bacterial Infection
+Apremilast,98,5.35,43.9,12.2,43.9,Plaque Psoriasis
+Canagliflozin,98,6.16,36.7,11.2,52.0,"Diabetes, Type 2"
+Lidocaine,98,4.72,55.1,3.1,41.8,Pain
+Invokana,98,6.23,33.7,8.2,58.2,"Diabetes, Type 2"
+Omeprazole,97,8.04,11.3,8.2,80.4,GERD
+Sodium hyaluronate,97,6.75,32.0,5.2,62.9,Osteoarthritis
+Moxifloxacin,97,7.12,20.6,10.3,69.1,Sinusitis
+Depakote,97,6.54,29.9,8.2,61.9,Bipolar Disorde
+Atorvastatin,97,5.08,48.5,11.3,40.2,High Cholesterol
+Otezla,97,5.71,37.1,15.5,47.4,Plaque Psoriasis
+Valtrex,97,9.24,3.1,2.1,94.8,Cold Sores
+Norco,97,8.08,11.3,3.1,85.6,Pain
+Botox,97,6.12,36.1,6.2,57.7,Overactive Bladde
+Prazosin,97,7.43,21.6,7.2,71.1,Post Traumatic Stress Disorde
+Valium,95,8.88,5.3,4.2,90.5,Anxiety
+MoviPrep,95,7.17,25.3,5.3,69.5,Bowel Preparation
+Bydureon,95,6.84,22.1,13.7,64.2,"Diabetes, Type 2"
+Guaifenesin / pseudoephedrine,95,6.97,21.1,8.4,70.5,Cough and Nasal Congestion
+Fluticasone,95,6.89,26.3,11.6,62.1,Allergic Rhinitis
+Pantoprazole,94,6.39,34.0,8.5,57.4,GERD
+Triamcinolone,94,7.81,19.1,4.3,76.6,Allergic Rhinitis
+Dapsone,94,7.43,23.4,4.3,72.3,Acne
+Orsythia,94,5.39,45.7,10.6,43.6,Birth Control
+Ortho Tri-Cyclen,93,5.94,35.5,16.1,48.4,Birth Control
+Viagra,93,8.65,8.6,6.5,84.9,Erectile Dysfunction
+Lubiprostone,93,6.77,26.9,6.5,66.7,"Constipation, Chronic"
+Diphenhydramine,92,6.55,29.3,4.3,66.3,Insomnia
+Enbrel,92,7.95,15.2,7.6,77.2,Rheumatoid Arthritis
+Gianvi,90,6.2,36.7,10.0,53.3,Birth Control
+Zofran,90,8.49,10.0,7.8,82.2,Nausea/Vomiting
+Levora,89,6.52,28.1,16.9,55.1,Birth Control
+Anastrozole,89,5.15,38.2,36.0,25.8,Breast Cance
+Aczone,89,7.35,23.6,3.4,73.0,Acne
+Remeron,89,7.89,9.0,13.5,77.5,Depression
+Kyleena,88,7.39,15.9,17.0,67.0,Birth Control
+Pramipexole,88,7.0,26.1,6.8,67.0,Restless Legs Syndrome
+Lunesta,87,6.85,27.6,13.8,58.6,Insomnia
+Flexeril,87,6.87,18.4,16.1,65.5,Muscle Spasm
+Paliperidone,87,6.39,28.7,10.3,60.9,Schizophrenia
+Amitiza,86,5.97,36.0,12.8,51.2,"Constipation, Chronic"
+Levocetirizine,86,6.83,24.4,11.6,64.0,Allergies
+Risperdal,85,6.26,28.2,16.5,55.3,Bipolar Disorde
+Hydrocodone,85,5.66,42.4,8.2,49.4,Pain
+Tri-Previfem,84,4.74,47.6,21.4,31.0,Birth Control
+Celecoxib,83,7.4,20.5,1.2,78.3,Pain
+Flecainide,83,7.86,15.7,8.4,75.9,Atrial Fibrillation
+Diethylpropion,82,9.17,3.7,2.4,93.9,Obesity
+Toradol,82,7.3,24.4,3.7,72.0,Pain
+Doxylamine,82,6.87,24.4,9.8,65.9,Insomnia
+Xyzal,81,6.01,38.3,6.2,55.6,Allergies
+Nebivolol,81,6.94,23.5,11.1,65.4,High Blood Pressure
+Ibuprofen,81,7.9,13.6,4.9,81.5,Pain
+Bactrim DS,81,5.6,35.8,18.5,45.7,Urinary Tract Infection
+Keppra,80,5.98,31.2,12.5,56.2,Seizures
+Acetaminophen / codeine,80,5.14,48.8,3.8,47.5,Pain
+Mucinex D,79,6.28,31.6,8.9,59.5,Cough and Nasal Congestion
+Acamprosate,79,8.76,6.3,5.1,88.6,Alcohol Dependence
+Levomilnacipran,79,5.05,45.6,13.9,40.5,Major Depressive Disorde
+Dextroamphetamine,79,8.84,5.1,2.5,92.4,ADHD
+Tranexamic acid,79,7.47,24.1,3.8,72.2,Menstrual Disorders
+Chateal,78,5.86,39.7,16.7,43.6,Birth Control
+Dexlansoprazole,77,7.58,18.2,5.2,76.6,GERD
+Mononessa,77,5.97,35.1,15.6,49.4,Birth Control
+Seroquel XR,77,7.43,20.8,10.4,68.8,Bipolar Disorde
+Alesse,77,5.61,37.7,18.2,44.2,Birth Control
+Flomax,77,6.51,28.6,19.5,51.9,Benign Prostatic Hyperplasia
+Simvastatin,76,5.09,46.1,13.2,40.8,High Cholesterol
+Mirabegron,76,5.5,39.5,15.8,44.7,Overactive Bladde
+Duac,76,7.46,14.5,13.2,72.4,Acne
+Provigil,76,8.11,13.2,7.9,78.9,Narcolepsy
+Vistaril,75,6.08,33.3,8.0,58.7,Anxiety
+Lortab,75,8.73,6.7,2.7,90.7,Pain
+Scopolamine,75,7.24,22.7,10.7,66.7,Motion Sickness
+Clomipramine,74,8.53,5.4,6.8,87.8,Obsessive Compulsive Disorde
+Differin,74,7.15,24.3,2.7,73.0,Acne
+Eluxadoline,73,6.92,21.9,16.4,61.6,Irritable Bowel Syndrome
+Elavil,73,8.21,5.5,13.7,80.8,Pain
+Soma,73,9.15,4.1,1.4,94.5,Muscle Spasm
+Infliximab,72,7.49,22.2,5.6,72.2,Ulcerative Colitis
+Finasteride,72,5.64,36.1,11.1,52.8,Androgenetic Alopecia
+Cryselle,71,5.48,45.1,8.5,46.5,Birth Control
+Chlorpheniramine / hydrocodone,71,9.46,2.8,0.0,97.2,Cough
+Ivermectin,71,7.35,26.8,1.4,71.8,Rosacea
+Carvedilol,71,5.54,42.3,11.3,46.5,High Blood Pressure
+Reclipsen,70,6.14,31.4,18.6,50.0,Birth Control
+Letrozole,70,6.19,31.4,14.3,54.3,Breast Cance
+Acetazolamide,70,6.83,22.9,12.9,64.3,Pseudotumor Cerebri
+Movantik,70,4.69,52.9,10.0,37.1,"Constipation, Drug Induced"
+Acetaminophen / propoxyphene,70,7.57,17.1,8.6,74.3,Pain
+Ranitidine,69,7.65,18.8,2.9,78.3,GERD
+Imitrex,69,7.96,11.6,11.6,76.8,Migraine
+Generess Fe,69,6.49,29.0,14.5,56.5,Birth Control
+Nicotine,68,8.15,13.2,5.9,80.9,Smoking Cessation
+Mometasone,68,8.01,16.2,5.9,77.9,Eczema
+Naloxegol,68,4.6,57.4,4.4,38.2,"Constipation, Drug Induced"
+Hylan g-f 20,68,6.1,36.8,2.9,60.3,Osteoarthritis
+Remicade,67,7.78,16.4,10.4,73.1,Rheumatoid Arthritis
+Omalizumab,67,8.12,16.4,4.5,79.1,Urticaria
+Adderall XR,67,7.93,10.4,9.0,80.6,ADHD
+Vicodin,66,7.98,10.6,10.6,78.8,Pain
+Esomeprazole,66,8.15,13.6,9.1,77.3,GERD
+Vardenafil,66,7.76,13.6,4.5,81.8,Erectile Dysfunction
+Reglan,66,4.82,56.1,0.0,43.9,Migraine
+Albuterol,66,5.15,43.9,12.1,43.9,"Asthma, acute"
+Dexmethylphenidate,66,7.58,15.2,6.1,78.8,ADHD
+Synthroid,66,6.52,33.3,7.6,59.1,Underactive Thyroid
+Celebrex,66,7.62,15.2,7.6,77.3,Osteoarthritis
+Bystolic,66,6.55,33.3,6.1,60.6,High Blood Pressure
+Armour Thyroid,65,7.34,24.6,4.6,70.8,Underactive Thyroid
+Brexpiprazole,65,6.4,29.2,16.9,53.8,Major Depressive Disorde
+Butrans,65,6.31,30.8,12.3,56.9,Chronic Pain
+Beyaz,65,6.74,23.1,13.8,63.1,Birth Control
+Chlordiazepoxide,65,9.29,4.6,3.1,92.3,Alcohol Withdrawal
+Phenazopyridine,65,7.02,27.7,4.6,67.7,Dysuria
+Singulair,64,7.17,25.0,7.8,67.2,Allergic Rhinitis
+Diltiazem,64,6.83,25.0,18.8,56.2,High Blood Pressure
+Monistat 3-Day Combination Pack,64,3.94,56.2,14.1,29.7,Vaginal Yeast Infection
+Hyaluronan,63,6.51,31.7,9.5,58.7,Osteoarthritis
+Magnesium hydroxide,63,8.52,7.9,7.9,84.1,Constipation
+Ocella,62,6.85,21.0,14.5,64.5,Birth Control
+Prochlorperazine,62,4.87,51.6,4.8,43.5,Nausea/Vomiting
+Estarylla,62,4.03,62.9,0.0,37.1,Birth Control
+Avelox,62,6.61,30.6,8.1,61.3,Sinusitis
+Rituximab,61,7.85,11.5,8.2,80.3,Rheumatoid Arthritis
+Campral,61,9.05,1.6,4.9,93.4,Alcohol Dependence
+Minoxidil,61,6.07,34.4,9.8,55.7,Alopecia
+Brimonidine,61,3.2,73.8,4.9,21.3,Rosacea
+Metaxalone,61,7.79,14.8,8.2,77.0,Muscle Spasm
+Cholestyramine,60,9.17,5.0,1.7,93.3,Irritable Bowel Syndrome
+Clindamycin / tretinoin,60,7.28,18.3,10.0,71.7,Acne
+Prepopik,60,6.3,38.3,1.7,60.0,Bowel Preparation
+Acetaminophen / dichloralphenazone / isometheptene mucate,59,8.78,3.4,8.5,88.1,Headache
+Fexofenadine,59,7.59,22.0,3.4,74.6,Allergic Rhinitis
+Voltaren Gel,59,7.93,15.3,5.1,79.7,Pain
+Zolmitriptan,59,7.75,16.9,3.4,79.7,Migraine
+Relpax,59,8.85,8.5,1.7,89.8,Migraine
+Terconazole,59,6.41,30.5,10.2,59.3,Vaginal Yeast Infection
+Blisovi 24 Fe,59,3.34,72.9,5.1,22.0,Birth Control
+Eletriptan,58,8.6,10.3,3.4,86.2,Migraine
+Olmesartan,58,7.66,17.2,12.1,70.7,High Blood Pressure
+Clobetasol,58,9.24,1.7,6.9,91.4,Psoriasis
+Jolessa,58,6.07,32.8,15.5,51.7,Birth Control
+Zaleplon,57,5.68,42.1,5.3,52.6,Insomnia
+Sronyx,57,5.37,43.9,17.5,38.6,Birth Control
+Meridia,57,8.14,14.0,7.0,78.9,Obesity
+Euflexxa,57,6.81,28.1,8.8,63.2,Osteoarthritis
+Cefuroxime,57,6.47,31.6,10.5,57.9,Sinusitis
+Intuniv,57,6.02,38.6,7.0,54.4,ADHD
+Zithromax,56,7.3,17.9,12.5,69.6,Bronchitis
+Oxymetazoline,56,4.93,53.6,3.6,42.9,Nasal Congestion
+Valsartan,56,5.64,41.1,14.3,44.6,High Blood Pressure
+Dexilant,56,6.55,33.9,3.6,62.5,GERD
+Delsym,56,3.79,64.3,10.7,25.0,Cough
+Solifenacin,55,6.09,32.7,14.5,52.7,Overactive Bladde
+Sulfasalazine,55,5.67,40.0,12.7,47.3,Rheumatoid Arthritis
+Ritalin,55,7.47,20.0,3.6,76.4,ADHD
+Ustekinumab,55,7.84,18.2,1.8,80.0,Psoriasis
+St. john's wort,55,8.64,5.5,5.5,89.1,Depression
+Fluorouracil,55,7.73,14.5,7.3,78.2,Keratosis
+Voltaren,55,8.15,12.7,3.6,83.6,Pain
+Fioricet,54,8.59,9.3,3.7,87.0,Headache
+Rexulti,54,6.63,29.6,7.4,63.0,Major Depressive Disorde
+Lupron Depot,54,6.07,33.3,9.3,57.4,Endometriosis
+Homatropine / hydrocodone,54,7.61,16.7,9.3,74.1,Cough
+Dexamethasone,54,7.06,22.2,7.4,70.4,Inflammatory Conditions
+Fetzima,54,4.96,51.9,9.3,38.9,Major Depressive Disorde
+L-methylfolate,54,8.7,7.4,3.7,88.9,Depression
+Budesonide / formoterol,53,6.98,26.4,13.2,60.4,moterol)
+Xarelto,53,6.15,32.1,9.4,58.5,Pulmonary Embolism
+Provera,53,6.17,34.0,13.2,52.8,Abnormal Uterine Bleeding
+Tegretol,53,6.92,22.6,15.1,62.3,Bipolar Disorde
+Nifedipine,53,6.92,20.8,11.3,67.9,Raynaud's Syndrome
+Librium,53,8.87,3.8,5.7,90.6,Alcohol Withdrawal
+Rivaroxaban,53,6.45,30.2,7.5,62.3,Deep Vein Thrombosis
+Efavirenz / emtricitabine / tenofovir,52,9.19,1.9,0.0,98.1,HIV Infection
+Viberzi,52,6.27,36.5,7.7,55.8,Irritable Bowel Syndrome
+Zonisamide,51,6.55,27.5,5.9,66.7,Seizures
+Symbicort,51,7.98,13.7,11.8,74.5,"Asthma, Maintenance"
+Myrbetriq,51,5.65,47.1,5.9,47.1,Overactive Bladde
+Copaxone,51,7.88,9.8,11.8,78.4,Multiple Sclerosis
+Citric acid / magnesium oxide / sodium picosulfate,51,6.02,39.2,5.9,54.9,Bowel Preparation
+Mobic,50,7.74,14.0,6.0,80.0,Osteoarthritis
+Glatiramer,50,7.82,20.0,4.0,76.0,Multiple Sclerosis
+VESIcare,50,5.76,44.0,4.0,52.0,Overactive Bladde
+Efinaconazole,50,5.68,46.0,4.0,50.0,"Onychomycosis, Toenail"
+Etodolac,50,7.68,18.0,4.0,78.0,Pain
+Ramipril,50,6.8,22.0,18.0,60.0,High Blood Pressure
+Stelara,49,8.63,6.1,4.1,89.8,Psoriasis
+Rosuvastatin,49,6.73,28.6,14.3,57.1,High Cholesterol
+LoSeasonique,49,5.84,38.8,14.3,46.9,Birth Control
+Orthovisc,49,7.2,22.4,6.1,71.4,Osteoarthritis
+Lysine,49,9.12,6.1,2.0,91.8,"Herpes Simplex, Suppression"
+Phillips' Milk of Magnesia,48,8.81,6.2,2.1,91.7,Constipation
+Primidone,48,5.81,37.5,16.7,45.8,Benign Essential Trem
+Nexium,48,8.04,12.5,12.5,75.0,GERD
+Lifitegrast,48,5.38,45.8,10.4,43.8,Dry Eye Disease
+Jublia,48,5.62,45.8,2.1,52.1,"Onychomycosis, Toenail"
+Treximet,48,9.06,6.2,0.0,93.8,Migraine
+MS Contin,48,8.21,6.2,8.3,85.4,Pain
+Tamoxifen,47,6.38,25.5,10.6,63.8,Breast Cance
+Silenor,47,6.64,36.2,2.1,61.7,Insomnia
+Mucinex,47,7.09,21.3,10.6,68.1,Cough
+Solodyn,47,6.91,25.5,8.5,66.0,Acne
+Multivitamin,47,6.4,34.0,6.4,59.6,Dietary Supplementation
+Requip,47,6.4,31.9,6.4,61.7,Restless Legs Syndrome
+Allopurinol,47,7.89,14.9,2.1,83.0,Gout
+Haloperidol,47,5.98,34.0,8.5,57.4,Psychosis
+Zanaflex,47,7.43,19.1,10.6,70.2,Muscle Spasm
+Fluticasone / salmeterol,47,8.21,8.5,8.5,83.0,"Asthma, Maintenance"
+Aftera,46,6.28,39.1,0.0,60.9,Emergency Contraception
+Levitra,46,8.59,13.0,0.0,87.0,Erectile Dysfunction
+Azelastine,46,7.3,23.9,6.5,69.6,Allergic Rhinitis
+Tinidazole,46,7.76,10.9,8.7,80.4,Bacterial Vaginitis
+Aubra,46,6.13,43.5,6.5,50.0,Birth Control
+Jolivette,46,5.59,37.0,13.0,50.0,Birth Control
+Azelaic acid,46,7.98,13.0,6.5,80.4,Rosacea
+Kariva,46,5.78,41.3,10.9,47.8,Birth Control
+Niacin,45,7.82,15.6,11.1,73.3,High Cholesterol
+Colchicine,45,7.89,13.3,4.4,82.2,"Gout, Acute"
+Silver sulfadiazine,45,9.8,2.2,0.0,97.8,"Burns, External"
+Hyoscyamine,45,8.51,6.7,6.7,86.7,Irritable Bowel Syndrome
+Wellbutrin SR,45,7.22,17.8,11.1,71.1,Depression
+Nabumetone,45,5.36,42.2,8.9,48.9,Back Pain
+Lacosamide,45,7.2,13.3,15.6,71.1,Seizures
+Mirapex,45,7.73,17.8,8.9,73.3,Restless Legs Syndrome
+Azathioprine,45,6.13,28.9,11.1,60.0,Ulcerative Colitis
+Opana,45,8.02,8.9,4.4,86.7,Pain
+Cariprazine,45,6.71,33.3,0.0,66.7,Bipolar Disorde
+Rapaflo,45,6.64,17.8,22.2,60.0,Benign Prostatic Hyperplasia
+Maxalt,44,8.82,9.1,0.0,90.9,Migraine
+Megestrol,44,7.48,18.2,9.1,72.7,Abnormal Uterine Bleeding
+Codeine / promethazine,44,7.23,27.3,4.5,68.2,Cough
+Silodosin,44,5.41,36.4,18.2,45.5,Benign Prostatic Hyperplasia
+Axiron,43,7.05,25.6,7.0,67.4,"Hypogonadism, Male"
+Rifaximin,43,6.84,32.6,2.3,65.1,Irritable Bowel Syndrome
+Diclegis,43,6.77,25.6,9.3,65.1,Nausea/Vomiting of Pregnancy
+Naproxen / sumatriptan,43,8.91,7.0,2.3,90.7,Migraine
+Atripla,43,9.0,4.7,2.3,93.0,HIV Infection
+Alprostadil,43,8.07,14.0,2.3,83.7,Erectile Dysfunction
+Senna,43,6.47,27.9,16.3,55.8,Constipation
+Zyrtec,43,7.58,18.6,4.7,76.7,Allergic Rhinitis
+Tylenol with Codeine #3,43,5.12,46.5,9.3,44.2,Pain
+Gilenya,43,7.49,11.6,16.3,72.1,Multiple Sclerosis
+Testim,43,6.14,27.9,14.0,58.1,"Hypogonadism, Male"
+Bismuth subcitrate potassium / metronidazole / tetracycline,43,5.63,41.9,11.6,46.5,Helicobacter Pylori Infection
+Dexedrine,43,8.42,7.0,4.7,88.4,ADHD
+Natalizumab,43,7.67,14.0,16.3,69.8,Multiple Sclerosis
+Nora-Be,42,5.5,42.9,7.1,50.0,Birth Control
+Cobicistat / elvitegravir / emtricitabine / tenofovir,42,9.38,2.4,4.8,92.9,HIV Infection
+Luvox,42,7.43,19.0,9.5,71.4,Obsessive Compulsive Disorde
+Benicar,42,7.55,14.3,14.3,71.4,High Blood Pressure
+Denosumab,42,3.88,64.3,7.1,28.6,Osteoporosis
+Xenical,42,8.26,9.5,7.1,83.3,Obesity
+MiraLax,42,8.02,14.3,7.1,78.6,Constipation
+Monistat 7-Day Combination Pack,42,4.14,59.5,9.5,31.0,Vaginal Yeast Infection
+Aspirin / butalbital / caffeine,41,8.78,4.9,2.4,92.7,Migraine
+Pylera,41,6.68,17.1,22.0,61.0,Helicobacter Pylori Infection
+Phenytoin,41,7.39,19.5,4.9,75.6,Epilepsy
+Opana ER,41,7.68,17.1,2.4,80.5,Pain
+Sitagliptin,41,6.05,31.7,17.1,51.2,"Diabetes, Type 2"
+Capsaicin,41,6.15,31.7,9.8,58.5,Pain
+Budesonide,40,7.18,25.0,2.5,72.5,Ulcerative Colitis
+Diflucan,40,7.18,27.5,2.5,70.0,Vaginal Yeast Infection
+Plaquenil,40,7.08,25.0,7.5,67.5,Rheumatoid Arthritis
+AndroGel,40,7.55,17.5,5.0,77.5,"Hypogonadism, Male"
+Vimpat,40,6.85,15.0,25.0,60.0,Seizures
+Codeine / guaifenesin,40,6.55,27.5,15.0,57.5,Cough
+Atarax,40,6.85,25.0,5.0,70.0,Anxiety
+Mirvaso,39,3.62,69.2,0.0,30.8,Rosacea
+Dapagliflozin,39,4.87,51.3,10.3,38.5,"Diabetes, Type 2"
+Camrese,39,5.1,51.3,7.7,41.0,Birth Control
+Monistat 7,39,3.18,71.8,7.7,20.5,Vaginal Yeast Infection
+Lialda,39,7.56,20.5,5.1,74.4,"Ulcerative Colitis, Active"
+Claravis,39,8.05,5.1,12.8,82.1,Acne
+ella,39,7.31,23.1,7.7,69.2,Emergency Contraception
+Tri-Lo-Sprintec,38,4.05,65.8,2.6,31.6,Birth Control
+Amoxicillin / clarithromycin / lansoprazole,38,6.95,15.8,21.1,63.2,Helicobacter Pylori Infection
+Crestor,38,6.32,36.8,13.2,50.0,High Cholesterol
+Sodium oxybate,38,8.21,10.5,2.6,86.8,Narcolepsy
+Alfuzosin,38,5.76,34.2,18.4,47.4,Benign Prostatic Hyperplasia
+Advair Diskus,38,6.84,28.9,5.3,65.8,"Asthma, Maintenance"
+Subutex,38,9.37,0.0,0.0,100.0,Opiate Dependence
+Phenergan,38,8.05,18.4,0.0,81.6,Nausea/Vomiting
+Sofosbuvir / velpatasvir,38,7.79,7.9,13.2,78.9,Hepatitis C
+Portia,38,5.79,36.8,18.4,44.7,Birth Control
+"Multivitamin, prenatal",38,8.74,7.9,7.9,84.2,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Furosemide,38,7.47,13.2,18.4,68.4,Edema
+Xiidra,38,5.71,44.7,5.3,50.0,Dry Eye Disease
+Hydrochlorothiazide / triamterene,38,6.13,31.6,15.8,52.6,High Blood Pressure
+Aleve,38,7.84,15.8,5.3,78.9,Back Pain
+Tacrolimus,38,7.45,18.4,5.3,76.3,Atopic Dermatitis
+Hydrocodone / ibuprofen,38,8.97,2.6,2.6,94.7,Pain
+Irbesartan,37,5.0,43.2,24.3,32.4,High Blood Pressure
+Deplin,37,6.65,27.0,5.4,67.6,Depression
+Lansoprazole,37,8.19,10.8,13.5,75.7,GERD
+Dabigatran,37,6.97,13.5,24.3,62.2,Prevention of Thromboembolism in Atrial Fibrillation
+Loratadine,37,5.92,35.1,10.8,54.1,Allergic Rhinitis
+Synvisc-One,37,6.38,32.4,10.8,56.8,Osteoarthritis
+Hydrochlorothiazide / lisinopril,37,6.76,24.3,13.5,62.2,High Blood Pressure
+Doxylamine / pyridoxine,37,6.7,35.1,0.0,64.9,Nausea/Vomiting of Pregnancy
+Lyza,37,5.97,37.8,16.2,45.9,Birth Control
+Zyban,37,8.86,8.1,5.4,86.5,Smoking Cessation
+Trileptal,36,7.97,11.1,8.3,80.6,Bipolar Disorde
+Disulfiram,36,8.19,16.7,0.0,83.3,Alcohol Dependence
+Codeine,36,8.08,11.1,8.3,80.6,Pain
+Xolair,36,8.28,16.7,2.8,80.6,"Asthma, Maintenance"
+Alli,36,6.67,30.6,2.8,66.7,Obesity
+Xyrem,36,8.39,11.1,0.0,88.9,Narcolepsy
+Pseudoephedrine,36,7.17,27.8,0.0,72.2,Nasal Congestion
+Ulipristal,36,7.11,25.0,8.3,66.7,Emergency Contraception
+Interferon beta-1a,36,8.14,11.1,5.6,83.3,Multiple Sclerosis
+Lactulose,36,8.53,8.3,2.8,88.9,"Constipation, Chronic"
+Leflunomide,36,6.56,25.0,13.9,61.1,Rheumatoid Arthritis
+Colesevelam,35,8.6,8.6,8.6,82.9,"Diarrhea, Chronic"
+Biaxin,35,5.69,37.1,14.3,48.6,Sinusitis
+Triumeq,35,8.63,11.4,0.0,88.6,HIV Infection
+Amiodarone,35,5.63,40.0,5.7,54.3,Arrhythmia
+Blisovi Fe 1 / 20,35,3.29,74.3,2.9,22.9,Birth Control
+Azelastine / fluticasone,35,6.09,37.1,14.3,48.6,Allergic Rhinitis
+Abacavir / dolutegravir / lamivudine,35,8.2,8.6,17.1,74.3,HIV Infection
+Pradaxa,35,7.2,20.0,14.3,65.7,Prevention of Thromboembolism in Atrial Fibrillation
+Tiotropium,35,7.23,17.1,17.1,65.7,"COPD, Maintenance"
+Mefenamic acid,35,6.03,37.1,8.6,54.3,Period Pain
+Vraylar,35,6.49,31.4,5.7,62.9,Bipolar Disorde
+Bentyl,34,7.88,14.7,2.9,82.4,Irritable Bowel Syndrome
+Fluticasone / vilanterol,34,6.91,29.4,5.9,64.7,Asthma
+Stribild,34,9.56,2.9,0.0,97.1,HIV Infection
+Pentosan polysulfate sodium,34,8.53,8.8,8.8,82.4,Interstitial Cystitis
+Focalin XR,34,7.85,11.8,5.9,82.4,ADHD
+Ceftriaxone,34,8.12,14.7,5.9,79.4,Bacterial Infection
+Donepezil,33,5.0,51.5,6.1,42.4,Alzheimer's Disease
+Norvasc,33,5.09,48.5,9.1,42.4,High Blood Pressure
+Conjugated estrogens,33,8.09,15.2,6.1,78.8,Postmenopausal Symptoms
+Transderm-Scop,33,6.06,30.3,18.2,51.5,Motion Sickness
+Demerol,33,9.3,3.0,0.0,97.0,Pain
+Oxazepam,33,9.12,0.0,0.0,100.0,Anxiety
+Microgestin Fe 1.5 / 30,33,5.85,42.4,6.1,51.5,Birth Control
+Anafranil,33,7.94,12.1,3.0,84.8,Obsessive Compulsive Disorde
+Rocephin,33,8.76,9.1,3.0,87.9,Urinary Tract Infection
+Inderal,33,7.36,21.2,0.0,78.8,Migraine Prevention
+Clopidogrel,33,7.42,21.2,9.1,69.7,Heart Attack
+Soolantra,33,7.36,24.2,3.0,72.7,Rosacea
+Zomig,33,7.7,21.2,6.1,72.7,Migraine
+Skelaxin,33,7.3,21.2,3.0,75.8,Muscle Spasm
+Golimumab,33,6.85,24.2,12.1,63.6,Rheumatoid Arthritis
+Tysabri,33,8.3,15.2,3.0,81.8,Multiple Sclerosis
+Insulin glargine,32,6.56,28.1,15.6,56.2,"Diabetes, Type 2"
+Zarah,32,6.38,31.2,15.6,53.1,Birth Control
+Exemestane,32,4.5,50.0,21.9,28.1,Breast Cance
+Duragesic,32,8.12,6.2,3.1,90.6,Pain
+Forteo,32,6.25,37.5,6.2,56.2,Osteoporosis
+Safyral,32,5.91,34.4,18.8,46.9,Birth Control
+Cyclosporine,32,5.41,46.9,6.2,46.9,Keratoconjunctivitis Sicca
+Invega,32,5.53,37.5,15.6,46.9,Schizoaffective Disorde
+Genvoya,32,8.16,12.5,6.2,81.2,HIV Infection
+Triazolam,32,9.06,3.1,3.1,93.8,Insomnia
+Hydrocortisone,32,7.81,15.6,12.5,71.9,Eczema
+Ampyra,32,8.41,9.4,6.2,84.4,Multiple Sclerosis
+Microgestin 1 / 20,32,6.25,31.2,18.8,50.0,Birth Control
+Dymista,31,7.42,25.8,3.2,71.0,Allergic Rhinitis
+Ziana,31,7.52,22.6,3.2,74.2,Acne
+Glipizide,31,6.55,29.0,16.1,54.8,"Diabetes, Type 2"
+Zoledronic acid,31,5.19,48.4,6.5,45.2,Osteoporosis
+Ramelteon,31,4.58,58.1,3.2,38.7,Insomnia
+Mycophenolate mofetil,31,8.29,6.5,6.5,87.1,Myasthenia Gravis
+Jardiance,31,6.32,32.3,6.5,61.3,"Diabetes, Type 2"
+Sucralfate,31,7.68,16.1,6.5,77.4,GERD
+Ranolazine,31,7.23,25.8,3.2,71.0,Angina
+Acetaminophen / tramadol,31,7.39,22.6,3.2,74.2,Pain
+Vivitrol,31,7.94,16.1,3.2,80.6,Opiate Dependence
+Tolterodine,31,6.16,35.5,12.9,51.6,Overactive Bladde
+Meperidine,31,9.06,3.2,3.2,93.5,Pain
+Amphetamine,31,6.35,32.3,6.5,61.3,ADHD
+Daytrana,31,8.29,9.7,6.5,83.9,ADHD
+Ocular lubricant,31,6.29,38.7,0.0,61.3,Eye Redness
+Fentanyl Transdermal System,30,7.73,10.0,3.3,86.7,Chronic Pain
+Rozerem,30,4.7,53.3,6.7,40.0,Insomnia
+Sotalol,30,7.0,23.3,13.3,63.3,Atrial Fibrillation
+Prolia,30,3.57,66.7,13.3,20.0,Osteoporosis
+Propafenone,30,8.0,10.0,10.0,80.0,Atrial Fibrillation
+Acanya,30,8.2,16.7,0.0,83.3,Acne
+Glimepiride,30,7.73,13.3,3.3,83.3,"Diabetes, Type 2"
+Byetta,30,8.6,0.0,13.3,86.7,"Diabetes, Type 2"
+Flonase,30,6.83,33.3,3.3,63.3,Rhinitis
+Fiorinal,30,8.4,13.3,3.3,83.3,Migraine
+Acetaminophen,30,7.8,16.7,6.7,76.7,Pain
+Afrezza,30,7.33,26.7,0.0,73.3,"Diabetes, Type 1"
+Chlorzoxazone,30,7.37,20.0,6.7,73.3,Muscle Spasm
+Tessalon Perles,30,5.73,46.7,6.7,46.7,Cough
+Imipramine,30,7.03,26.7,3.3,70.0,Depression
+Clomiphene,30,6.8,30.0,10.0,60.0,emale Infertility
+Famciclovir,29,8.31,6.9,10.3,82.8,Cold Sores
+Ambien CR,29,6.97,20.7,13.8,65.5,Insomnia
+Cabergoline,29,7.93,10.3,10.3,79.3,Hyperprolactinemia
+Elmiron,29,6.69,31.0,3.4,65.5,Interstitial Cystitis
+Spiriva,29,6.28,31.0,20.7,48.3,"COPD, Maintenance"
+Lamisil,29,7.76,20.7,3.4,75.9,"Onychomycosis, Toenail"
+Loperamide,29,8.9,10.3,0.0,89.7,Diarrhea
+Ortho Micronor,29,5.93,37.9,6.9,55.2,Birth Control
+Olopatadine,29,7.9,13.8,10.3,75.9,Seasonal Allergic Conjunctivitis
+Tranylcypromine,29,8.72,6.9,6.9,86.2,Depression
+Simponi,29,7.14,24.1,6.9,69.0,Rheumatoid Arthritis
+Fluocinonide,29,8.34,17.2,3.4,79.3,Psoriasis
+Butorphanol,29,7.97,13.8,13.8,72.4,Pain
+Maxalt-MLT,29,8.76,6.9,3.4,89.7,Migraine
+Sulfacetamide sodium / sulfur,28,7.89,17.9,3.6,78.6,Acne
+Pentasa,28,7.86,7.1,14.3,78.6,"Crohn's Disease, Maintenance"
+Depakote ER,28,7.57,17.9,3.6,78.6,Bipolar Disorde
+Breo Ellipta,28,6.79,32.1,7.1,60.7,Asthma
+Taytulla,28,5.29,53.6,3.6,42.9,Birth Control
+Atropine / diphenoxylate,28,8.36,14.3,3.6,82.1,Diarrhea
+Loratadine / pseudoephedrine,28,6.39,35.7,7.1,57.1,Nasal Congestion
+Apixaban,28,5.79,35.7,10.7,53.6,Prevention of Thromboembolism in Atrial Fibrillation
+Tussionex Pennkinetic,28,8.46,3.6,21.4,75.0,Cough
+Robaxin,28,6.82,25.0,10.7,64.3,Muscle Spasm
+Fluoxetine / olanzapine,28,8.5,3.6,0.0,96.4,Bipolar Disorde
+Tenuate,28,9.29,3.6,3.6,92.9,Obesity
+Pravastatin,27,4.63,48.1,25.9,25.9,High Cholesterol
+Prednisolone,27,5.56,37.0,18.5,44.4,Inflammatory Conditions
+Votrient,27,8.63,0.0,14.8,85.2,Renal Cell Carcinoma
+Diovan,27,6.59,29.6,14.8,55.6,High Blood Pressure
+Clomid,27,7.96,18.5,0.0,81.5,emale Infertility
+Livalo,27,5.85,29.6,18.5,51.9,High Cholesterol
+Secukinumab,27,6.89,33.3,3.7,63.0,Plaque Psoriasis
+Dofetilide,27,7.7,14.8,11.1,74.1,Arrhythmia
+Fingolimod,27,7.3,18.5,3.7,77.8,Multiple Sclerosis
+Quasense,27,5.44,33.3,29.6,37.0,Birth Control
+Eflornithine,27,7.81,14.8,11.1,74.1,Hirsutism
+Rabeprazole,27,8.37,14.8,3.7,81.5,GERD
+Vaniqa,27,8.44,14.8,0.0,85.2,Hirsutism
+Drixoral Cold and Allergy,27,9.93,0.0,0.0,100.0,Allergic Rhinitis
+Chlordiazepoxide / clidinium,27,8.85,7.4,3.7,88.9,Irritable Bowel Syndrome
+Azor,27,8.89,7.4,3.7,88.9,High Blood Pressure
+Diclofenac / misoprostol,27,8.26,11.1,7.4,81.5,Osteoarthritis
+Prevacid,27,8.04,18.5,3.7,77.8,GERD
+Toprol-XL,27,7.44,11.1,25.9,63.0,High Blood Pressure
+Pazopanib,27,8.04,11.1,14.8,74.1,Renal Cell Carcinoma
+Dexbrompheniramine / pseudoephedrine,27,9.96,0.0,0.0,100.0,Nasal Congestion
+Orphenadrine,27,7.44,22.2,7.4,70.4,Muscle Spasm
+Amlodipine / olmesartan,26,8.35,7.7,11.5,80.8,High Blood Pressure
+Isosorbide mononitrate,26,5.19,50.0,0.0,50.0,Angina Pectoris Prophylaxis
+Arimidex,26,6.23,38.5,7.7,53.8,Breast Cance
+Parnate,26,8.31,11.5,3.8,84.6,Depression
+Endocet,26,8.23,3.8,15.4,80.8,Pain
+Benadryl,26,7.73,15.4,3.8,80.8,Allergic Rhinitis
+Ezetimibe,26,5.77,46.2,7.7,46.2,High Cholesterol
+Morphine / naltrexone,26,5.23,46.2,3.8,50.0,Chronic Pain
+Fluocinolone / hydroquinone / tretinoin,26,9.19,7.7,0.0,92.3,Melasma
+Hydrochlorothiazide / losartan,26,6.88,26.9,7.7,65.4,High Blood Pressure
+Protonix,26,7.88,15.4,7.7,76.9,GERD
+Betamethasone / calcipotriene,26,7.23,23.1,7.7,69.2,Psoriasis
+Zubsolv,26,7.62,15.4,3.8,80.8,Opiate Dependence
+Allegra,26,6.85,26.9,11.5,61.5,Allergic Rhinitis
+Farxiga,26,5.04,38.5,30.8,30.8,"Diabetes, Type 2"
+Warfarin,26,8.12,11.5,3.8,84.6,"Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis"
+Fenofibrate,26,6.0,34.6,15.4,50.0,Hypertriglyceridemia
+Restoril,26,7.73,7.7,19.2,73.1,Insomnia
+Evolocumab,26,7.96,15.4,11.5,73.1,High Cholesterol
+Januvia,26,5.42,42.3,19.2,38.5,"Diabetes, Type 2"
+Sovaldi,26,8.19,11.5,11.5,76.9,Hepatitis C
+Antabuse,26,9.08,3.8,7.7,88.5,Alcohol Dependence
+Complera,26,8.42,7.7,7.7,84.6,HIV Infection
+Nefazodone,26,8.62,11.5,3.8,84.6,Depression
+Desonide,25,9.04,4.0,0.0,96.0,Eczema
+Epclusa,25,8.32,4.0,16.0,80.0,Hepatitis C
+Finacea,25,8.16,16.0,0.0,84.0,Rosacea
+Liothyronine,25,7.96,16.0,8.0,76.0,Underactive Thyroid
+Ethinyl estradiol / ethynodiol,25,5.92,40.0,4.0,56.0,Birth Control
+Natazia,25,6.8,32.0,12.0,56.0,Birth Control
+Carbidopa / levodopa,25,7.88,12.0,8.0,80.0,Restless Legs Syndrome
+Focalin,25,6.44,28.0,12.0,60.0,ADHD
+Hydroxyprogesterone,25,5.72,48.0,0.0,52.0,Premature Lab
+Trolamine salicylate,25,7.96,12.0,4.0,84.0,Pain
+Terazosin,25,7.4,20.0,8.0,72.0,Benign Prostatic Hyperplasia
+Doryx,25,6.96,28.0,0.0,72.0,Acne
+Benzaclin,25,9.12,4.0,4.0,92.0,Acne
+Uloric,25,8.56,8.0,4.0,88.0,Gout
+Loryna,25,4.84,52.0,4.0,44.0,Birth Control
+Zovia,25,6.24,32.0,16.0,52.0,Birth Control
+Teriparatide,25,6.56,32.0,12.0,56.0,Osteoporosis
+Ortho Cyclen,25,6.76,32.0,8.0,60.0,Birth Control
+Ketoconazole,25,7.12,28.0,8.0,64.0,Seborrheic Dermatitis
+Lupron,24,5.21,50.0,4.2,45.8,Prostate Cance
+Dronabinol,24,8.38,12.5,0.0,87.5,"Nausea/Vomiting, Chemotherapy Induced"
+Doxazosin,24,7.62,8.3,25.0,66.7,Benign Prostatic Hyperplasia
+Nadolol,24,8.25,12.5,4.2,83.3,Migraine Prevention
+Plecanatide,24,7.12,25.0,8.3,66.7,Chronic Idiopathic Constipation
+Erythromycin,24,6.96,20.8,12.5,66.7,Upper Respiratory Tract Infection
+Eliquis,24,6.25,29.2,20.8,50.0,Prevention of Thromboembolism in Atrial Fibrillation
+Emollients,24,6.04,37.5,4.2,58.3,Dry Skin
+"Insulin inhalation, rapid acting",24,7.88,20.8,4.2,75.0,"Diabetes, Type 2"
+Emtricitabine / rilpivirine / tenofovir,24,8.08,12.5,0.0,87.5,HIV Infection
+Roxicodone,24,8.62,0.0,16.7,83.3,Pain
+Selegiline,24,8.29,8.3,4.2,87.5,Depression
+Benzoyl peroxide / erythromycin,24,8.71,0.0,8.3,91.7,Acne
+Beclomethasone,24,7.0,25.0,4.2,70.8,"Asthma, Maintenance"
+Sodium biphosphate / sodium phosphate,24,8.75,8.3,4.2,87.5,Constipation
+Amlodipine / benazepril,23,6.17,30.4,17.4,52.2,High Blood Pressure
+Aciphex,23,9.43,0.0,4.3,95.7,GERD
+Tri-Luma,23,8.39,13.0,4.3,82.6,Melasma
+Amantadine,23,6.74,21.7,17.4,60.9,Parkinson's Disease
+Lysteda,23,8.7,13.0,0.0,87.0,Menorrhagia
+Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,23,7.7,21.7,0.0,78.3,HIV Infection
+Flector Patch,23,7.61,17.4,4.3,78.3,Pain
+Clozapine,23,8.48,13.0,0.0,87.0,Schizophrenia
+Zyclara,23,7.3,13.0,8.7,78.3,Keratosis
+Valproic acid,23,6.17,30.4,13.0,56.5,Bipolar Disorde
+Oxytrol,23,7.22,17.4,13.0,69.6,Overactive Bladde
+Metformin / sitagliptin,23,5.7,39.1,17.4,43.5,min / sitagliptin)
+Lidoderm,23,5.35,43.5,0.0,56.5,Pain
+Cozaar,23,6.17,26.1,21.7,52.2,High Blood Pressure
+Neupro,23,6.96,17.4,13.0,69.6,Restless Legs Syndrome
+Empagliflozin,23,7.22,13.0,26.1,60.9,"Diabetes, Type 2"
+Nucynta ER,23,7.35,13.0,17.4,69.6,Pain
+Tirosint,23,7.09,30.4,4.3,65.2,Hashimoto's disease
+Prevpac,23,7.87,8.7,13.0,78.3,Helicobacter Pylori Infection
+Naratriptan,23,8.48,8.7,4.3,87.0,Migraine
+Progesterone,22,6.55,18.2,22.7,59.1,Progesterone Insufficiency
+ProAir RespiClick,22,1.18,100.0,0.0,0.0,"Asthma, acute"
+Retin-A,22,8.45,9.1,0.0,90.9,Acne
+Restasis,22,6.23,40.9,4.5,54.5,Keratoconjunctivitis Sicca
+Dimenhydrinate,22,9.36,4.5,0.0,95.5,Motion Sickness
+Clorazepate,22,8.95,4.5,4.5,90.9,Anxiety
+Symbyax,22,8.5,0.0,4.5,95.5,Bipolar Disorde
+Alendronate,22,2.91,81.8,0.0,18.2,Osteoporosis
+Betamethasone,22,8.91,4.5,0.0,95.5,Dermatological Disorders
+Vancomycin,22,6.73,31.8,0.0,68.2,Bacterial Infection
+Amlodipine / valsartan,22,6.09,36.4,18.2,45.5,ge (amlodipine / valsartan)
+Repatha,22,4.91,50.0,13.6,36.4,High Cholesterol
+Chlorpromazine,22,8.36,9.1,9.1,81.8,Hiccups
+Makena,22,8.0,13.6,4.5,81.8,Premature Lab
+Belbuca,22,3.59,72.7,0.0,27.3,Chronic Pain
+Aspirin,22,8.95,4.5,0.0,95.5,Pain
+Reclast,21,7.48,14.3,14.3,71.4,Osteoporosis
+Fexofenadine / pseudoephedrine,21,7.14,19.0,4.8,76.2,Allergic Rhinitis
+Dienogest / estradiol,21,6.52,28.6,14.3,57.1,Birth Control
+Dilantin,21,6.52,33.3,0.0,66.7,Seizures
+Vicoprofen,21,7.86,14.3,9.5,76.2,Pain
+Amrix,21,6.33,28.6,9.5,61.9,Muscle Spasm
+Diamox,21,6.57,28.6,19.0,52.4,Pseudotumor Cerebri
+Tetracycline,21,7.81,14.3,4.8,81.0,Acne
+Compazine,21,3.43,76.2,0.0,23.8,Nausea/Vomiting
+Oracea,21,8.62,4.8,4.8,90.5,Rosacea
+Coreg,21,7.86,19.0,0.0,81.0,Heart Failure
+Omega-3 polyunsaturated fatty acids,21,6.05,38.1,0.0,61.9,Dietary Supplementation
+Nasacort,21,5.95,42.9,0.0,57.1,Allergic Rhinitis
+Daliresp,21,7.76,23.8,0.0,76.2,COPD
+Nystatin,21,7.76,14.3,9.5,76.2,Oral Thrush
+Fastin,21,6.62,33.3,0.0,66.7,Weight Loss
+Xylometazoline,21,7.29,28.6,0.0,71.4,Nasal Congestion
+Tresiba,21,5.52,42.9,14.3,42.9,"Diabetes, Type 1"
+Qvar,21,5.05,57.1,0.0,42.9,"Asthma, Maintenance"
+Candesartan,20,5.25,45.0,5.0,50.0,High Blood Pressure
+Ciclopirox,20,7.15,20.0,5.0,75.0,"Onychomycosis, Toenail"
+Avanafil,20,6.3,35.0,0.0,65.0,Erectile Dysfunction
+Stadol,20,7.25,30.0,0.0,70.0,Pain
+Junel Fe 1.5 / 30,20,4.4,60.0,10.0,30.0,Birth Control
+Librax,20,9.3,0.0,5.0,95.0,Irritable Bowel Syndrome
+Catapres,20,8.15,5.0,0.0,95.0,Opiate Withdrawal
+Nardil,20,7.45,20.0,15.0,65.0,Depression
+Necon 1 / 35,20,6.6,25.0,15.0,60.0,Birth Control
+Exalgo,20,8.4,5.0,15.0,80.0,Chronic Pain
+Sumavel DosePro,20,8.15,15.0,0.0,85.0,Migraine
+Camila,20,4.35,65.0,5.0,30.0,Birth Control
+Kadian,20,8.1,10.0,0.0,90.0,Pain
+Dalfampridine,20,8.85,5.0,10.0,85.0,Multiple Sclerosis
+Ketamine,20,5.95,40.0,0.0,60.0,Anesthesia
+Lasix,20,7.5,15.0,15.0,70.0,Edema
+Estrace Vaginal Cream,20,8.2,5.0,15.0,80.0,Atrophic Vaginitis
+Formoterol / mometasone,20,6.45,30.0,10.0,60.0,moterol / mometasone)
+Errin,20,4.75,55.0,15.0,30.0,Birth Control
+Unisom SleepTabs,20,6.7,30.0,5.0,65.0,Insomnia
+Nicoderm CQ,20,9.35,0.0,5.0,95.0,Smoking Cessation
+Midazolam,20,7.2,25.0,10.0,65.0,Light Sedation
+Chlorpheniramine,20,8.95,5.0,0.0,95.0,Allergic Rhinitis
+Aldara,20,8.25,10.0,15.0,75.0,Human Papilloma Virus
+Frovatriptan,20,9.2,5.0,0.0,95.0,Migraine
+Diphenhydramine / naproxen,20,6.65,30.0,5.0,65.0,Insomnia
+Dramamine,20,9.45,0.0,0.0,100.0,Motion Sickness
+Asacol,20,7.65,20.0,0.0,80.0,"Ulcerative Colitis, Maintenance"
+Phenelzine,20,8.7,0.0,10.0,90.0,Depression
+Frova,19,9.47,0.0,0.0,100.0,Migraine
+Desyrel,19,7.42,15.8,15.8,68.4,Sedation
+Hydralazine,19,3.05,73.7,10.5,15.8,High Blood Pressure
+Pyridostigmine,19,6.47,21.1,15.8,63.2,Myasthenia Gravis
+Phenylephrine,19,6.63,31.6,0.0,68.4,Nasal Congestion
+Desipramine,19,8.68,5.3,5.3,89.5,Depression
+Keflex,19,6.95,31.6,0.0,68.4,Bacterial Infection
+Ketoprofen,19,9.53,0.0,0.0,100.0,Pain
+Sonata,19,5.58,42.1,0.0,57.9,Insomnia
+Falmina,19,4.95,57.9,0.0,42.1,Birth Control
+Bisoprolol / hydrochlorothiazide,19,5.89,31.6,5.3,63.2,High Blood Pressure
+Itraconazole,19,7.95,10.5,10.5,78.9,Vaginal Yeast Infection
+Ticagrelor,19,5.58,36.8,26.3,36.8,Acute Coronary Syndrome
+Telmisartan,19,5.79,31.6,31.6,36.8,High Blood Pressure
+Cataflam,19,8.84,5.3,0.0,94.7,Period Pain
+Nature-Throid,19,7.84,21.1,0.0,78.9,Underactive Thyroid
+Denavir,19,8.37,15.8,0.0,84.2,Cold Sores
+Insulin degludec,19,5.74,36.8,10.5,52.6,"Diabetes, Type 1"
+Bunavail,19,6.47,36.8,5.3,57.9,Opiate Dependence
+Nasonex,19,6.79,31.6,5.3,63.2,Allergic Rhinitis
+Paxil CR,19,7.05,21.1,10.5,68.4,Depression
+Podofilox,19,8.32,0.0,15.8,84.2,Condylomata Acuminata
+Femara,19,6.84,26.3,5.3,68.4,Breast Cance
+Toviaz,19,5.37,31.6,26.3,42.1,Overactive Bladde
+Methenamine,18,8.78,11.1,0.0,88.9,Urinary Tract Infection
+Dihydroergotamine,18,6.94,27.8,5.6,66.7,Migraine
+Exforge,18,5.89,16.7,27.8,55.6,High Blood Pressure
+Stendra,18,6.22,33.3,11.1,55.6,Erectile Dysfunction
+Erlotinib,18,9.17,0.0,5.6,94.4,Non-Small Cell Lung Cance
+Premarin,18,7.89,16.7,11.1,72.2,Postmenopausal Symptoms
+Mupirocin,18,7.78,16.7,11.1,72.2,Skin and Structure Infection
+Dermal filler,18,5.17,55.6,0.0,44.4,acial Wrinkles
+Invega Sustenna,18,6.5,27.8,5.6,66.7,Schizophrenia
+Fesoterodine,18,5.39,50.0,5.6,44.4,Overactive Bladde
+Roflumilast,18,6.72,27.8,16.7,55.6,COPD
+Chlorhexidine,18,7.72,16.7,11.1,72.2,Gingivitis
+Roxicet,18,7.61,22.2,5.6,72.2,Pain
+Nivolumab,18,5.56,50.0,0.0,50.0,Non-Small Cell Lung Cance
+Taltz,18,7.56,22.2,5.6,72.2,Plaque Psoriasis
+Pancrelipase,18,7.56,22.2,5.6,72.2,Chronic Pancreatitis
+Tofacitinib,18,5.72,44.4,0.0,55.6,Rheumatoid Arthritis
+Benzoyl peroxide,18,8.39,11.1,5.6,83.3,Acne
+Ibandronate,18,5.39,50.0,0.0,50.0,Osteoporosis
+Ibuprofen / pseudoephedrine,18,8.72,5.6,11.1,83.3,Sinus Symptoms
+Metadate CD,18,6.5,22.2,22.2,55.6,ADHD
+Hysingla ER,18,5.06,50.0,11.1,38.9,Pain
+Zohydro ER,18,8.22,11.1,5.6,83.3,Pain
+Trulance,18,7.78,22.2,0.0,77.8,Chronic Idiopathic Constipation
+Imuran,18,6.28,38.9,0.0,61.1,Systemic Lupus Erythematosus
+Xanax XR,18,8.61,11.1,0.0,88.9,Panic Disorde
+Zofran ODT,18,7.94,16.7,5.6,77.8,Nausea/Vomiting
+Xeljanz,18,6.39,33.3,5.6,61.1,Rheumatoid Arthritis
+Xifaxan,17,7.29,23.5,5.9,70.6,Irritable Bowel Syndrome
+Welchol,17,8.35,11.8,0.0,88.2,"Diarrhea, Chronic"
+Trospium,17,6.53,29.4,11.8,58.8,Overactive Bladde
+Iloperidone,17,6.82,29.4,0.0,70.6,Bipolar Disorde
+Penciclovir,17,9.88,0.0,0.0,100.0,Cold Sores
+Efudex,17,7.71,17.6,5.9,76.5,Keratosis
+Afrin,17,4.29,58.8,0.0,41.2,Nasal Congestion
+Methamphetamine,17,8.29,11.8,5.9,82.4,ADHD
+Memantine,17,5.41,47.1,5.9,47.1,Alzheimer's Disease
+Gabapentin enacarbil,17,7.94,17.6,0.0,82.4,Restless Legs Syndrome
+Goserelin,17,6.82,29.4,5.9,64.7,Endometriosis
+Halobetasol,17,8.29,5.9,11.8,82.4,Psoriasis
+Cosentyx,17,5.41,47.1,5.9,47.1,Plaque Psoriasis
+Almotriptan,17,8.71,5.9,0.0,94.1,Migraine
+Robaxin-750,17,5.29,41.2,11.8,47.1,Muscle Spasm
+Ciprofloxacin / dexamethasone,17,4.88,47.1,11.8,41.2,Otitis Externa
+Elidel,17,7.76,11.8,17.6,70.6,Eczema
+Proctofoam,17,9.29,5.9,0.0,94.1,Hemorrhoids
+Imatinib,17,9.06,5.9,0.0,94.1,Chronic Myelogenous Leukemia
+Relistor,17,6.71,29.4,11.8,58.8,"Constipation, Drug Induced"
+Elbasvir / grazoprevir,17,8.18,5.9,17.6,76.5,Hepatitis C
+Thorazine,17,7.59,17.6,5.9,76.5,Hiccups
+Teriflunomide,17,5.65,41.2,11.8,47.1,Multiple Sclerosis
+Atralin,17,7.71,17.6,5.9,76.5,Acne
+Taclonex,17,7.35,23.5,5.9,70.6,Psoriasis
+Aspirin / butalbital / caffeine / codeine,17,9.47,0.0,0.0,100.0,Headache
+Bonine,17,9.29,5.9,0.0,94.1,Motion Sickness
+Janumet,17,6.35,41.2,0.0,58.8,"Diabetes, Type 2"
+Multivitamin with minerals,17,5.76,41.2,11.8,47.1,Vitamin/Mineral Supplementation and Deficiency
+Sulindac,17,7.88,17.6,0.0,82.4,Pain
+Crisaborole,17,6.82,23.5,17.6,58.8,Atopic Dermatitis
+Dulera,16,5.88,31.2,18.8,50.0,Asthma
+Seasonale,16,5.88,43.8,6.2,50.0,Birth Control
+Sklice,16,7.38,25.0,6.2,68.8,Head Lice
+Acetaminophen / phenyltoloxamine,16,9.44,0.0,0.0,100.0,Pain
+Penicillin v potassium,16,8.31,6.2,12.5,81.2,Bacterial Infection
+Indocin,16,8.31,12.5,6.2,81.2,"Gout, Acute"
+Glucophage,16,8.0,6.2,12.5,81.2,"Diabetes, Type 2"
+Balsalazide,16,6.88,25.0,0.0,75.0,Ulcerative Colitis
+Actos,16,5.06,50.0,12.5,37.5,"Diabetes, Type 2"
+Sofosbuvir,16,6.62,31.2,6.2,62.5,Hepatitis C
+Prilosec,16,7.38,18.8,12.5,68.8,GERD
+Monodox,16,7.69,25.0,0.0,75.0,Acne
+Capecitabine,16,7.31,12.5,25.0,62.5,Colorectal Cance
+Zetia,16,5.12,50.0,6.2,43.8,High Cholesterol
+Levoxyl,16,7.19,12.5,31.2,56.2,Underactive Thyroid
+Next Choice,16,7.94,12.5,6.2,81.2,Emergency Contraception
+Versed,16,2.19,87.5,0.0,12.5,Light Anesthesia
+Clobex,16,9.12,0.0,12.5,87.5,Psoriasis
+Piroxicam,16,7.56,12.5,18.8,68.8,Pain
+Amnesteem,16,8.12,6.2,6.2,87.5,Acne
+Mercaptopurine,16,5.44,37.5,25.0,37.5,"Crohn's Disease, Maintenance"
+Viorele,16,5.0,43.8,6.2,50.0,Birth Control
+Methylnaltrexone,16,7.38,18.8,6.2,75.0,"Constipation, Drug Induced"
+Nalbuphine,16,7.56,18.8,6.2,75.0,Pain
+Dimethyl fumarate,16,6.94,25.0,12.5,62.5,Multiple Sclerosis
+Zonegran,16,7.06,18.8,6.2,75.0,Seizures
+Pimecrolimus,16,7.25,18.8,6.2,75.0,Eczema
+Azithromycin Dose Pack,16,6.81,25.0,6.2,68.8,Sinusitis
+Embeda,16,6.06,43.8,0.0,56.2,Chronic Pain
+Propoxyphene,16,8.19,12.5,6.2,81.2,Pain
+Zoladex,15,6.4,20.0,26.7,53.3,Endometriosis
+Estring,15,7.07,26.7,0.0,73.3,Atrophic Vaginitis
+Cefprozil,15,4.47,60.0,6.7,33.3,Sinusitis
+Desmopressin,15,9.4,0.0,6.7,93.3,Diabetes Insipidus
+Desogen,15,6.0,33.3,13.3,53.3,Birth Control
+Esomeprazole / naproxen,15,6.27,40.0,6.7,53.3,Osteoarthritis
+Prograf,15,8.47,6.7,0.0,93.3,"Organ Transplant, Rejection Prophylaxis"
+Kerydin,15,4.87,53.3,0.0,46.7,"Onychomycosis, Toenail"
+Pioglitazone,15,5.27,46.7,20.0,33.3,"Diabetes, Type 2"
+Ferrous sulfate,15,7.2,20.0,20.0,60.0,Iron Deficiency Anemia
+Lipitor,15,4.8,46.7,20.0,33.3,High Cholesterol
+Linezolid,15,8.33,0.0,20.0,80.0,Methicillin-Resistant Staphylococcus Aureus Infection
+Velivet,15,5.47,33.3,33.3,33.3,Birth Control
+Benicar HCT,15,6.73,33.3,0.0,66.7,High Blood Pressure
+Dulcolax Laxative,15,5.53,40.0,13.3,46.7,Constipation
+Omnicef,15,6.87,33.3,6.7,60.0,Otitis Media
+SMZ-TMP DS,15,5.0,46.7,13.3,40.0,Urinary Tract Infection
+Veltin,15,8.07,6.7,13.3,80.0,Acne
+Tradjenta,15,3.47,73.3,6.7,20.0,"Diabetes, Type 2"
+Fenofibric acid,15,4.93,46.7,13.3,40.0,Hypertriglyceridemia
+Desoximetasone,15,8.07,13.3,6.7,80.0,Eczema
+Bisoprolol,15,7.07,20.0,13.3,66.7,Supraventricular Tachycardia
+Arthrotec,15,8.53,0.0,13.3,86.7,Osteoarthritis
+Tecfidera,15,8.07,13.3,13.3,73.3,Multiple Sclerosis
+Elocon,15,9.27,6.7,0.0,93.3,Psoriasis
+Clotrimazole,15,6.53,33.3,6.7,60.0,Oral Thrush
+Naloxone,14,8.43,14.3,0.0,85.7,Opioid Overdose
+Linagliptin,14,5.43,42.9,14.3,42.9,"Diabetes, Type 2"
+Pitavastatin,14,5.71,42.9,7.1,50.0,High Cholesterol
+Orencia,14,6.07,42.9,0.0,57.1,Rheumatoid Arthritis
+Dupilumab,14,8.14,14.3,7.1,78.6,Eczema
+Avodart,14,7.0,14.3,28.6,57.1,Benign Prostatic Hyperplasia
+Staxyn,14,9.0,0.0,0.0,100.0,Erectile Dysfunction
+Carafate,14,7.14,21.4,7.1,71.4,Stomach Ulce
+Protopic,14,6.86,28.6,7.1,64.3,Atopic Dermatitis
+Certolizumab,14,6.93,21.4,21.4,57.1,Psoriatic Arthritis
+Estazolam,14,9.43,0.0,7.1,92.9,Insomnia
+Cheratussin AC,14,4.93,42.9,21.4,35.7,Cough
+Sominex,14,6.93,21.4,21.4,57.1,Insomnia
+Phenobarbital,14,8.07,21.4,0.0,78.6,Seizures
+Pamelor,14,7.0,28.6,0.0,71.4,Pain
+MetroGel-Vaginal,14,5.07,50.0,21.4,28.6,Bacterial Vaginitis
+Desoxyn,14,9.5,0.0,0.0,100.0,ADHD
+Vedolizumab,14,4.29,57.1,14.3,28.6,Crohn's Disease
+Tarceva,14,8.57,7.1,0.0,92.9,Non-Small Cell Lung Cance
+Rituxan,14,8.14,14.3,0.0,85.7,Rheumatoid Arthritis
+Methadose,14,8.86,7.1,7.1,85.7,Opiate Withdrawal
+S-adenosylmethionine,14,7.71,14.3,0.0,85.7,Depression
+Alosetron,14,9.57,0.0,0.0,100.0,Irritable Bowel Syndrome
+Flurazepam,14,8.79,0.0,21.4,78.6,Insomnia
+Gleevec,14,9.07,7.1,0.0,92.9,Chronic Myelogenous Leukemia
+Trimethoprim,14,3.5,64.3,14.3,21.4,Urinary Tract Infection
+Caffeine / ergotamine,14,8.79,0.0,7.1,92.9,Migraine
+Acetaminophen / diphenhydramine,14,6.5,35.7,0.0,64.3,Insomnia
+Acetaminophen / butalbital / caffeine / codeine,14,9.36,0.0,7.1,92.9,Headache
+Ceftin,14,8.14,14.3,7.1,78.6,Sinusitis
+Hydrocortisone / pramoxine,14,8.57,7.1,7.1,85.7,Hemorrhoids
+Zegerid,14,8.5,7.1,14.3,78.6,GERD
+Pegfilgrastim,14,6.14,35.7,0.0,64.3,Neutropenia Associated with Chemotherapy
+Selenium sulfide,14,8.21,7.1,14.3,78.6,Tinea Versicol
+Zipsor,14,6.93,28.6,0.0,71.4,Pain
+Rotigotine,14,8.86,7.1,0.0,92.9,Restless Legs Syndrome
+Ciprodex,14,7.71,14.3,7.1,78.6,Otitis Media
+Alirocumab,13,6.38,38.5,0.0,61.5,High Cholesterol
+Hydromet,13,8.54,0.0,23.1,76.9,Cough
+Nitroglycerin,13,8.62,7.7,0.0,92.3,Anal Fissure and Fistula
+Midodrine,13,7.31,23.1,0.0,76.9,Postural Orthostatic Tachycardia Syndrome
+Acetaminophen / caffeine / dihydrocodeine,13,8.23,15.4,0.0,84.6,Pain
+Marinol,13,8.23,15.4,0.0,84.6,Anorexia
+Famotidine,13,6.0,30.8,23.1,46.2,GERD
+Magnesium oxide,13,8.62,15.4,0.0,84.6,Constipation
+Atovaquone / proguanil,13,6.69,30.8,0.0,69.2,Malaria Prevention
+Haldol,13,4.54,53.8,15.4,30.8,Nausea/Vomiting
+Saliva substitutes,13,8.77,7.7,7.7,84.6,Xerostomia
+Ultracet,13,7.85,7.7,15.4,76.9,Pain
+Aliskiren,13,6.85,30.8,0.0,69.2,High Blood Pressure
+Hydrochlorothiazide / valsartan,13,7.15,23.1,15.4,61.5,High Blood Pressure
+Hydrocortisone / neomycin / polymyxin b,13,3.77,61.5,7.7,30.8,Otitis Externa
+Carac,13,8.54,7.7,0.0,92.3,Keratosis
+Gildess Fe 1.5 / 30,13,5.38,38.5,23.1,38.5,Birth Control
+Dronedarone,13,5.92,46.2,0.0,53.8,Atrial Fibrillation
+Brisdelle,13,6.08,23.1,23.1,53.8,Hot Flashes
+Latanoprost,13,6.0,30.8,15.4,53.8,"Glaucoma, Open Angle"
+Desloratadine,13,6.31,30.8,7.7,61.5,Allergic Rhinitis
+Multivitamin with iron,13,8.31,15.4,0.0,84.6,Anemia
+Lomotil,13,7.85,15.4,0.0,84.6,Diarrhea
+Androderm,13,7.31,23.1,7.7,69.2,"Hypogonadism, Male"
+Femring,13,8.15,15.4,0.0,84.6,Postmenopausal Symptoms
+Bromocriptine,13,6.31,38.5,0.0,61.5,Hyperprolactinemia
+Synvisc,13,7.08,30.8,0.0,69.2,Osteoarthritis
+Opium,13,8.85,7.7,0.0,92.3,Diarrhea
+Praluent,13,6.62,38.5,0.0,61.5,High Cholesterol
+Risedronate,13,4.69,61.5,0.0,38.5,Osteoporosis
+Naloxone / pentazocine,13,6.38,30.8,0.0,69.2,Pain
+Dasatinib,13,8.23,7.7,0.0,92.3,Chronic Myelogenous Leukemia
+Avinza,13,9.0,0.0,0.0,100.0,Pain
+Avonex,13,6.85,30.8,7.7,61.5,Multiple Sclerosis
+Atropine / hyoscyamine / phenobarbital / scopolamine,13,9.0,7.7,0.0,92.3,Irritable Bowel Syndrome
+Muse,13,5.15,53.8,0.0,46.2,Erectile Dysfunction
+Tikosyn,13,8.62,7.7,0.0,92.3,Arrhythmia
+Phosphorated carbohydrate solution,13,8.62,7.7,7.7,84.6,Nausea/Vomiting
+Edex,13,8.15,15.4,0.0,84.6,Erectile Dysfunction
+Nilotinib,13,7.69,15.4,15.4,69.2,Chronic Myelogenous Leukemia
+Hycodan,12,8.5,0.0,8.3,91.7,Cough
+Acidophilus,12,9.08,0.0,8.3,91.7,Vaginal Yeast Infection
+Gemfibrozil,12,6.33,33.3,0.0,66.7,High Cholesterol
+Caffeine,12,7.17,25.0,0.0,75.0,Hypersomnia
+Pyridium,12,6.83,33.3,0.0,66.7,Dysuria
+Imitrex Statdose,12,8.08,8.3,16.7,75.0,Migraine
+Ranexa,12,7.42,16.7,16.7,66.7,Angina
+Calcium carbonate,12,7.58,16.7,8.3,75.0,Indigestion
+Acetaminophen / pamabrom,12,9.0,8.3,0.0,91.7,Back Pain
+Hydroxyurea,12,6.17,33.3,16.7,50.0,"Anemia, Sickle Cell"
+Ixekizumab,12,7.75,25.0,0.0,75.0,Plaque Psoriasis
+Umeclidinium / vilanterol,12,9.25,8.3,0.0,91.7,COPD
+Hyoscyamine / methenamine / methylene blue / phenyl salicylate,12,7.75,16.7,8.3,75.0,Urinary Tract Infection
+Fanapt,12,7.58,16.7,16.7,66.7,Schizophrenia
+Bevacizumab,12,8.5,8.3,16.7,75.0,Glioblastoma Multi
+Tegretol XR,12,7.25,16.7,8.3,75.0,Trigeminal Neuralgia
+Albuterol / ipratropium,12,6.92,25.0,0.0,75.0,"COPD, Maintenance"
+Aggrenox,12,6.17,33.3,8.3,58.3,"Ischemic Stroke, Prophylaxis"
+Nicotrol Inhaler,12,8.75,8.3,0.0,91.7,Smoking Cessation
+Senokot,12,4.58,41.7,25.0,33.3,Constipation
+Dutasteride,12,8.17,8.3,8.3,83.3,Benign Prostatic Hyperplasia
+Neulasta,12,7.33,16.7,8.3,75.0,Neutropenia Associated with Chemotherapy
+Tegaserod,12,9.92,0.0,0.0,100.0,"Constipation, Chronic"
+Palbociclib,12,5.83,41.7,0.0,58.3,"Breast Cancer, Metastatic"
+Donnatal,12,9.5,0.0,0.0,100.0,Irritable Bowel Syndrome
+Methadone Diskets,12,9.17,8.3,0.0,91.7,Opiate Withdrawal
+Sutent,12,7.58,16.7,8.3,75.0,Renal Cell Carcinoma
+Plavix,12,8.75,0.0,8.3,91.7,Heart Attack
+Claritin-D,12,6.58,33.3,16.7,50.0,Nasal Congestion
+Pataday,12,6.67,33.3,8.3,58.3,Seasonal Allergic Conjunctivitis
+Enalapril,12,6.25,33.3,0.0,66.7,High Blood Pressure
+Brompheniramine / dextromethorphan / pseudoephedrine,12,5.75,41.7,0.0,58.3,Cough and Nasal Congestion
+Pramoxine,12,9.25,0.0,8.3,91.7,Hemorrhoids
+Methyl salicylate,12,7.08,25.0,0.0,75.0,Muscle Pain
+Chloral hydrate,12,7.5,16.7,16.7,66.7,Insomnia
+Somatropin,12,8.5,8.3,8.3,83.3,Adult Human Growth Hormone Deficiency
+Evekeo,12,7.0,16.7,25.0,58.3,ADHD
+Perphenazine,12,7.42,8.3,25.0,66.7,Psychosis
+Lactobacillus acidophilus,12,8.0,16.7,0.0,83.3,Vaginal Yeast Infection
+Lantus Solostar,12,7.25,16.7,16.7,66.7,"Diabetes, Type 2"
+Ergocalciferol,12,6.25,33.3,8.3,58.3,Vitamin D Deficiency
+Zantac 150,12,7.58,16.7,0.0,83.3,GERD
+Yuvafem,11,2.27,90.9,0.0,9.1,Atrophic Vaginitis
+Lactase,11,3.82,63.6,9.1,27.3,Lactose Intolerance
+GoLYTELY,11,7.45,18.2,9.1,72.7,Bowel Preparation
+Fortesta,11,7.09,18.2,9.1,72.7,"Hypogonadism, Male"
+Estradiol / levonorgestrel,11,4.91,36.4,27.3,36.4,Postmenopausal Symptoms
+Zometa,11,7.09,9.1,27.3,63.6,Osteolytic Bone Metastases of Solid Tumors
+Fycompa,11,5.64,36.4,9.1,54.5,Epilepsy
+Gardasil,11,6.27,36.4,9.1,54.5,Human Papillomavirus Prophylaxis
+Human papillomavirus vaccine,11,6.09,36.4,9.1,54.5,Human Papillomavirus Prophylaxis
+Tri-Linyah,11,5.73,27.3,36.4,36.4,Birth Control
+Eucrisa,11,7.55,9.1,18.2,72.7,Atopic Dermatitis
+Kapidex,11,7.82,27.3,0.0,72.7,GERD
+Emetrol,11,9.73,0.0,0.0,100.0,Nausea/Vomiting
+Tribenzor,11,7.0,18.2,18.2,63.6,High Blood Pressure
+Micardis,11,7.09,27.3,0.0,72.7,High Blood Pressure
+MetroGel,11,7.73,18.2,0.0,81.8,Rosacea
+Azilsartan medoxomil,11,6.73,36.4,0.0,63.6,High Blood Pressure
+Ashlyna,11,4.0,63.6,9.1,27.3,Birth Control
+Methimazole,11,5.36,54.5,0.0,45.5,Hyperthyroidism
+Aubagio,11,6.09,27.3,9.1,63.6,Multiple Sclerosis
+Tekturna,11,8.0,9.1,9.1,81.8,High Blood Pressure
+Vagifem,11,7.45,18.2,18.2,63.6,Atrophic Vaginitis
+Isoniazid,11,6.27,18.2,27.3,54.5,"Tuberculosis, Latent"
+Febuxostat,11,7.91,18.2,9.1,72.7,Gout
+Lovastatin,11,5.91,45.5,0.0,54.5,High Cholesterol
+Amoxil,11,8.91,9.1,0.0,90.9,Bacterial Infection
+Tocilizumab,11,8.36,0.0,9.1,90.9,Rheumatoid Arthritis
+Lithobid,11,7.45,18.2,9.1,72.7,Bipolar Disorde
+Apriso,11,5.55,36.4,9.1,54.5,Ulcerative Colitis
+Tenormin,11,7.91,9.1,9.1,81.8,High Blood Pressure
+Econazole,11,8.55,9.1,0.0,90.9,Tinea Corporis
+Lorzone,11,5.64,36.4,9.1,54.5,Muscle Spasm
+Angeliq,11,7.45,27.3,0.0,72.7,Postmenopausal Symptoms
+Claritin,11,4.0,72.7,0.0,27.3,Allergic Rhinitis
+Previfem,11,6.09,27.3,27.3,45.5,Birth Control
+Hydrochlorothiazide / olmesartan,11,7.09,18.2,18.2,63.6,High Blood Pressure
+Abatacept,11,8.18,0.0,18.2,81.8,Rheumatoid Arthritis
+Advil,11,7.55,27.3,0.0,72.7,Headache
+Darifenacin,11,7.18,9.1,36.4,54.5,Overactive Bladde
+Benadryl Allergy,11,7.82,18.2,18.2,63.6,Allergic Reactions
+Insulin detemir,11,7.0,18.2,18.2,63.6,"Diabetes, Type 2"
+Supartz,11,5.36,45.5,9.1,45.5,Osteoarthritis
+Avapro,11,5.09,36.4,27.3,36.4,High Blood Pressure
+Permethrin,11,6.0,45.5,0.0,54.5,Scabies
+CellCept,11,8.27,0.0,27.3,72.7,"Organ Transplant, Rejection Prophylaxis"
+Chorionic gonadotropin (hcg),11,7.45,27.3,9.1,63.6,Obesity
+Sarafem,11,8.73,9.1,0.0,90.9,Premenstrual Dysphoric Disorde
+Omeprazole / sodium bicarbonate,11,8.0,18.2,0.0,81.8,GERD
+Niaspan,11,5.45,36.4,9.1,54.5,High Cholesterol
+Multaq,11,5.82,54.5,0.0,45.5,Atrial Fibrillation
+Axert,11,9.09,9.1,0.0,90.9,Migraine
+Acitretin,10,7.3,20.0,10.0,70.0,Psoriasis
+Griseofulvin,10,5.0,30.0,50.0,20.0,Tinea Corporis
+Acetaminophen / butalbital,10,9.4,0.0,0.0,100.0,Headache
+Rythmol SR,10,9.1,0.0,0.0,100.0,Atrial Fibrillation
+Boniva,10,4.8,60.0,0.0,40.0,Osteoporosis
+Epitol,10,8.1,10.0,10.0,80.0,Bipolar Disorde
+Esterified estrogens / methyltestosterone,10,9.7,0.0,0.0,100.0,Menopausal Disorders
+Lastacaft,10,4.4,60.0,0.0,40.0,"Conjunctivitis, Allergic"
+Alvesco,10,8.3,10.0,0.0,90.0,"Asthma, Maintenance"
+Zovirax Cream,10,7.9,20.0,0.0,80.0,Cold Sores
+Jalyn,10,5.8,30.0,20.0,50.0,Benign Prostatic Hyperplasia
+Kapvay,10,6.9,30.0,0.0,70.0,ADHD
+Klonopin Wafer,10,9.3,0.0,10.0,90.0,Anxiety
+Epiduo Forte,10,6.8,10.0,30.0,60.0,Acne
+Prometrium,10,8.9,0.0,0.0,100.0,Progesterone Insufficiency
+Zelnorm,10,9.6,0.0,0.0,100.0,Irritable Bowel Syndrome
+Psyllium,10,7.3,30.0,0.0,70.0,Constipation
+Quinine,10,8.5,10.0,0.0,90.0,Nocturnal Leg Cramps
+Chromium picolinate,10,9.3,0.0,0.0,100.0,"Diabetes, Type 2"
+Exelon,10,5.6,40.0,10.0,50.0,Alzheimer's Disease
+Nubain,10,8.2,20.0,0.0,80.0,Pain
+Commit,10,8.8,0.0,0.0,100.0,Smoking Cessation
+Cytomel,10,7.8,20.0,0.0,80.0,Underactive Thyroid
+Icosapent,10,8.9,10.0,0.0,90.0,Hypertriglyceridemia
+Malarone,10,4.9,50.0,10.0,40.0,Malaria Prevention
+Ultram ER,10,7.7,20.0,0.0,80.0,ibromyalgia
+Levemir,10,7.3,20.0,20.0,60.0,"Diabetes, Type 2"
+Tazarotene,10,8.5,10.0,0.0,90.0,Acne
+Ortho-Cept,10,7.0,30.0,10.0,60.0,Birth Control
+Orap,10,7.1,20.0,20.0,60.0,Tourette's Syndrome
+Septra DS,10,6.5,30.0,0.0,70.0,Urinary Tract Infection
+Olodaterol / tiotropium,10,6.3,40.0,10.0,50.0,COPD
+Vimovo,10,9.1,0.0,10.0,90.0,Osteoarthritis
+Alcaftadine,10,6.7,30.0,0.0,70.0,"Conjunctivitis, Allergic"
+Coal tar,10,8.9,0.0,0.0,100.0,Psoriasis
+Ipratropium,10,9.0,0.0,10.0,90.0,Asthma
+Docusate,10,6.6,30.0,10.0,60.0,Constipation
+Duexis,10,6.6,20.0,30.0,50.0,Osteoarthritis
+Urea,10,9.7,0.0,0.0,100.0,Dry Skin
+Mefloquine,10,4.9,50.0,10.0,40.0,Malaria Prevention
+Entocort EC,10,8.7,10.0,0.0,90.0,Inflammatory Bowel Disease
+Echinacea,10,9.2,0.0,10.0,90.0,Cold Symptoms
+Astepro,10,8.3,10.0,10.0,80.0,Allergic Rhinitis
+Loteprednol,10,7.1,20.0,20.0,60.0,Postoperative Ocular Inflammation
+Levorphanol,10,8.3,10.0,20.0,70.0,Pain
+Levalbuterol,10,9.3,0.0,0.0,100.0,"Asthma, acute"
+Perampanel,10,6.0,40.0,10.0,50.0,Epilepsy
+Perindopril,10,6.4,20.0,30.0,50.0,High Blood Pressure
+Colcrys,10,8.6,10.0,0.0,90.0,"Gout, Acute"
+Sacubitril / valsartan,10,4.4,50.0,20.0,30.0,Heart Failure
+Benztropine,10,7.0,30.0,0.0,70.0,Extrapyramidal Reaction
+Hyzaar,10,7.2,30.0,0.0,70.0,High Blood Pressure
+Vienva,10,4.4,60.0,0.0,40.0,Birth Control
+Pneumococcal 13-valent vaccine,10,3.8,60.0,10.0,30.0,Pneumococcal Disease Prophylaxis
+Climara,10,7.3,30.0,0.0,70.0,Postmenopausal Symptoms
+Benlysta,10,7.8,10.0,10.0,80.0,Systemic Lupus Erythematosus
+Zepatier,10,9.8,0.0,0.0,100.0,Hepatitis C
+Lantus,9,7.0,22.2,22.2,55.6,"Diabetes, Type 2"
+Zutripro,9,10.0,0.0,0.0,100.0,Cough and Nasal Congestion
+Zantac,9,9.22,0.0,11.1,88.9,GERD
+Yohimbine,9,6.0,33.3,11.1,55.6,Erectile Dysfunction
+Estradiol / norethindrone,9,7.89,11.1,11.1,77.8,Postmenopausal Symptoms
+Epinephrine,9,8.11,11.1,0.0,88.9,"Asthma, acute"
+Emsam,9,8.67,0.0,0.0,100.0,Depression
+Vascepa,9,9.11,0.0,11.1,88.9,Hypertriglyceridemia
+Lorcet 10 / 650,9,8.11,11.1,11.1,77.8,Back Pain
+Tasigna,9,8.33,11.1,11.1,77.8,Chronic Myelogenous Leukemia
+Migranal,9,7.0,22.2,11.1,66.7,Migraine
+Methscopolamine,9,7.56,22.2,0.0,77.8,Irritable Bowel Syndrome
+Decadron,9,4.56,55.6,0.0,44.4,Inflammatory Conditions
+Dolophine,9,9.44,0.0,0.0,100.0,Opiate Withdrawal
+Dextromethorphan / guaifenesin,9,5.22,44.4,11.1,44.4,Cough
+Meperidine / promethazine,9,9.33,0.0,0.0,100.0,Pain
+Famvir,9,9.33,0.0,11.1,88.9,Cold Sores
+Ditropan,9,5.67,33.3,22.2,44.4,Overactive Bladde
+Drospirenone / estradiol,9,8.89,0.0,11.1,88.9,Postmenopausal Symptoms
+Macrodantin,9,7.11,22.2,11.1,66.7,Prevention of Bladder infection
+Aspirin / carisoprodol,9,8.89,0.0,0.0,100.0,Muscle Spasm
+Nortrel 1 / 35,9,4.89,55.6,11.1,33.3,Birth Control
+My Way,9,7.67,22.2,0.0,77.8,Emergency Contraception
+Naprosyn,9,8.0,11.1,0.0,88.9,Tendonitis
+Succinylcholine,9,2.22,77.8,22.2,0.0,Anesthesia
+Pembrolizumab,9,4.67,44.4,22.2,33.3,Non-Small Cell Lung Cance
+Fludrocortisone,9,7.78,22.2,0.0,77.8,Postural Orthostatic Tachycardia Syndrome
+Benzphetamine,9,8.22,11.1,0.0,88.9,Obesity
+Bepotastine,9,6.0,44.4,11.1,44.4,"Conjunctivitis, Allergic"
+Barium sulfate,9,5.22,55.6,11.1,33.3,Computed Tomography
+Benazepril,9,6.44,22.2,11.1,66.7,High Blood Pressure
+Coumadin,9,8.0,22.2,0.0,77.8,"Deep Vein Thrombosis, First Event"
+Opdivo,9,4.11,55.6,11.1,33.3,Non-Small Cell Lung Cance
+Ibrutinib,9,5.89,44.4,0.0,55.6,Chronic Lymphocytic Leukemia
+Sinemet,9,8.33,11.1,0.0,88.9,Restless Legs Syndrome
+Sodium chloride,9,5.0,55.6,0.0,44.4,Nasal Congestion
+Vivelle-Dot,9,7.67,22.2,0.0,77.8,Postmenopausal Symptoms
+Cromolyn,9,9.0,0.0,22.2,77.8,"Asthma, Maintenance"
+Peginterferon alfa-2a,9,7.33,22.2,11.1,66.7,Hepatitis C
+Sanctura,9,9.0,0.0,0.0,100.0,Overactive Bladde
+Veramyst,9,6.67,22.2,11.1,66.7,Rhinitis
+Fleet Enema,9,8.89,11.1,0.0,88.9,Constipation
+Rogaine,9,5.11,33.3,22.2,44.4,Alopecia
+Biotin,9,6.22,33.3,11.1,55.6,Dietary Supplementation
+Clarifoam EF,9,9.22,0.0,11.1,88.9,Acne
+Rebif,9,6.89,22.2,0.0,77.8,Multiple Sclerosis
+Carbatrol,9,7.22,22.2,11.1,66.7,Epilepsy
+Calcitriol,9,7.33,0.0,44.4,55.6,Psoriasis
+Cambia,9,8.67,11.1,0.0,88.9,Migraine
+Zyvox,9,9.11,0.0,0.0,100.0,Methicillin-Resistant Staphylococcus Aureus Infection
+Vytorin,9,7.22,22.2,11.1,66.7,High Cholesterol
+Hydrochlorothiazide / telmisartan,9,8.33,11.1,0.0,88.9,High Blood Pressure
+Acetylcysteine,9,9.56,0.0,0.0,100.0,Expectoration
+Actonel,8,3.38,75.0,12.5,12.5,Osteoporosis
+Adzenys XR-ODT,8,6.0,37.5,12.5,50.0,ADHD
+Digoxin,8,6.38,50.0,0.0,50.0,Atrial Fibrillation
+Detrol,8,7.5,0.0,50.0,50.0,Overactive Bladde
+Chlorpheniramine / pseudoephedrine,8,8.5,12.5,0.0,87.5,Allergic Rhinitis
+Pennsaid,8,8.38,12.5,0.0,87.5,Osteoarthritis
+Albiglutide,8,4.38,50.0,25.0,25.0,"Diabetes, Type 2"
+Minocin,8,7.88,0.0,37.5,62.5,Acne
+Milk of Magnesia,8,9.25,0.0,0.0,100.0,Constipation
+Ciclesonide,8,6.88,25.0,12.5,62.5,Allergic Rhinitis
+Chlorthalidone,8,4.5,62.5,12.5,25.0,High Blood Pressure
+Chondroitin / glucosamine,8,6.88,25.0,12.5,62.5,Dietary Supplementation
+Avastin,8,8.25,0.0,12.5,87.5,Glioblastoma Multiforme
+Pseudoephedrine / triprolidine,8,7.62,12.5,12.5,75.0,Cold Symptoms
+Prinivil,8,6.38,25.0,12.5,62.5,High Blood Pressure
+Budeprion XL,8,8.5,0.0,12.5,87.5,Depression
+Butalbital Compound,8,9.38,0.0,0.0,100.0,Migraine
+Evening Primrose Oil,8,8.0,12.5,12.5,75.0,Hot Flashes
+Excedrin,8,8.12,12.5,12.5,75.0,Migraine
+Pepto-Bismol,8,9.0,12.5,0.0,87.5,Indigestion
+Cimzia,8,7.88,12.5,12.5,75.0,Ankylosing Spondylitis
+Mydayis,8,4.12,62.5,12.5,25.0,ADHD
+Fluoride,8,8.62,12.5,0.0,87.5,Prevention of Dental Caries
+Dovonex,8,7.88,12.5,0.0,87.5,Psoriasis
+Cartia XT,8,7.75,25.0,0.0,75.0,Supraventricular Tachycardia
+Cyanocobalamin,8,8.88,12.5,0.0,87.5,Vitamin B12 Deficiency
+Dolutegravir,8,7.5,25.0,12.5,62.5,HIV Infection
+Zyprexa Zydis,8,6.88,25.0,0.0,75.0,Bipolar Disorde
+Diprivan,8,8.75,12.5,0.0,87.5,Anesthesia
+Galantamine,8,7.62,25.0,0.0,75.0,Alzheimer's Disease
+Dutasteride / tamsulosin,8,6.75,25.0,25.0,50.0,Benign Prostatic Hyperplasia
+Benzocaine,8,6.62,25.0,12.5,62.5,Cold Sores
+Combigan,8,6.38,25.0,25.0,50.0,Glaucoma
+Uribel,8,6.88,25.0,12.5,62.5,Urinary Tract Infection
+Uricalm,8,8.75,12.5,0.0,87.5,Dysuria
+Misoprostol,8,8.0,12.5,0.0,87.5,Abortion
+Valturna,8,5.75,37.5,25.0,37.5,High Blood Pressure
+Truvada,8,9.5,0.0,0.0,100.0,HIV Infection
+Fosfomycin,8,7.75,25.0,0.0,75.0,Bladder Infection
+Anoro Ellipta,8,9.38,0.0,0.0,100.0,COPD
+Enablex,8,5.12,37.5,37.5,25.0,Overactive Bladde
+Aricept,8,5.0,50.0,0.0,50.0,Alzheimer's Disease
+Olux,8,9.5,0.0,0.0,100.0,Psoriasis
+Conjugated estrogens / medroxyprogesterone,8,5.75,37.5,12.5,50.0,Postmenopausal Symptoms
+Loestrin 21 1 / 20,8,7.12,25.0,0.0,75.0,Birth Control
+Onexton,8,8.75,12.5,0.0,87.5,Acne
+Rivastigmine,8,7.25,12.5,12.5,75.0,Alzheimer's Disease
+Onglyza,8,6.75,25.0,12.5,62.5,"Diabetes, Type 2"
+Bontril Slow Release,8,7.75,12.5,12.5,75.0,Obesity
+Isentress,8,8.38,0.0,25.0,75.0,HIV Infection
+TriNessa Lo,8,5.5,25.0,37.5,37.5,Birth Control
+Naphazoline,8,8.75,12.5,0.0,87.5,Nasal Congestion
+Aprepitant,8,9.88,0.0,0.0,100.0,"Nausea/Vomiting, Chemotherapy Induced"
+Dupixent,8,8.38,12.5,0.0,87.5,Eczema
+Belimumab,8,7.88,0.0,25.0,75.0,Systemic Lupus Erythematosus
+Rifampin,8,6.75,25.0,25.0,50.0,"Tuberculosis, Latent"
+Tarina Fe 1 / 20,8,4.75,37.5,37.5,25.0,Birth Control
+Fioricet with Codeine,8,9.0,0.0,0.0,100.0,Headache
+Serax,8,8.38,0.0,12.5,87.5,Anxiety
+Nystatin / triamcinolone,8,9.88,0.0,0.0,100.0,Cutaneous Candidiasis
+Lotrel,8,6.88,0.0,62.5,37.5,High Blood Pressure
+Trihexyphenidyl,8,7.5,12.5,0.0,87.5,Extrapyramidal Reaction
+Guaifenesin / phenylephrine,8,9.25,12.5,0.0,87.5,Sinus Symptoms
+Uroxatral,8,6.5,12.5,37.5,50.0,Benign Prostatic Hyperplasia
+Zytiga,7,9.71,0.0,0.0,100.0,Prostate Cance
+Xtampza ER,7,5.57,42.9,14.3,42.9,Chronic Pain
+Advil Cold and Sinus,7,7.29,28.6,0.0,71.4,Sinus Symptoms
+Dextromethorphan / quinidine,7,8.14,14.3,0.0,85.7,Pseudobulbar Affect
+Detrol LA,7,7.0,28.6,0.0,71.4,Overactive Bladde
+Xopenex,7,9.43,0.0,0.0,100.0,"Asthma, Maintenance"
+Zocor,7,5.86,42.9,0.0,57.1,High Cholesterol
+Glyburide,7,7.86,14.3,0.0,85.7,"Diabetes, Type 2"
+Glyxambi,7,6.0,42.9,0.0,57.1,"Diabetes, Type 2"
+Patanol,7,8.71,14.3,0.0,85.7,Seasonal Allergic Conjunctivitis
+Zorvolex,7,9.57,0.0,0.0,100.0,Pain
+Entyvio,7,4.43,57.1,28.6,14.3,Crohn's Disease
+Medrol Dosepak,7,7.86,28.6,0.0,71.4,Inflammatory Conditions
+Relafen,7,9.29,0.0,0.0,100.0,Back Pain
+Ketotifen,7,9.57,0.0,0.0,100.0,"Conjunctivitis, Allergic"
+Prevnar 13,7,4.29,42.9,42.9,14.3,Pneumococcal Disease Prophylaxis
+Evamist,7,8.29,14.3,0.0,85.7,Postmenopausal Symptoms
+Lopressor,7,9.0,0.0,0.0,100.0,High Blood Pressure
+Cleocin,7,7.29,28.6,0.0,71.4,Sinusitis
+Kombiglyze XR,7,6.29,28.6,14.3,57.1,"Diabetes, Type 2"
+Calcipotriene,7,6.86,28.6,0.0,71.4,Psoriasis
+Amitriptyline / chlordiazepoxide,7,9.71,0.0,0.0,100.0,Depression
+Esgic-Plus,7,8.71,14.3,0.0,85.7,Headache
+Potassium chloride,7,7.57,28.6,0.0,71.4,Prevention of Hypokalemia
+Prasugrel,7,7.86,14.3,14.3,71.4,Acute Coronary Syndrome
+Eylea,7,7.29,28.6,0.0,71.4,Macular Degeneration
+Combivent Respimat,7,4.57,71.4,0.0,28.6,"COPD, Maintenance"
+Oxaprozin,7,6.29,28.6,14.3,57.1,Rheumatoid Arthritis
+Corticotropin,7,8.29,14.3,14.3,71.4,Multiple Sclerosis
+Lodine,7,9.29,0.0,0.0,100.0,Pain
+Opcon-A,7,7.14,14.3,14.3,71.4,Eye Redness/Itching
+Lioresal,7,7.0,28.6,0.0,71.4,Muscle Spasm
+Tavaborole,7,3.71,71.4,0.0,28.6,"Onychomycosis, Toenail"
+Flurbiprofen,7,7.86,14.3,14.3,71.4,Back Pain
+Fosamax,7,2.0,85.7,14.3,0.0,Osteoporosis
+Lo / Ovral,7,3.57,71.4,0.0,28.6,Birth Control
+Trifluoperazine,7,8.14,14.3,0.0,85.7,Schizophrenia
+Aromasin,7,5.29,57.1,0.0,42.9,Breast Cance
+Toujeo,7,3.29,85.7,0.0,14.3,"Diabetes, Type 2"
+Formoterol,7,8.86,14.3,0.0,85.7,moterol)
+Naprelan,7,9.43,0.0,0.0,100.0,Osteoarthritis
+Cevimeline,7,7.86,14.3,0.0,85.7,Sjogren's Syndrome
+Tryptophan,7,8.43,14.3,0.0,85.7,Insomnia
+Horizant,7,7.14,28.6,14.3,57.1,Restless Legs Syndrome
+Amerge,7,9.57,0.0,0.0,100.0,Migraine
+Hizentra,7,7.0,14.3,0.0,85.7,Primary Immunodeficiency Syndrome
+Doxy 100,7,8.29,14.3,0.0,85.7,Acne
+Dalmane,7,8.14,14.3,0.0,85.7,Insomnia
+Prempro,7,5.71,42.9,0.0,57.1,Postmenopausal Symptoms
+Tessalon,7,8.14,14.3,0.0,85.7,Cough
+Terbutaline,7,6.0,28.6,0.0,71.4,Premature Lab
+Telaprevir,7,8.86,0.0,14.3,85.7,Hepatitis C
+Azo-Standard,7,8.71,0.0,0.0,100.0,Dysuria
+Immune globulin oral,7,8.14,14.3,0.0,85.7,Irritable Bowel Syndrome
+Azurette,7,6.43,28.6,0.0,71.4,Birth Control
+Azacitidine,7,4.71,42.9,28.6,28.6,Myelodysplastic Syndrome
+Sprix,7,8.57,14.3,0.0,85.7,Pain
+Loxapine,7,6.0,28.6,28.6,42.9,Schizophrenia
+Bepreve,7,8.43,14.3,0.0,85.7,"Conjunctivitis, Allergic"
+Rytary,7,3.71,71.4,14.3,14.3,Parkinson's Disease
+Ribavirin,7,6.0,42.9,0.0,57.1,Hepatitis C
+Insulin lispro,7,8.43,0.0,28.6,71.4,"Diabetes, Type 2"
+Serzone,7,9.57,0.0,0.0,100.0,Depression
+Sharobel,7,5.14,57.1,0.0,42.9,Birth Control
+Saw palmetto,7,5.57,42.9,14.3,42.9,Benign Prostatic Hyperplasia
+Sorafenib,7,7.0,28.6,0.0,71.4,Hepatocellular Carcinoma
+Imodium,7,8.57,14.3,0.0,85.7,Diarrhea
+Immune globulin subcutaneous,7,6.14,28.6,28.6,42.9,Primary Immunodeficiency Syndrome
+Belladonna / opium,7,9.86,0.0,0.0,100.0,Overactive Bladde
+Theophylline,7,9.0,0.0,14.3,85.7,"Asthma, Maintenance"
+Sunitinib,7,7.86,14.3,0.0,85.7,Renal Cell Carcinoma
+Cyclizine,7,6.71,28.6,14.3,57.1,Motion Sickness
+Afinitor,7,5.86,42.9,0.0,57.1,Breast Cance
+Trivora,7,8.0,28.6,0.0,71.4,Birth Control
+Zovirax,7,8.0,14.3,0.0,85.7,Herpes Simplex
+Metformin / saxagliptin,7,5.43,42.9,28.6,28.6,min / saxagliptin)
+Metamucil,7,7.71,28.6,0.0,71.4,Constipation
+Zestril,7,6.29,28.6,14.3,57.1,High Blood Pressure
+Actemra,7,7.71,28.6,0.0,71.4,Rheumatoid Arthritis
+Vitamin B12,7,8.71,0.0,28.6,71.4,B12 Nutritional Deficiency
+Vicks Sinex Nasal Spray (old formulation),7,8.43,14.3,0.0,85.7,Nasal Congestion
+Niravam,7,9.57,0.0,0.0,100.0,Anxiety
+Allegra-D 24 Hour,7,7.57,14.3,0.0,85.7,Allergic Rhinitis
+Granisetron,7,9.14,0.0,0.0,100.0,"Nausea/Vomiting, Chemotherapy Induced"
+Vigamox,7,5.14,57.1,0.0,42.9,"Conjunctivitis, Bacterial"
+Valdecoxib,7,9.86,0.0,0.0,100.0,Osteoarthritis
+Monistat 1-Day or Night Combination Pack,7,1.43,100.0,0.0,0.0,Vaginal Yeast Infection
+Tylenol PM,7,7.86,14.3,0.0,85.7,Insomnia
+Tylox,7,9.14,0.0,0.0,100.0,Pain
+Ursodiol,6,7.33,16.7,0.0,83.3,Gallbladder Disease
+Tyvaso,6,7.83,0.0,0.0,100.0,Pulmonary Hypertension
+Aldactone,6,6.83,33.3,0.0,66.7,Acne
+Halcion,6,9.33,0.0,0.0,100.0,Insomnia
+Ventolin,6,8.67,0.0,16.7,83.3,"Asthma, acute"
+Tylenol,6,5.67,33.3,16.7,50.0,Pain
+Vidaza,6,7.67,33.3,0.0,66.7,Myelodysplastic Syndrome
+Viekira Pak,6,5.33,50.0,0.0,50.0,Hepatitis C
+Xeloda,6,7.0,33.3,0.0,66.7,"Breast Cancer, Metastatic"
+Aclidinium,6,9.5,0.0,0.0,100.0,COPD
+Vicodin ES,6,9.33,0.0,0.0,100.0,Pain
+Dolgic Plus,6,8.33,0.0,33.3,66.7,Headache
+Imdur,6,5.17,50.0,0.0,50.0,Angina Pectoris Prophylaxis
+Mircette,6,4.17,66.7,0.0,33.3,Birth Control
+Meprobamate,6,8.17,16.7,0.0,83.3,Anxiety
+Bicalutamide,6,7.5,16.7,0.0,83.3,Prostate Cance
+Famotidine / ibuprofen,6,7.67,16.7,16.7,66.7,Osteoarthritis
+Salonpas Pain Patch,6,2.83,66.7,33.3,0.0,Muscle Pain
+Fluocinolone,6,8.83,0.0,0.0,100.0,Dermatitis
+Bimatoprost,6,4.83,50.0,16.7,33.3,"Glaucoma, Open Angle"
+Hytrin,6,6.83,33.3,0.0,66.7,Benign Prostatic Hyperplasia
+Ibrance,6,8.0,16.7,0.0,83.3,"Breast Cancer, Metastatic"
+Ionamin,6,7.33,33.3,0.0,66.7,Weight Loss
+Fiorinal with Codeine,6,9.83,0.0,0.0,100.0,Headache
+Ezetimibe / simvastatin,6,8.67,16.7,0.0,83.3,High Cholesterol
+Brompheniramine,6,9.67,0.0,0.0,100.0,Allergic Rhinitis
+Salofalk,6,7.5,16.7,16.7,66.7,"Ulcerative Colitis, Maintenance"
+Silver,6,9.33,0.0,0.0,100.0,Dermatological Disorders
+Saxagliptin,6,6.0,33.3,16.7,50.0,"Diabetes, Type 2"
+Biafine,6,9.83,0.0,0.0,100.0,Dry Skin
+Lupron Depot-PED,6,4.67,66.7,0.0,33.3,Precocious Puberty
+Lybrel,6,6.83,16.7,33.3,50.0,Birth Control
+Nuedexta,6,9.17,0.0,16.7,83.3,Pseudobulbar Affect
+Norflex,6,5.83,50.0,0.0,50.0,Muscle Spasm
+Cyclafem 1 / 35,6,5.67,16.7,50.0,33.3,Birth Control
+Lotronex,6,9.67,0.0,0.0,100.0,Irritable Bowel Syndrome
+"Influenza virus vaccine, inactivated",6,6.67,33.3,0.0,66.7,Influenza Prophylaxis
+Fentora,6,9.33,0.0,0.0,100.0,Breakthrough Pain
+Astelin,6,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Azilsartan medoxomil / chlorthalidone,6,6.67,16.7,16.7,66.7,High Blood Pressure
+Pentazocine,6,4.67,50.0,16.7,33.3,Pain
+Chlorpheniramine / dextromethorphan / phenylephrine,6,8.33,16.7,0.0,83.3,Cough and Nasal Congestion
+Pimozide,6,6.0,33.3,16.7,50.0,Tourette's Syndrome
+Racepinephrine,6,7.67,0.0,50.0,50.0,"Asthma, acute"
+Kenalog-40,6,7.83,16.7,16.7,66.7,Osteoarthritis
+Quillivant XR,6,5.0,50.0,16.7,33.3,ADHD
+ProAmatine,6,6.83,33.3,0.0,66.7,Postural Orthostatic Tachycardia Syndrome
+Cardizem,6,8.5,0.0,16.7,83.3,Atrial Fibrillation
+Propecia,6,6.0,33.3,0.0,66.7,Androgenetic Alopecia
+Regadenoson,6,6.33,33.3,0.0,66.7,Diagnosis and Investigation
+Daklinza,6,9.67,0.0,0.0,100.0,Hepatitis C
+Chlorpheniramine / dextromethorphan,6,4.67,50.0,16.7,33.3,Cough and Nasal Congestion
+Amaryl,6,7.33,16.7,0.0,83.3,"Diabetes, Type 2"
+Depo-Medrol,6,9.5,0.0,0.0,100.0,Inflammatory Conditions
+Levsin,6,5.83,33.3,0.0,66.7,Irritable Bowel Syndrome
+Minipress,6,8.83,0.0,16.7,83.3,Post Traumatic Stress Disorde
+Actiq,6,8.67,0.0,16.7,83.3,Breakthrough Pain
+Epoetin alfa,6,7.0,16.7,16.7,66.7,Anemia
+Pazeo,6,4.33,66.7,0.0,33.3,Seasonal Allergic Conjunctivitis
+Methylergonovine,6,9.67,0.0,0.0,100.0,Migraine
+Adenosine,6,7.83,16.7,0.0,83.3,Supraventricular Tachycardia
+Zinc oxide,6,9.67,0.0,0.0,100.0,Dermatologic Lesion
+EpiCeram,6,6.83,33.3,0.0,66.7,Dry Skin
+Levlen,6,4.83,66.7,0.0,33.3,Birth Control
+Letairis,6,8.17,16.7,0.0,83.3,Pulmonary Hypertension
+Effient,6,7.17,16.7,16.7,66.7,Acute Coronary Syndrome
+Mono-Linyah,6,5.17,50.0,16.7,33.3,Birth Control
+Edarbi,6,6.0,50.0,0.0,50.0,High Blood Pressure
+Enoxaparin,6,9.33,0.0,0.0,100.0,Deep Vein Thrombosis
+Lecithin,6,9.5,0.0,0.0,100.0,Herbal Supplementation
+Pepcid,6,7.33,16.7,0.0,83.3,GERD
+Cimetidine,6,7.83,16.7,0.0,83.3,GERD
+Flurandrenolide,6,9.67,0.0,0.0,100.0,Psoriasis
+Fluphenazine,6,7.33,16.7,0.0,83.3,Psychosis
+Triamterene,6,6.5,16.7,0.0,83.3,Edema
+Talwin Nx,6,9.17,0.0,0.0,100.0,Pain
+Tazorac,6,7.17,33.3,0.0,66.7,Acne
+Anakinra,6,8.67,0.0,0.0,100.0,Still's Disease
+Rasagiline,6,5.5,50.0,16.7,33.3,Parkinson's Disease
+Climara Pro,6,4.17,66.7,0.0,33.3,Postmenopausal Symptoms
+Namenda,6,3.5,66.7,16.7,16.7,Alzheimer's Disease
+Naphazoline / pheniramine,6,8.0,16.7,0.0,83.3,Eye Redness/Itching
+Bromfed DM,6,7.0,33.3,0.0,66.7,Cough and Nasal Congestion
+Revlimid,6,6.5,33.3,16.7,50.0,Multiple Myeloma
+Ethosuximide,6,9.0,0.0,0.0,100.0,Seizures
+Prilosec OTC,6,9.17,0.0,0.0,100.0,GERD
+Artane,6,5.5,50.0,0.0,50.0,Extrapyramidal Reaction
+Ammonium lactate,6,8.67,16.7,0.0,83.3,Dry Skin
+Saccharomyces boulardii lyo,6,8.17,0.0,16.7,83.3,Diarrhea
+Sanctura XR,6,9.17,0.0,0.0,100.0,Overactive Bladde
+Emtricitabine / tenofovir,6,7.5,33.3,0.0,66.7,HIV Infection
+Correctol,6,6.67,33.3,0.0,66.7,Constipation
+Visine Totality Multi-Symptom Relief,5,1.6,100.0,0.0,0.0,Eye Redness/Itching
+Albendazole,5,8.6,0.0,0.0,100.0,Cutaneous Larva Migrans
+Imbruvica,5,8.0,20.0,0.0,80.0,Chronic Lymphocytic Leukemia
+Acetaminophen / aspirin / caffeine / salicylamide,5,8.8,0.0,20.0,80.0,Migraine
+Acetaminophen / caffeine,5,9.6,0.0,0.0,100.0,Headache
+Acetaminophen / caffeine / isometheptene mucate,5,9.0,0.0,0.0,100.0,Headache
+Zenatane,5,9.8,0.0,0.0,100.0,Acne
+Viread,5,7.8,0.0,40.0,60.0,Hepatitis B
+Trimethobenzamide,5,8.2,20.0,0.0,80.0,Nausea/Vomiting
+Vicodin HP,5,7.2,20.0,20.0,60.0,Pain
+Felbatol,5,8.0,20.0,0.0,80.0,Epilepsy
+Felodipine,5,6.8,40.0,0.0,60.0,High Blood Pressure
+Imodium A-D,5,10.0,0.0,0.0,100.0,Diarrhea
+Ryzolt,5,6.0,40.0,0.0,60.0,Pain
+Aplenzin,5,5.8,40.0,20.0,40.0,Depression
+Florinef,5,8.2,0.0,20.0,80.0,Postural Orthostatic Tachycardia Syndrome
+Somnote,5,9.4,0.0,0.0,100.0,Insomnia
+Bactroban,5,7.2,20.0,20.0,60.0,Skin and Structure Infection
+Tetrahydrozoline / zinc sulfate,5,5.0,60.0,0.0,40.0,Eye Redness/Itching
+Rhofade,5,5.0,60.0,0.0,40.0,Rosacea
+Tenofovir,5,8.6,0.0,20.0,80.0,Hepatitis B
+Asmanex Twisthaler,5,8.4,20.0,0.0,80.0,"Asthma, Maintenance"
+Aspirin / caffeine / orphenadrine,5,8.8,20.0,0.0,80.0,Muscle Pain
+FluMist,5,3.2,60.0,20.0,20.0,Influenza Prophylaxis
+Testopel,5,6.4,40.0,0.0,60.0,"Hypogonadism, Male"
+Temodar,5,7.8,20.0,0.0,80.0,"Melanoma, Metastatic"
+Interferon beta-1b,5,7.8,0.0,20.0,80.0,Multiple Sclerosis
+Sipuleucel-T,5,6.2,20.0,40.0,40.0,Prostate Cance
+Brompheniramine / pseudoephedrine,5,8.2,20.0,0.0,80.0,Nasal Congestion
+Lucentis,5,8.0,0.0,20.0,80.0,Macular Degeneration
+Cylert,5,9.6,0.0,0.0,100.0,ADHD
+Inderal LA,5,5.8,40.0,0.0,60.0,Migraine Prevention
+Nizatidine,5,9.6,0.0,0.0,100.0,GERD
+Norgesic,5,7.4,20.0,0.0,80.0,Muscle Spasm
+Nostrilla,5,8.4,20.0,0.0,80.0,Nasal Congestion
+Combivent,5,8.8,0.0,20.0,80.0,"COPD, Maintenance"
+Dyanavel XR,5,7.4,20.0,20.0,60.0,ADHD
+Luvox CR,5,7.8,20.0,0.0,80.0,Post Traumatic Stress Disorde
+Biaxin XL,5,9.2,0.0,0.0,100.0,Bronchitis
+Novolog,5,4.6,60.0,0.0,40.0,"Diabetes, Type 2"
+Septra,5,5.6,40.0,20.0,40.0,Acne
+Selexipag,5,4.8,20.0,60.0,20.0,Pulmonary Hypertension
+Suprax,5,7.6,20.0,0.0,80.0,Otitis Media
+Sulfacetamide sodium,5,8.6,0.0,20.0,80.0,Conjunctivitis
+Insulin aspart,5,8.4,0.0,0.0,100.0,"Diabetes, Type 2"
+Cyclophosphamide,5,7.6,20.0,20.0,60.0,Multiple Sclerosis
+Nortrel 7 / 7 / 7,5,3.8,60.0,20.0,20.0,Birth Control
+Cyclessa,5,5.8,20.0,40.0,40.0,Birth Control
+Norel SR,5,9.2,0.0,0.0,100.0,Nasal Congestion
+Aluminum hydroxide / magnesium trisilicate,5,6.6,40.0,0.0,60.0,GERD
+Tri-Estarylla,5,3.8,80.0,0.0,20.0,Birth Control
+Allerx Dose Pack DF,5,9.6,0.0,0.0,100.0,Rhinitis
+Diovan HCT,5,6.2,40.0,0.0,60.0,High Blood Pressure
+Ultravate,5,9.4,0.0,0.0,100.0,Eczema
+Gas-X,5,7.0,40.0,0.0,60.0,Gas
+Trilipix,5,5.6,40.0,0.0,60.0,High Cholesterol
+Halaven,5,9.6,0.0,0.0,100.0,"Breast Cancer, Metastatic"
+Allegra-D 12 Hour,5,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Ziac,5,6.4,20.0,20.0,60.0,High Blood Pressure
+Acetaminophen / chlorpheniramine,5,7.4,20.0,0.0,80.0,Cold Symptoms
+Acetaminophen / chlorpheniramine / phenylephrine,5,3.8,60.0,20.0,20.0,Cold Symptoms
+Abiraterone,5,8.6,20.0,0.0,80.0,Prostate Cance
+Tindamax,5,5.8,40.0,0.0,60.0,Bacterial Vaginitis
+Tivicay,5,8.8,0.0,20.0,80.0,HIV Infection
+Salicylic acid,5,7.4,20.0,20.0,60.0,Acne
+Antivert,5,4.6,60.0,0.0,40.0,Vertig
+Kava,5,9.0,0.0,0.0,100.0,Anxiety
+Lo / Ovral-28,5,6.4,40.0,0.0,60.0,Birth Control
+Taxol,5,7.4,0.0,20.0,80.0,"Breast Cancer, Metastatic"
+Arava,5,5.6,20.0,20.0,60.0,Rheumatoid Arthritis
+Emla,5,8.6,20.0,0.0,80.0,Anesthesia
+Necon 1 / 50,5,3.8,60.0,20.0,20.0,Birth Control
+Ortho-Novum 1 / 35,5,8.0,0.0,20.0,80.0,Birth Control
+Maprotiline,5,8.2,20.0,0.0,80.0,Panic Disorde
+Everolimus,5,6.8,20.0,0.0,80.0,Breast Cance
+C1 esterase inhibitor (human),5,8.6,20.0,0.0,80.0,Hereditary Angioedema
+Proventil HFA,5,9.0,0.0,0.0,100.0,"COPD, Maintenance"
+Canasa,5,7.6,0.0,20.0,80.0,"Ulcerative Colitis, Active"
+Quazepam,5,9.4,0.0,0.0,100.0,Insomnia
+ProAir HFA,5,7.2,20.0,20.0,60.0,"Asthma, Maintenance"
+Procyclidine,5,5.0,60.0,0.0,40.0,Extrapyramidal Reaction
+Privine,5,10.0,0.0,0.0,100.0,Nasal Congestion
+Primatene Mist,5,10.0,0.0,0.0,100.0,"Asthma, acute"
+Prenatal Plus,5,6.4,20.0,40.0,40.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+CamreseLo,5,7.0,20.0,0.0,80.0,Birth Control
+Caverject Impulse,5,9.2,0.0,0.0,100.0,Erectile Dysfunction
+Ethinyl estradiol / folic acid / levonorgestrel,5,6.0,40.0,0.0,60.0,Birth Control
+Reprexain,5,7.8,0.0,0.0,100.0,Pain
+Retapamulin,5,7.4,20.0,0.0,80.0,Impetig
+Revia,5,9.2,0.0,0.0,100.0,Alcohol Dependence
+Raltegravir,5,9.0,0.0,20.0,80.0,HIV Infection
+Kenalog-10,5,7.8,20.0,0.0,80.0,Alopecia
+Keppra XR,5,8.6,0.0,20.0,80.0,Seizures
+Repaglinide,5,9.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Kenalog,5,9.0,0.0,0.0,100.0,Atopic Dermatitis
+Ofloxacin,5,6.2,40.0,0.0,60.0,Urinary Tract Infection
+Ospemifene,5,6.6,20.0,0.0,80.0,Dyspareunia
+CombiPatch,5,5.8,40.0,20.0,40.0,Postmenopausal Symptoms
+Botox Cosmetic,5,6.2,40.0,0.0,60.0,acial Wrinkles
+Mysoline,5,8.8,0.0,0.0,100.0,Seizures
+Uceris,5,8.6,0.0,20.0,80.0,"Ulcerative Colitis, Active"
+Gelnique,5,5.4,40.0,20.0,40.0,Overactive Bladde
+GaviLyte-G,5,9.0,0.0,0.0,100.0,Bowel Preparation
+Amethia,5,6.0,40.0,0.0,60.0,Birth Control
+Cervidil,5,3.8,60.0,0.0,40.0,Labor Induction
+Chloraseptic Sore Throat Spray,5,3.0,80.0,0.0,20.0,Sore Throat
+Dostinex,5,8.4,20.0,0.0,80.0,Hyperprolactinemia
+Malathion,5,9.2,0.0,20.0,80.0,Head Lice
+Dorzolamide,5,7.4,20.0,20.0,60.0,"Glaucoma, Open Angle"
+Dorzolamide / timolol,5,4.4,40.0,20.0,40.0,"Glaucoma, Open Angle"
+Nabilone,5,7.6,0.0,20.0,80.0,ibromyalgia
+Danazol,5,7.6,20.0,0.0,80.0,Angioedema
+Efavirenz,5,6.2,20.0,20.0,60.0,HIV Infection
+Edarbyclor,5,7.2,40.0,0.0,60.0,High Blood Pressure
+Delzicol,5,7.8,20.0,0.0,80.0,Ulcerative Colitis
+Turmeric,5,9.6,0.0,0.0,100.0,Herbal Supplementation
+Hiprex,5,8.8,0.0,0.0,100.0,Bladder Infection
+Levothroid,5,7.0,20.0,20.0,60.0,Underactive Thyroid
+Lessina,5,6.0,40.0,0.0,60.0,Birth Control
+Catapres-TTS,5,9.2,0.0,0.0,100.0,High Blood Pressure
+Estradiol Patch,5,7.4,20.0,0.0,80.0,Postmenopausal Symptoms
+Eslicarbazepine,5,7.4,20.0,0.0,80.0,Seizures
+Linagliptin / metformin,5,8.2,20.0,0.0,80.0,min)
+Ephedrine / guaifenesin,5,9.2,0.0,0.0,100.0,Cold Symptoms
+Chlorpheniramine / methscopolamine / phenylephrine,5,8.8,0.0,20.0,80.0,Rhinitis
+Chlorpheniramine / phenylephrine,5,10.0,0.0,0.0,100.0,Cold Symptoms
+Pegasys,5,6.6,20.0,20.0,60.0,Hepatitis C
+Polymyxin b / trimethoprim,5,4.4,60.0,0.0,40.0,"Conjunctivitis, Bacterial"
+Glycerin,5,7.4,20.0,0.0,80.0,Constipation
+Erbitux,5,6.4,20.0,0.0,80.0,Squamous Cell Carcinoma
+Xerac AC,5,8.6,20.0,0.0,80.0,Hyperhidrosis
+Motrin,5,7.4,0.0,20.0,80.0,Period Pain
+Mucinex D Maximum Strength,5,3.6,80.0,0.0,20.0,Cough and Nasal Congestion
+Duavee,5,7.6,20.0,0.0,80.0,Hot Flashes
+Dextromethorphan / guaifenesin / pseudoephedrine,5,9.6,0.0,0.0,100.0,Cough and Nasal Congestion
+Megace,5,7.2,20.0,20.0,60.0,Endometrial Hyperplasia
+Methylin ER,5,9.0,0.0,0.0,100.0,ADHD
+Diflunisal,5,8.4,0.0,20.0,80.0,Osteoarthritis
+Glucotrol,4,7.75,25.0,0.0,75.0,"Diabetes, Type 2"
+Acthar,4,7.0,25.0,25.0,50.0,Multiple Sclerosis
+X-Viate,4,9.75,0.0,0.0,100.0,Dry Skin
+Vusion,4,10.0,0.0,0.0,100.0,Diaper Rash
+Aflibercept,4,6.75,25.0,0.0,75.0,Macular Degeneration
+Mestinon,4,8.0,0.0,25.0,75.0,Dysautonomia
+Docetaxel,4,4.5,50.0,25.0,25.0,Breast Cance
+Docusate / senna,4,7.0,25.0,25.0,50.0,"Constipation, Acute"
+Zenzedi,4,7.5,25.0,0.0,75.0,ADHD
+Acetaminophen / pseudoephedrine,4,10.0,0.0,0.0,100.0,Sinus Symptoms
+Acetaminophen / dexbrompheniramine / pseudoephedrine,4,7.25,25.0,0.0,75.0,Allergic Rhinitis
+Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,4,9.0,0.0,0.0,100.0,Cold Symptoms
+Zylet,4,8.75,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Zolpimist,4,5.5,50.0,25.0,25.0,Insomnia
+Zoster vaccine live,4,3.0,75.0,0.0,25.0,"Herpes Zoster, Prophylaxis"
+Zovia 1 / 35,4,5.25,50.0,0.0,50.0,Birth Control
+Abilify Maintena,4,7.75,25.0,0.0,75.0,Schizophrenia
+Cholecalciferol,4,5.25,50.0,0.0,50.0,Vitamin D Deficiency
+Limbrel,4,7.25,25.0,0.0,75.0,Osteoarthritis
+Lexiscan,4,4.75,50.0,0.0,50.0,Diagnosis and Investigation
+Eplerenone,4,8.25,0.0,25.0,75.0,High Blood Pressure
+Entresto,4,6.0,50.0,0.0,50.0,Heart Failure
+Chlorpheniramine / hydrocodone / phenylephrine,4,9.75,0.0,0.0,100.0,Cough and Nasal Congestion
+Chlorpheniramine / hydrocodone / pseudoephedrine,4,10.0,0.0,0.0,100.0,Cough and Nasal Congestion
+Penicillin VK,4,8.5,25.0,0.0,75.0,Strep Throat
+Patanase,4,7.5,25.0,0.0,75.0,Allergic Rhinitis
+Paregoric,4,9.25,0.0,0.0,100.0,Diarrhea
+Parlodel,4,4.75,50.0,0.0,50.0,Hyperprolactinemia
+Paclitaxel protein-bound,4,7.25,25.0,0.0,75.0,Breast Cance
+PanOxyl,4,9.75,0.0,0.0,100.0,Acne
+Clindesse,4,6.0,50.0,0.0,50.0,Bacterial Vaginitis
+Clobazam,4,7.75,25.0,0.0,75.0,Epilepsy
+Eskalith,4,9.5,0.0,0.0,100.0,Bipolar Disorde
+Estrace,4,7.0,25.0,0.0,75.0,Postmenopausal Symptoms
+Chlorpheniramine / dextromethorphan / pseudoephedrine,4,9.75,0.0,0.0,100.0,Cough and Nasal Congestion
+Chlor-Trimeton,4,9.25,0.0,0.0,100.0,Allergic Rhinitis
+Phenol,4,6.0,25.0,25.0,50.0,Sore Throat
+Phenylephrine / pramoxine,4,7.0,25.0,0.0,75.0,Hemorrhoids
+Cinacalcet,4,5.0,50.0,25.0,25.0,Secondary Hyperparathyroidism
+Cafergot,4,8.75,0.0,25.0,75.0,Migraine
+Calan SR,4,8.25,25.0,0.0,75.0,Migraine Prevention
+Lacrisert,4,8.75,0.0,0.0,100.0,Eye Redness
+Evoxac,4,5.5,50.0,0.0,50.0,Sjogren's Syndrome
+Questran,4,7.75,25.0,0.0,75.0,Irritable Bowel Syndrome
+Carbidopa / entacapone / levodopa,4,8.0,0.0,25.0,75.0,Parkinson's Disease
+Procardia,4,6.5,25.0,25.0,50.0,Raynaud's Syndrome
+Cefzil,4,6.0,50.0,0.0,50.0,Upper Respiratory Tract Infection
+Cefixime,4,6.5,25.0,25.0,50.0,Bladder Infection
+Budeprion SR,4,9.0,0.0,0.0,100.0,Depression
+Revatio,4,5.5,50.0,0.0,50.0,Pulmonary Hypertension
+Brilinta,4,2.75,75.0,0.0,25.0,Acute Coronary Syndrome
+Remeron SolTab,4,7.5,25.0,0.0,75.0,Depression
+Klor-Con,4,6.5,25.0,25.0,50.0,Prevention of Hypokalemia
+Junel 1 / 20,4,6.75,25.0,25.0,50.0,Birth Control
+Rectiv,4,6.5,25.0,0.0,75.0,Anal Fissure and Fistula
+Quinapril,4,5.75,25.0,25.0,50.0,High Blood Pressure
+Claritin-D 24 Hour,4,6.0,25.0,25.0,50.0,Nasal Congestion
+Loestrin Fe 1 / 20,4,7.5,25.0,0.0,75.0,Birth Control
+Eltrombopag,4,8.75,0.0,25.0,75.0,Idiopathic Thrombocytopenic Purpura
+Emend,4,10.0,0.0,0.0,100.0,"Nausea/Vomiting, Chemotherapy Induced"
+Osphena,4,7.75,25.0,0.0,75.0,Dyspareunia
+Clozaril,4,8.75,0.0,0.0,100.0,Schizophrenia
+Omnaris,4,8.25,25.0,0.0,75.0,Allergic Rhinitis
+Onfi,4,5.5,50.0,0.0,50.0,Lennox-Gastaut Syndrome
+Sandostatin,4,8.25,25.0,0.0,75.0,Carcinoid Tum
+Jakafi,4,7.0,25.0,0.0,75.0,Polycythemia Vera
+Feldene,4,7.5,0.0,50.0,50.0,Osteoarthritis
+Femcon Fe,4,8.75,0.0,0.0,100.0,Birth Control
+Felbamate,4,8.75,0.0,0.0,100.0,Epilepsy
+Bioflavonoids,4,7.5,25.0,0.0,75.0,Osteoarthritis
+Bismuth subsalicylate,4,9.0,0.0,0.0,100.0,Diarrhea
+Rogaine Women's,4,9.75,0.0,0.0,100.0,Alopecia
+Riluzole,4,7.5,0.0,25.0,75.0,Obsessive Compulsive Disorde
+Bupivacaine,4,8.25,0.0,25.0,75.0,Local Anesthesia
+Bayer Aspirin,4,6.5,25.0,0.0,75.0,Back Pain
+Simcor,4,5.25,25.0,50.0,25.0,High Cholesterol
+Simethicone,4,9.0,0.0,0.0,100.0,Gas
+Simponi Aria,4,7.5,25.0,0.0,75.0,Rheumatoid Arthritis
+Sevelamer,4,5.25,50.0,0.0,50.0,Hyperphosphatemia of Renal Failure
+Intermezzo,4,9.5,0.0,0.0,100.0,Insomnia
+Fidaxomicin,4,6.5,25.0,25.0,50.0,Clostridial Infection
+Ferrous gluconate,4,9.5,0.0,0.0,100.0,Iron Deficiency Anemia
+Fexmid,4,5.75,50.0,0.0,50.0,Muscle Spasm
+Sensipar,4,8.25,0.0,25.0,75.0,Secondary Hyperparathyroidism
+Secobarbital,4,10.0,0.0,0.0,100.0,Insomnia
+Bethanechol,4,7.5,0.0,25.0,75.0,Urinary Retention
+Benzamycin,4,7.25,25.0,0.0,75.0,Acne
+Nucala,4,5.5,50.0,0.0,50.0,Asthma
+Durezol,4,6.5,25.0,25.0,50.0,Uveitis
+Lovenox,4,8.5,0.0,0.0,100.0,"Deep Vein Thrombosis, Prophylaxis"
+Creon,4,5.5,50.0,0.0,50.0,Pancreatic Exocrine Dysfunction
+Bacitracin / neomycin / polymyxin b,4,8.0,25.0,0.0,75.0,Bacterial Skin Infection
+"Influenza virus vaccine, live, trivalent",4,3.5,75.0,0.0,25.0,Influenza Prophylaxis
+Immune globulin intravenous,4,8.5,0.0,25.0,75.0,Primary Immunodeficiency Syndrome
+Avonex Pen,4,10.0,0.0,0.0,100.0,Multiple Sclerosis
+Stelazine,4,7.5,25.0,0.0,75.0,Schizophrenia
+Sporanox,4,6.25,25.0,25.0,50.0,"Onychomycosis, Toenail"
+Solu-Medrol,4,9.25,0.0,0.0,100.0,Inflammatory Conditions
+Soma Compound,4,9.75,0.0,0.0,100.0,Muscle Spasm
+Bendamustine,4,9.25,0.0,0.0,100.0,Non-Hodgkin's Lymphoma
+Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,4,4.75,50.0,25.0,25.0,Urinary Tract Infection
+Flovent,4,8.25,25.0,0.0,75.0,"Asthma, Maintenance"
+Temozolomide,4,7.0,25.0,0.0,75.0,Anaplastic Astrocytoma
+Asthmanefrin,4,8.0,0.0,25.0,75.0,"Asthma, acute"
+Aspirin / caffeine / salicylamide,4,9.5,0.0,0.0,100.0,Headache
+Aspirin / carisoprodol / codeine,4,9.5,0.0,0.0,100.0,Muscle Spasm
+Tambocor,4,9.25,0.0,0.0,100.0,Atrial Fibrillation
+Systane,4,1.0,100.0,0.0,0.0,Dry Eye Disease
+Tafluprost,4,8.25,25.0,0.0,75.0,"Glaucoma, Open Angle"
+TriCor,4,6.25,50.0,0.0,50.0,Hypertriglyceridemia
+Analpram-HC,4,7.5,25.0,0.0,75.0,Hemorrhoids
+Hydrochlorothiazide / irbesartan,4,9.25,0.0,0.0,100.0,High Blood Pressure
+Foradil Aerolizer,4,8.25,25.0,0.0,75.0,"Asthma, Maintenance"
+Fondaparinux,4,9.0,0.0,0.0,100.0,Pulmonary Embolism
+Torsemide,4,6.25,50.0,0.0,50.0,Edema
+Trandolapril / verapamil,4,9.25,0.0,0.0,100.0,High Blood Pressure
+Toradol IV / IM,4,6.0,50.0,0.0,50.0,Pain
+Tobramycin,4,9.25,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Tofranil,4,8.0,25.0,0.0,75.0,Panic Disorde
+Aptiom,4,6.5,25.0,25.0,50.0,Seizures
+Niacin / simvastatin,4,8.25,0.0,0.0,100.0,High Cholesterol
+Darvon,4,8.0,0.0,25.0,75.0,Pain
+Marlissa,4,3.0,75.0,0.0,25.0,Birth Control
+Magnesium salicylate,4,9.0,0.0,25.0,75.0,Pain
+Delsym 12 Hour Cough Relief,4,5.5,50.0,0.0,50.0,Cough
+Deltasone,4,6.5,25.0,25.0,50.0,Sarcoidosis
+Depakene,4,5.0,50.0,0.0,50.0,Bipolar Disorde
+Ubiquinone,4,10.0,0.0,0.0,100.0,Dietary Supplementation
+Amlodipine / hydrochlorothiazide / olmesartan,4,8.75,0.0,0.0,100.0,High Blood Pressure
+Amlodipine / hydrochlorothiazide / valsartan,4,9.75,0.0,0.0,100.0,ge HCT (amlodipine / hydrochlorothiazide / valsartan)
+Humalog KwikPen,4,4.75,50.0,25.0,25.0,"Diabetes, Type 2"
+Heather,4,8.5,25.0,0.0,75.0,Birth Control
+Gatifloxacin,4,7.75,25.0,0.0,75.0,Conjunctivitis
+Gefitinib,4,9.75,0.0,0.0,100.0,Non-Small Cell Lung Cance
+Ambrisentan,4,7.75,25.0,0.0,75.0,Pulmonary Hypertension
+Tudorza Pressair,4,9.25,0.0,0.0,100.0,COPD
+Twynsta,4,8.5,0.0,25.0,75.0,High Blood Pressure
+Vibramycin,4,7.75,0.0,25.0,75.0,Acne
+Altabax,4,9.25,0.0,0.0,100.0,Acne
+Altace,4,7.25,25.0,0.0,75.0,High Blood Pressure
+Altavera,4,7.5,25.0,0.0,75.0,Birth Control
+Alprazolam Intensol,4,10.0,0.0,0.0,100.0,Anxiety
+FreshKote,4,9.25,0.0,0.0,100.0,Eye Redness
+Goody's Extra-Strength Headache Powders,4,6.75,25.0,25.0,50.0,Pain/Feve
+Allegra Allergy,4,2.0,75.0,25.0,0.0,Allergic Rhinitis
+Vagistat-1,4,3.0,75.0,0.0,25.0,Vaginal Yeast Infection
+Ultram ODT,4,7.0,0.0,50.0,50.0,Chronic Pain
+Umeclidinium,4,3.75,75.0,0.0,25.0,COPD
+Undecylenic acid,4,6.75,25.0,25.0,50.0,Not Listed / Othe
+Medrol,4,7.0,25.0,0.0,75.0,"Gout, Acute"
+Megace ES,4,7.5,25.0,0.0,75.0,Weight Loss
+Migergot,4,10.0,0.0,0.0,100.0,Migraine
+Milk thistle,4,8.25,0.0,25.0,75.0,Herbal Supplementation
+Dextromethorphan / promethazine,4,5.5,50.0,0.0,50.0,Cough
+Dexamethasone / neomycin / polymyxin b,4,7.75,25.0,0.0,75.0,Blepharitis
+Dexamethasone / tobramycin,4,8.25,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Dexchlorpheniramine,4,7.75,25.0,0.0,75.0,Allergic Rhinitis
+Micardis HCT,4,6.75,25.0,25.0,50.0,High Blood Pressure
+Metoprolol Tartrate,4,6.75,25.0,0.0,75.0,High Blood Pressure
+Methyldopa,4,7.5,0.0,50.0,50.0,High Blood Pressure
+Didrex,4,7.5,25.0,0.0,75.0,Obesity
+Excedrin PM,3,7.0,33.3,0.0,66.7,Headache
+Arginine,3,9.67,0.0,0.0,100.0,Dietary Supplementation
+Crizotinib,3,10.0,0.0,0.0,100.0,Non-Small Cell Lung Cance
+Aptensio XR,3,6.33,0.0,66.7,33.3,ADHD
+Rezira,3,9.33,0.0,0.0,100.0,Cough and Nasal Congestion
+Bupivacaine liposome,3,10.0,0.0,0.0,100.0,Pain
+Lamisil AT,3,1.67,100.0,0.0,0.0,Tinea Cruris
+Bupap,3,8.33,0.0,33.3,66.7,Headache
+Nikki,3,5.0,66.7,0.0,33.3,Birth Control
+Thiothixene,3,10.0,0.0,0.0,100.0,Psychosis
+Demeclocycline,3,7.67,0.0,33.3,66.7,SIADH
+Larin Fe 1 / 20,3,1.33,100.0,0.0,0.0,Birth Control
+Trilafon,3,4.67,66.7,0.0,33.3,Bipolar Disorde
+Depo-Testosterone,3,9.33,0.0,0.0,100.0,"Hypogonadism, Male"
+Sinequan,3,9.33,0.0,0.0,100.0,Depression
+DesOwen,3,9.0,0.0,0.0,100.0,Eczema
+Eribulin,3,9.33,0.0,0.0,100.0,"Breast Cancer, Metastatic"
+Esgic,3,9.67,0.0,0.0,100.0,Headache
+Flunisolide,3,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Oxaliplatin,3,6.0,33.3,0.0,66.7,Colorectal Cance
+Sitavig,3,9.33,0.0,0.0,100.0,Cold Sores
+OsmoPrep,3,6.67,33.3,0.0,66.7,Bowel Preparation
+Coreg CR,3,8.67,0.0,33.3,66.7,Atrial Fibrillation
+Flavoxate,3,9.67,0.0,0.0,100.0,Dysuria
+Tesamorelin,3,7.67,0.0,0.0,100.0,Lipodystrophy
+Nicorette,3,7.67,33.3,0.0,66.7,Smoking Cessation
+Depo-Provera Contraceptive,3,5.67,33.3,33.3,33.3,Birth Control
+Duet DHA,3,7.0,0.0,33.3,66.7,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Stalevo,3,4.0,66.7,0.0,33.3,Parkinson's Disease
+Cytoxan,3,9.67,0.0,0.0,100.0,Wegener's Granulomatosis
+Treprostinil,3,8.33,0.0,0.0,100.0,Pulmonary Hypertension
+Carboplatin,3,6.33,33.3,0.0,66.7,Ovarian Cance
+Cardizem CD,3,4.33,33.3,33.3,33.3,Atrial Fibrillation
+Lopinavir / ritonavir,3,8.67,0.0,0.0,100.0,HIV Infection
+Cyred,3,7.0,33.3,0.0,66.7,Birth Control
+Anaprox-DS,3,10.0,0.0,0.0,100.0,Pain
+Insulin regular,3,9.67,0.0,0.0,100.0,"Diabetes, Type 1"
+Mebaral,3,10.0,0.0,0.0,100.0,Epilepsy
+Amoxapine,3,9.33,0.0,0.0,100.0,Depression
+Flagyl ER,3,8.33,0.0,0.0,100.0,Bacterial Vaginitis
+Evista,3,7.0,33.3,0.0,66.7,Osteoporosis
+Locoid Lipocream,3,9.0,0.0,0.0,100.0,Dermatitis
+Hydroquinone,3,4.33,66.7,0.0,33.3,Dermatological Disorders
+Pyrantel,3,8.67,0.0,33.3,66.7,Pinworm Infection (Enterobius vermicularis)
+Comtan,3,6.0,33.3,0.0,66.7,Parkinson's Disease
+Cutivate,3,9.33,0.0,0.0,100.0,Lichen Sclerosus
+Empagliflozin / linagliptin,3,9.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Iressa,3,9.33,0.0,0.0,100.0,Non-Small Cell Lung Cance
+Tranxene,3,7.67,0.0,33.3,66.7,Anxiety
+Toujeo Solostar,3,5.33,33.3,33.3,33.3,"Diabetes, Type 2"
+Topicort,3,10.0,0.0,0.0,100.0,Psoriasis
+Tolnaftate,3,7.67,0.0,33.3,66.7,Tinea Versicol
+Butabarbital,3,9.0,0.0,0.0,100.0,Sedation
+Tolak,3,4.0,66.7,0.0,33.3,Actinic Keratosis
+Pulmicort Turbuhaler,3,6.0,33.3,0.0,66.7,"Asthma, Maintenance"
+NeutraSal,3,10.0,0.0,0.0,100.0,Xerostomia
+Doxorubicin,3,7.67,33.3,0.0,66.7,Breast Cance
+Red yeast rice,3,10.0,0.0,0.0,100.0,High Cholesterol
+Sulfazine,3,8.67,0.0,0.0,100.0,Ulcerative Colitis
+Renvela,3,5.0,66.7,0.0,33.3,Hyperphosphatemia of Renal Failure
+Requip XL,3,7.0,33.3,0.0,66.7,Parkinson's Disease
+Darunavir,3,9.33,0.0,0.0,100.0,HIV Infection
+InnoPran XL,3,9.33,0.0,0.0,100.0,Migraine Prevention
+Indocin SR,3,7.0,0.0,33.3,66.7,Ankylosing Spondylitis
+Reserpine,3,9.67,0.0,0.0,100.0,High Blood Pressure
+Olodaterol,3,4.0,66.7,0.0,33.3,COPD
+Spectazole,3,9.67,0.0,0.0,100.0,Tinea Pedis
+NP Thyroid,3,5.67,33.3,33.3,33.3,Hashimoto's disease
+Azasite,3,3.33,66.7,0.0,33.3,"Conjunctivitis, Bacterial"
+Spinosad,3,10.0,0.0,0.0,100.0,Head Lice
+Aygestin,3,6.67,33.3,0.0,66.7,Endometriosis
+Sudafed Congestion,3,9.67,0.0,0.0,100.0,Nasal Congestion
+Nasacort Allergy 24HR,3,7.0,33.3,0.0,66.7,Allergic Rhinitis
+Spiriva Respimat,3,9.0,0.0,0.0,100.0,"COPD, Maintenance"
+Subsys,3,8.67,0.0,33.3,66.7,Chronic Pain
+Brompheniramine / dextromethorphan / phenylephrine,3,1.33,100.0,0.0,0.0,Cough and Nasal Congestion
+Natroba,3,6.67,33.3,0.0,66.7,Head Lice
+Sprycel,3,9.0,0.0,0.0,100.0,Chronic Myelogenous Leukemia
+Stiolto Respimat,3,9.67,0.0,0.0,100.0,"COPD, Maintenance"
+Necon 7 / 7 / 7,3,6.33,33.3,0.0,66.7,Birth Control
+Stimate,3,10.0,0.0,0.0,100.0,von Willebrand's Disease
+Ogestrel-28,3,8.0,0.0,33.3,66.7,Birth Control
+Balsam peru / castor oil / trypsin,3,10.0,0.0,0.0,100.0,Dermatologic Lesion
+Tenuate Dospan,3,9.0,0.0,0.0,100.0,Obesity
+Naftifine,3,10.0,0.0,0.0,100.0,Tinea Pedis
+Calcitonin,3,5.0,33.3,33.3,33.3,Osteoporosis
+D.H.E. 45,3,9.0,0.0,0.0,100.0,Cluster Headaches
+Atenolol / chlorthalidone,3,8.33,0.0,33.3,66.7,High Blood Pressure
+Balziva,3,6.0,33.3,33.3,33.3,Birth Control
+Aspirin / oxycodone,3,3.33,66.7,0.0,33.3,Pain
+Daclatasvir,3,10.0,0.0,0.0,100.0,Hepatitis C
+Banzel,3,10.0,0.0,0.0,100.0,Lennox-Gastaut Syndrome
+Ranibizumab,3,5.67,33.3,33.3,33.3,Macular Degeneration
+Corgard,3,9.33,0.0,0.0,100.0,Angina
+Edluar,3,8.67,0.0,0.0,100.0,Insomnia
+Marezine,3,10.0,0.0,0.0,100.0,Motion Sickness
+Asacol HD,3,9.67,0.0,0.0,100.0,"Ulcerative Colitis, Maintenance"
+Taxotere,3,4.67,66.7,0.0,33.3,Breast Cance
+Tanzeum,3,5.33,66.7,0.0,33.3,"Diabetes, Type 2"
+Talwin,3,9.67,0.0,0.0,100.0,Pain
+Jentadueto,3,6.0,33.3,0.0,66.7,"Diabetes, Type 2"
+Junel 1.5 / 30,3,5.33,33.3,33.3,33.3,Birth Control
+Avandia,3,1.67,100.0,0.0,0.0,"Diabetes, Type 2"
+Bazedoxifene / conjugated estrogens,3,10.0,0.0,0.0,100.0,Hot Flashes
+Keytruda,3,3.33,66.7,0.0,33.3,Head and Neck Cance
+Cobicistat / darunavir,3,4.0,66.7,0.0,33.3,HIV Infection
+Bumetanide,3,7.0,33.3,0.0,66.7,Edema
+Adoxa,3,8.67,0.0,33.3,66.7,Acne
+CoQ10,3,7.0,33.3,0.0,66.7,Dietary Supplementation
+Colazal,3,8.0,33.3,0.0,66.7,Crohn's Disease
+Blisovi Fe 1.5 / 30,3,6.0,33.3,0.0,66.7,Birth Control
+Lovaza,3,9.33,0.0,0.0,100.0,Hypertriglyceridemia
+Zovirax Ointment,3,9.0,0.0,0.0,100.0,Cold Sores
+Chlorpheniramine / methscopolamine / pseudoephedrine,3,9.67,0.0,0.0,100.0,Sinus Symptoms
+Actifed,3,9.0,0.0,0.0,100.0,Cold Symptoms
+Xiaflex,3,5.0,66.7,0.0,33.3,Dupuytren's contracture
+Latisse,3,8.33,0.0,33.3,66.7,Eyelash Hypotrichosis
+Xalatan,3,8.0,0.0,33.3,66.7,"Glaucoma, Open Angle"
+NuLYTELY,3,4.67,33.3,33.3,33.3,Bowel Preparation
+Enskyce,3,1.0,100.0,0.0,0.0,Birth Control
+Rowasa,3,7.0,33.3,0.0,66.7,"Ulcerative Colitis, Active"
+Aliskiren / hydrochlorothiazide,3,8.0,0.0,33.3,66.7,High Blood Pressure
+Alemtuzumab,3,8.33,0.0,33.3,66.7,Multiple Sclerosis
+Paromomycin,3,7.33,33.3,0.0,66.7,Dientamoeba fragilis
+Lotensin,3,5.0,66.7,0.0,33.3,High Blood Pressure
+Pneumococcal 23-polyvalent vaccine,3,2.33,100.0,0.0,0.0,Pneumococcal Disease Prophylaxis
+Botulinum toxin type b,3,6.33,33.3,0.0,66.7,Cervical Dystonia
+Voltaren-XR,3,9.33,0.0,0.0,100.0,Pain
+Vivarin,3,7.67,0.0,0.0,100.0,Hypersomnia
+Vivaglobin,3,9.33,0.0,0.0,100.0,Primary Immunodeficiency Syndrome
+Vitamin e,3,6.67,33.3,0.0,66.7,Dietary Supplementation
+Ponstel,3,7.0,33.3,0.0,66.7,Period Pain
+Boudreaux Butt Paste,3,9.33,0.0,0.0,100.0,Diaper Rash
+Lorazepam Intensol,3,10.0,0.0,0.0,100.0,Anxiety
+Norpramin,3,9.67,0.0,0.0,100.0,Depression
+Riboflavin,3,4.0,66.7,0.0,33.3,Migraine Prevention
+Ventolin HFA,3,6.0,33.3,0.0,66.7,"COPD, Maintenance"
+Zomig-ZMT,3,8.67,0.0,0.0,100.0,Migraine
+Cilostazol,3,9.33,0.0,0.0,100.0,Intermittent Claudication
+Chondroitin / glucosamine / methylsulfonylmethane,3,6.33,33.3,0.0,66.7,Osteoarthritis
+Rynatan,3,9.67,0.0,0.0,100.0,Cold Symptoms
+Glucose,3,9.67,0.0,0.0,100.0,Dietary Supplementation
+EContra EZ,3,3.0,66.7,33.3,0.0,Emergency Contraception
+Dysport,3,8.67,0.0,0.0,100.0,Cervical Dystonia
+Cetuximab,3,7.67,0.0,33.3,66.7,Colorectal Cance
+Lidocaine Viscous,3,5.67,33.3,33.3,33.3,Pain
+Lidocaine / prilocaine,3,8.33,0.0,0.0,100.0,Anesthesia
+Chaparral,3,9.67,0.0,0.0,100.0,Herbal Supplementation
+Bifidobacterium infantis / lactobacillus acidophilus,3,8.33,0.0,0.0,100.0,Dietary Supplementation
+Gildess 1 / 20,3,4.33,66.7,0.0,33.3,Birth Control
+Advair HFA,3,9.33,0.0,0.0,100.0,"Asthma, Maintenance"
+Isosorbide dinitrate,3,5.0,66.7,0.0,33.3,Angina
+Dyazide,3,5.0,66.7,0.0,33.3,High Blood Pressure
+Advil Liqui-Gels,3,9.33,0.0,0.0,100.0,"Gout, Acute"
+Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride,3,3.67,66.7,0.0,33.3,Bowel Preparation
+Gemifloxacin,3,6.67,33.3,0.0,66.7,Bronchitis
+Iron sucrose,3,9.33,0.0,0.0,100.0,Iron Deficiency Anemia
+Xigduo XR,3,9.67,0.0,0.0,100.0,"Diabetes, Type 2"
+Disopyramide,3,8.33,0.0,0.0,100.0,Arrhythmia
+Exubera,3,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Factive,3,2.67,66.7,33.3,0.0,Bronchitis
+Faslodex,3,8.67,0.0,0.0,100.0,"Breast Cancer, Metastatic"
+Epidrin,3,7.33,33.3,0.0,66.7,Headache
+Ephedrine,3,9.0,0.0,0.0,100.0,Narcolepsy
+Lumigan,3,9.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Levsin SL,3,9.67,0.0,0.0,100.0,Urinary Incontinence
+Methylcellulose,3,7.67,33.3,0.0,66.7,Constipation
+Methylin,3,9.67,0.0,0.0,100.0,ADHD
+Verdeso,3,9.67,0.0,0.0,100.0,Eczema
+Unisom SleepGels,3,6.67,33.3,0.0,66.7,Insomnia
+Tylenol with Codeine #4,3,5.67,33.3,33.3,33.3,Pain
+Mexiletine,3,6.67,0.0,66.7,33.3,Diabetic Peripheral Neuropathy
+Tylenol with Codeine,3,8.0,0.0,33.3,66.7,Pain
+Octreotide,3,7.67,0.0,33.3,66.7,Carcinoid Tum
+Amitriptyline / perphenazine,3,9.67,0.0,0.0,100.0,Anxiety
+Amethia Lo,3,4.0,66.7,0.0,33.3,Birth Control
+Prodrin,3,8.33,0.0,0.0,100.0,Headache
+Humatrope,3,7.67,0.0,33.3,66.7,Adult Human Growth Hormone Deficiency
+Urso,3,10.0,0.0,0.0,100.0,Biliary Cirrhosis
+Dextromethorphan / guaifenesin / phenylephrine,3,7.0,33.3,0.0,66.7,Cough and Nasal Congestion
+OxyIR,3,7.67,0.0,33.3,66.7,Pain
+Cloderm,3,9.67,0.0,0.0,100.0,Atopic Dermatitis
+Promethazine DM,3,8.33,0.0,33.3,66.7,Cough
+Protonix IV,3,9.67,0.0,0.0,100.0,Barrett's Esophagus
+GaviLyte-N,3,7.67,33.3,0.0,66.7,Bowel Preparation
+Nitro-Bid,3,10.0,0.0,0.0,100.0,Raynaud's Syndrome
+Insulin glulisine,3,9.67,0.0,0.0,100.0,"Diabetes, Type 2"
+Insulin isophane,3,9.0,0.0,0.0,100.0,Gestational Diabetes
+Tropicamide,3,2.67,66.7,33.3,0.0,Pupillary Dilation
+Triptorelin,3,6.0,33.3,0.0,66.7,Prostate Cance
+Captopril,3,9.33,0.0,0.0,100.0,High Blood Pressure
+Senokot S,3,9.67,0.0,0.0,100.0,"Constipation, Acute"
+Nupercainal,3,10.0,0.0,0.0,100.0,Hemorrhoids
+Aluminum hydroxide / magnesium hydroxide / simethicone,3,9.33,0.0,0.0,100.0,Gas
+Salsalate,3,6.33,33.3,0.0,66.7,Osteoarthritis
+Rosiglitazone,3,7.0,33.3,0.0,66.7,"Diabetes, Type 2"
+Benzoic acid / salicylic acid,3,10.0,0.0,0.0,100.0,Dermatological Disorders
+Mestranol / norethindrone,3,8.67,0.0,0.0,100.0,Abnormal Uterine Bleeding
+Metformin / pioglitazone,3,6.0,33.3,0.0,66.7,min / pioglitazone)
+Caverject,3,9.0,0.0,0.0,100.0,Erectile Dysfunction
+Fulvestrant,3,2.67,66.7,33.3,0.0,"Breast Cancer, Metastatic"
+Unithroid,3,6.67,33.3,0.0,66.7,"Hypothyroidism, After Thyroid Removal"
+Pamabrom,3,6.0,33.3,0.0,66.7,Edema
+Guarana,3,4.0,66.7,0.0,33.3,Herbal Supplementation
+Procardia XL,3,5.67,33.3,0.0,66.7,High Blood Pressure
+Risperdal Consta,3,8.33,0.0,0.0,100.0,Schizophrenia
+NoDoz,3,9.0,0.0,0.0,100.0,Hypersomnia
+Vantin,3,7.0,33.3,0.0,66.7,Upper Respiratory Tract Infection
+Dibucaine,3,9.33,0.0,0.0,100.0,Anal Itching
+Cefditoren,3,4.33,66.7,0.0,33.3,Bronchitis
+Difluprednate,3,7.33,0.0,66.7,33.3,Uveitis
+Guaifenesin / hydrocodone,3,8.67,0.0,0.0,100.0,Cough
+Nytol,3,5.67,33.3,33.3,33.3,Insomnia
+Buckleys Mixture,2,7.5,0.0,50.0,50.0,Cough
+Ritalin LA,2,9.0,0.0,0.0,100.0,ADHD
+Rhinocort Aqua,2,6.5,50.0,0.0,50.0,Allergic Rhinitis
+Ridaura,2,10.0,0.0,0.0,100.0,Rheumatoid Arthritis
+Rhinocort,2,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Roxicodone Intensol,2,10.0,0.0,0.0,100.0,Pain
+Ritalin-SR,2,9.0,0.0,0.0,100.0,Narcolepsy
+Rocuronium,2,5.5,50.0,0.0,50.0,Anesthesia
+Risperdal M-Tab,2,10.0,0.0,0.0,100.0,Schizoaffective Disorde
+Rufinamide,2,10.0,0.0,0.0,100.0,Lennox-Gastaut Syndrome
+Bumex,2,8.5,0.0,0.0,100.0,Edema
+Rilonacept,2,10.0,0.0,0.0,100.0,amilial Cold Autoinflammatory Syndrome
+Pletal,2,5.5,50.0,0.0,50.0,Intermittent Claudication
+Polidocanol,2,3.5,50.0,50.0,0.0,Varicose Veins
+Potassium citrate,2,5.5,0.0,100.0,0.0,Renal Tubular Acidosis
+Povidone iodine,2,5.5,50.0,0.0,50.0,Topical Disinfection
+Pramlintide,2,10.0,0.0,0.0,100.0,"Diabetes, Type 1"
+Prandin,2,9.5,0.0,0.0,100.0,"Diabetes, Type 2"
+Pravachol,2,5.5,50.0,0.0,50.0,High Cholesterol
+PreNexa,2,9.5,0.0,0.0,100.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Ruxolitinib,2,9.0,0.0,0.0,100.0,Polycythemia Vera
+Prednisolone / sulfacetamide sodium,2,10.0,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Cardura XL,2,6.0,50.0,0.0,50.0,Benign Prostatic Hyperplasia
+Casodex,2,9.5,0.0,0.0,100.0,Prostate Cance
+Cedax,2,10.0,0.0,0.0,100.0,Bronchitis
+Cefpodoxime,2,9.0,0.0,0.0,100.0,Bladder Infection
+Premarin Vaginal,2,8.0,0.0,50.0,50.0,Postmenopausal Symptoms
+Probenecid,2,9.5,0.0,0.0,100.0,Gout
+Proctofoam HC,2,9.5,0.0,0.0,100.0,Hemorrhoids
+Prednicarbate,2,9.5,0.0,0.0,100.0,Eczema
+Pentoxifylline,2,8.5,0.0,0.0,100.0,Intermittent Claudication
+Percodan,2,7.5,0.0,50.0,50.0,Pain
+Phentercot,2,9.5,0.0,0.0,100.0,Weight Loss
+Cesamet,2,5.5,50.0,0.0,50.0,"Nausea/Vomiting, Chemotherapy Induced"
+Children's Claritin Allergy,2,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Children's Motrin,2,10.0,0.0,0.0,100.0,eve
+Chloramphenicol,2,5.5,50.0,0.0,50.0,Bacterial Infection
+Phenytek,2,9.5,0.0,0.0,100.0,Seizures
+Entacapone,2,4.0,50.0,0.0,50.0,Parkinson's Disease
+Pilocarpine,2,9.5,0.0,0.0,100.0,Xerostomia
+Piperacillin / tazobactam,2,7.0,0.0,0.0,100.0,Kidney Infections
+Pirbuterol,2,7.0,0.0,50.0,50.0,"Asthma, acute"
+Plendil,2,9.5,0.0,0.0,100.0,Raynaud's Syndrome
+Estraderm,2,5.5,50.0,0.0,50.0,Postmenopausal Symptoms
+Estratest H.S.,2,9.5,0.0,0.0,100.0,Menopausal Disorders
+Estropipate,2,10.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Leukeran,2,8.5,0.0,0.0,100.0,Chronic Lymphocytic Leukemia
+Picato,2,8.5,0.0,0.0,100.0,Keratosis
+Lariam,2,5.5,50.0,0.0,50.0,Malaria Prevention
+Ergotamine,2,5.0,50.0,0.0,50.0,Migraine
+Butoconazole,2,8.5,0.0,0.0,100.0,Vaginal Yeast Infection
+Caduet,2,9.5,0.0,0.0,100.0,High Blood Pressure
+Calamine,2,9.0,0.0,0.0,100.0,Pruritus
+Calan,2,10.0,0.0,0.0,100.0,Cluster Headaches
+R-Tanna,2,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Raloxifene,2,4.0,50.0,0.0,50.0,Prevention of Osteoporosis
+Proctosol-HC,2,10.0,0.0,0.0,100.0,Hemorrhoids
+Junel Fe 24,2,6.5,0.0,50.0,50.0,Birth Control
+Krystexxa,2,10.0,0.0,0.0,100.0,Gout
+Ethambutol,2,1.0,100.0,0.0,0.0,"Mycobacterium avium-intracellulare, Treatment"
+Etravirine,2,8.0,0.0,0.0,100.0,HIV Infection
+Retin A Micro,2,9.0,0.0,0.0,100.0,Acne
+Brimonidine / brinzolamide,2,10.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Brimonidine / timolol,2,7.5,0.0,0.0,100.0,Glaucoma
+Bronkaid,2,9.5,0.0,0.0,100.0,Cold Symptoms
+Rayos,2,9.5,0.0,0.0,100.0,COPD
+Proferrin-ES,2,6.5,50.0,0.0,50.0,Iron Deficiency Anemia
+Prolixin,2,5.0,50.0,0.0,50.0,Psychosis
+Calcium carbonate / simethicone,2,10.0,0.0,0.0,100.0,GERD
+Calmoseptine,2,7.0,50.0,0.0,50.0,Diaper Rash
+Camphor / menthol,2,2.5,100.0,0.0,0.0,Not Listed / Othe
+Capzasin-HP,2,4.5,50.0,0.0,50.0,Diabetic Peripheral Neuropathy
+Carbamide peroxide,2,1.0,100.0,0.0,0.0,Ear Wax Impaction
+Cardura,2,8.5,0.0,0.0,100.0,Benign Prostatic Hyperplasia
+Lanacane,2,9.0,0.0,0.0,100.0,Pruritus
+Pulmicort Flexhaler,2,7.0,50.0,0.0,50.0,"Asthma, Maintenance"
+Qualaquin,2,10.0,0.0,0.0,100.0,Nocturnal Leg Cramps
+Questran Light,2,8.0,0.0,50.0,50.0,Crohn's Disease
+Buprenex,2,10.0,0.0,0.0,100.0,Pain
+L-Methylfolate Calcium,2,10.0,0.0,0.0,100.0,Dietary Supplementation
+Lactaid,2,5.5,50.0,0.0,50.0,Lactose Intolerance
+Lactic acid,2,10.0,0.0,0.0,100.0,Dry Skin
+Lamictal XR,2,8.5,0.0,0.0,100.0,Seizure Prevention
+Lamivudine,2,8.5,0.0,0.0,100.0,HIV Infection
+Psoriasin,2,5.5,50.0,0.0,50.0,Psoriasis
+Histrelin,2,2.5,100.0,0.0,0.0,Precocious Puberty
+Horse chestnut,2,9.0,0.0,0.0,100.0,Inflammatory Conditions
+Humulin R U-500 (Concentrated),2,10.0,0.0,0.0,100.0,"Diabetes, Type 1"
+Amikacin,2,5.5,50.0,0.0,50.0,Not Listed / Othe
+Amlodipine / telmisartan,2,9.5,0.0,0.0,100.0,High Blood Pressure
+Uta,2,8.5,0.0,0.0,100.0,Urinary Tract Infection
+Valerian,2,4.0,50.0,0.0,50.0,Insomnia
+Vandazole,2,5.5,50.0,0.0,50.0,Bacterial Vaginitis
+CitraNatal 90 DHA,2,8.5,0.0,0.0,100.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Gonal-f,2,10.0,0.0,0.0,100.0,"Hypogonadism, Male"
+Gralise,2,8.0,0.0,0.0,100.0,Postherpetic Neuralgia
+Habitrol,2,10.0,0.0,0.0,100.0,Smoking Cessation
+Fuzeon,2,10.0,0.0,0.0,100.0,HIV Infection
+Gabarone,2,4.0,100.0,0.0,0.0,Restless Legs Syndrome
+Gabitril,2,6.0,50.0,0.0,50.0,Seizures
+Gadobutrol,2,1.0,100.0,0.0,0.0,CNS Magnetic Resonance Imaging
+Gammagard,2,7.0,0.0,0.0,100.0,Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+Ganciclovir,2,7.5,0.0,50.0,50.0,Herpes Simplex Dendritic Keratitis
+Allantoin / camphor / phenol,2,9.0,0.0,0.0,100.0,Herpes Simplex
+Hydrocodone / pseudoephedrine,2,7.5,0.0,0.0,100.0,Cough and Nasal Congestion
+Hydrocortisone / lidocaine,2,9.0,0.0,0.0,100.0,Hemorrhoids
+Hydroxocobalamin,2,1.0,100.0,0.0,0.0,Vitamin B12 Deficiency
+Firmagon,2,10.0,0.0,0.0,100.0,Prostate Cance
+Ampicillin,2,10.0,0.0,0.0,100.0,Meningitis
+Anaprox,2,5.0,50.0,0.0,50.0,Osteoarthritis
+Antipyrine / benzocaine,2,10.0,0.0,0.0,100.0,Otitis Media
+Trastuzumab,2,9.5,0.0,0.0,100.0,"Breast Cancer, Adjuvant"
+Travoprost,2,10.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Hexachlorophene,2,5.5,50.0,0.0,50.0,Acne
+Trezix,2,8.0,0.0,0.0,100.0,Pain
+Tri-Lo-Marzia,2,3.0,100.0,0.0,0.0,Birth Control
+Triple Antibiotic,2,8.5,0.0,0.0,100.0,Bacterial Skin Infection
+Alupent,2,9.5,0.0,0.0,100.0,"Asthma, Maintenance"
+Alyacen 1 / 35,2,3.0,50.0,50.0,0.0,Birth Control
+AmLactin,2,9.5,0.0,0.0,100.0,Ichthyosis
+Gemcitabine,2,6.5,0.0,50.0,50.0,"Breast Cancer, Metastatic"
+Halog,2,9.0,0.0,0.0,100.0,Eczema
+Herceptin,2,10.0,0.0,0.0,100.0,"Breast Cancer, Metastatic"
+Trental,2,8.5,0.0,0.0,100.0,Intermittent Claudication
+Zegerid OTC,2,7.0,50.0,0.0,50.0,GERD
+Zelboraf,2,9.5,0.0,0.0,100.0,"Melanoma, Metastatic"
+Zenpep,2,9.5,0.0,0.0,100.0,Chronic Pancreatitis
+Ziconotide,2,4.0,50.0,0.0,50.0,Chronic Pain
+A / B Otic,2,10.0,0.0,0.0,100.0,Otitis Media
+Gemzar,2,8.0,0.0,0.0,100.0,Pancreatic Cance
+GenTeal,2,5.0,50.0,0.0,50.0,Eye Redness
+Gentian violet,2,8.0,0.0,0.0,100.0,Oral Thrush
+Gildess 1.5 / 30,2,5.5,50.0,0.0,50.0,Birth Control
+Alpha 1-proteinase inhibitor,2,10.0,0.0,0.0,100.0,Alpha-1 Proteinase Inhibitor Deficiency
+Glatopa,2,4.5,50.0,0.0,50.0,Multiple Sclerosis
+GlipiZIDE XL,2,8.0,0.0,50.0,50.0,"Diabetes, Type 2"
+Glipizide / metformin,2,3.5,50.0,50.0,0.0,"Diabetes, Type 2"
+Glucophage XR,2,9.0,0.0,0.0,100.0,Polycystic Ovary Syndrome
+Glucosamine,2,10.0,0.0,0.0,100.0,Osteoarthritis
+Glutamine,2,5.5,50.0,0.0,50.0,Dietary Supplementation
+Glyburide / metformin,2,4.0,50.0,50.0,0.0,"Diabetes, Type 2"
+Adcirca,2,6.0,0.0,50.0,50.0,Pulmonary Hypertension
+Addyi,2,1.0,100.0,0.0,0.0,Hypoactive Sexual Desire Disorde
+Ginseng,2,4.5,50.0,0.0,50.0,Herbal Supplementation
+Vemurafenib,2,3.0,100.0,0.0,0.0,"Melanoma, Metastatic"
+Venofer,2,5.5,50.0,0.0,50.0,Iron Deficiency Anemia
+Verelan PM,2,9.5,0.0,0.0,100.0,Cluster Headaches
+Vincristine,2,7.5,0.0,50.0,50.0,Non-Hodgkin's Lymphoma
+Vitafol Ultra,2,6.5,50.0,0.0,50.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Vitamin B2,2,8.0,0.0,0.0,100.0,Migraine Prevention
+Afrin Original,2,1.0,100.0,0.0,0.0,Nasal Congestion
+Alclometasone,2,8.5,0.0,0.0,100.0,Psoriasis
+Alcortin A,2,8.5,0.0,0.0,100.0,Dermatitis
+Acetaminophen / phenylephrine,2,10.0,0.0,0.0,100.0,Not Listed / Othe
+WP Thyroid,2,10.0,0.0,0.0,100.0,Hashimoto's disease
+WinRho SDF,2,4.0,50.0,50.0,0.0,Idiopathic Thrombocytopenic Purpura
+Xartemis XR,2,8.5,0.0,0.0,100.0,Chronic Pain
+Activella,2,9.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Zurampic,2,10.0,0.0,0.0,100.0,Gout
+Zymar,2,9.5,0.0,0.0,100.0,Ophthalmic Surgery
+Zyrtec-D,2,8.5,0.0,0.0,100.0,Allergic Rhinitis
+Acetaminophen / diphenhydramine / phenylephrine,2,5.5,50.0,0.0,50.0,Cold Symptoms
+Acetaminophen / pentazocine,2,8.5,0.0,0.0,100.0,Pain
+Alka-Seltzer Plus Cold,2,10.0,0.0,0.0,100.0,Sinus Symptoms
+Siliq,2,10.0,0.0,0.0,100.0,Plaque Psoriasis
+Silvadene,2,10.0,0.0,0.0,100.0,"Burns, External"
+Simeprevir,2,9.5,0.0,0.0,100.0,Hepatitis C
+Simply Sleep,2,6.5,0.0,50.0,50.0,Insomnia
+Bacitracin / polymyxin b,2,10.0,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Basaglar,2,6.0,50.0,0.0,50.0,"Diabetes, Type 2"
+Solaraze,2,7.5,0.0,50.0,50.0,Keratosis
+Soriatane,2,9.0,0.0,0.0,100.0,Psoriasis
+Hydrochlorothiazide / spironolactone,2,9.5,0.0,0.0,100.0,Edema
+Sublimaze,2,9.5,0.0,0.0,100.0,Pain
+Sudafed 24-Hour,2,9.0,0.0,0.0,100.0,Nasal Congestion
+Azasan,2,7.0,50.0,0.0,50.0,Crohn's Disease
+Iclusig,2,3.0,50.0,50.0,0.0,Acute Lymphoblastic Leukemia
+Imitrex Nasal,2,9.0,0.0,0.0,100.0,Cluster Headaches
+Incivek,2,5.0,50.0,0.0,50.0,Hepatitis C
+Indapamide,2,8.0,0.0,50.0,50.0,High Blood Pressure
+Fenoprofen,2,8.5,0.0,0.0,100.0,"Gout, Acute"
+Sulfatrim,2,10.0,0.0,0.0,100.0,Urinary Tract Infection
+Stromectol,2,8.5,0.0,0.0,100.0,Scabies
+Rythmol,2,5.0,50.0,0.0,50.0,Atrial Fibrillation
+Bicillin L-A,2,10.0,0.0,0.0,100.0,"Lyme Disease, Neurologic"
+Isocarboxazid,2,9.5,0.0,0.0,100.0,Depression
+Bontril PDM,2,5.0,50.0,0.0,50.0,Obesity
+Bosentan,2,9.5,0.0,0.0,100.0,Pulmonary Hypertension
+Salmeterol,2,4.5,50.0,0.0,50.0,"Asthma, Maintenance"
+Sansert,2,10.0,0.0,0.0,100.0,Migraine
+Sarna Sensitive,2,10.0,0.0,0.0,100.0,Pruritus
+BenzEFoam,2,7.0,0.0,50.0,50.0,Acne
+Iron polysaccharide,2,10.0,0.0,0.0,100.0,Iron Deficiency Anemia
+Bextra,2,9.5,0.0,0.0,100.0,Rheumatoid Arthritis
+Seconal Sodium,2,10.0,0.0,0.0,100.0,Insomnia
+Selzentry,2,7.0,0.0,50.0,50.0,HIV Infection
+Senna Lax,2,1.0,100.0,0.0,0.0,Constipation
+Senna Plus,2,9.0,0.0,0.0,100.0,"Constipation, Acute"
+Firazyr,2,6.0,50.0,0.0,50.0,Hereditary Angioedema
+Insulin isophane / insulin regular,2,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Insulin lispro / insulin lispro protamine,2,7.5,0.0,50.0,50.0,"Diabetes, Type 2"
+Interferon alfa-2b,2,5.5,50.0,0.0,50.0,Melanoma
+Besivance,2,7.5,0.0,50.0,50.0,"Conjunctivitis, Bacterial"
+Flibanserin,2,9.5,0.0,0.0,100.0,Hypoactive Sexual Desire Disorde
+Flovent HFA,2,7.0,0.0,50.0,50.0,"Asthma, Maintenance"
+Hypotears,2,10.0,0.0,0.0,100.0,Eye Redness
+Icatibant,2,6.5,50.0,0.0,50.0,Hereditary Angioedema
+Tev-Tropin,2,5.5,50.0,0.0,50.0,Pediatric Growth Hormone Deficiency
+Thiopental,2,7.0,50.0,0.0,50.0,Anesthesia
+Tiagabine,2,6.5,50.0,0.0,50.0,Bipolar Disorde
+Tiger Balm,2,6.5,0.0,50.0,50.0,Pain
+Timolol,2,9.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Sustiva,2,6.0,50.0,0.0,50.0,HIV Infection
+Apokyn,2,6.5,50.0,0.0,50.0,Parkinson's Disease
+Apomorphine,2,8.5,0.0,0.0,100.0,Parkinson's Disease
+Aranesp,2,9.0,0.0,0.0,100.0,Anemia Associated with Chronic Renal Failure
+Arformoterol,2,9.5,0.0,0.0,100.0,moterol)
+Aristocort,2,10.0,0.0,0.0,100.0,Asthma
+Artemether / lumefantrine,2,9.5,0.0,0.0,100.0,Malaria
+Tolmetin,2,8.5,0.0,0.0,100.0,Rheumatoid Arthritis
+Folic acid,2,9.0,0.0,0.0,100.0,Vitamin/Mineral Supplementation and Deficiency
+Hydrea,2,6.5,50.0,0.0,50.0,Thrombocythemia
+TobraDex,2,5.5,50.0,0.0,50.0,"Conjunctivitis, Bacterial"
+Symax Duotab,2,9.5,0.0,0.0,100.0,Irritable Bowel Syndrome
+Synalar,2,10.0,0.0,0.0,100.0,Lichen Sclerosus
+Synjardy,2,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Atropine / difenoxin,2,10.0,0.0,0.0,100.0,"Diarrhea, Acute"
+Atrovent,2,7.0,50.0,0.0,50.0,"COPD, Maintenance"
+Auryxia,2,5.5,50.0,0.0,50.0,Hyperphosphatemia of Renal Failure
+Avalide,2,9.5,0.0,0.0,100.0,High Blood Pressure
+Avandamet,2,6.0,50.0,0.0,50.0,"Diabetes, Type 2"
+Aveeno,2,4.5,50.0,0.0,50.0,Dry Skin
+Fleet Glycerin Suppositories Adult,2,10.0,0.0,0.0,100.0,Constipation
+Ascomp with Codeine,2,10.0,0.0,0.0,100.0,Headache
+Ascorbic acid,2,5.5,50.0,0.0,50.0,Dietary Supplementation
+Aspirin / caffeine,2,10.0,0.0,0.0,100.0,Pain
+Aspirin / dipyridamole,2,5.5,50.0,0.0,50.0,"Ischemic Stroke, Prophylaxis"
+Atelvia,2,2.0,100.0,0.0,0.0,Osteoporosis
+Temovate,2,10.0,0.0,0.0,100.0,Dermatitis
+Terazol,2,7.5,0.0,0.0,100.0,Vaginal Yeast Infection
+Terazol 7,2,5.5,50.0,0.0,50.0,Vaginal Yeast Infection
+Fleet Bisacodyl,2,5.5,50.0,0.0,50.0,Unknown
+Taclonex Scalp,2,9.5,0.0,0.0,100.0,Psoriasis
+Dicloxacillin,2,7.0,50.0,0.0,50.0,Skin or Soft Tissue Infection
+Dificid,2,9.0,0.0,0.0,100.0,Clostridial Infection
+Diflorasone,2,9.5,0.0,0.0,100.0,Eczema
+Oxiconazole,2,9.0,0.0,0.0,100.0,Tinea Corporis
+Orudis KT,2,10.0,0.0,0.0,100.0,Pain
+Oramorph SR,2,6.0,50.0,0.0,50.0,Pain
+Colchicine / probenecid,2,7.0,50.0,0.0,50.0,Gouty Arthritis
+Cogentin,2,10.0,0.0,0.0,100.0,Extrapyramidal Reaction
+Coenzyme Q10,2,9.0,0.0,0.0,100.0,Unknown
+Mexitil,2,6.5,50.0,0.0,50.0,Arrhythmia
+Palgic,2,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Opsumit,2,10.0,0.0,0.0,100.0,Pulmonary Hypertension
+Dexchlorpheniramine / dextromethorphan / pseudoephedrine,2,9.0,0.0,0.0,100.0,Sinusitis
+Dextrostat,2,10.0,0.0,0.0,100.0,"Sexual Dysfunction, SSRI Induced"
+Diamox Sequels,2,8.5,0.0,0.0,100.0,Edema
+Oleptro,2,1.0,100.0,0.0,0.0,Depression
+Cordran Tape,2,10.0,0.0,0.0,100.0,Psoriasis
+Condylox,2,3.5,50.0,50.0,0.0,Condylomata Acuminata
+Combivir,2,10.0,0.0,0.0,100.0,HIV Infection
+Oasis Tears,2,2.0,100.0,0.0,0.0,Eye Redness
+Nuvessa,2,6.5,0.0,50.0,50.0,Bacterial Vaginitis
+Mibelas 24 Fe,2,1.0,100.0,0.0,0.0,Birth Control
+Paclitaxel,2,8.5,0.0,0.0,100.0,Ovarian Cance
+femhrt,2,5.0,50.0,0.0,50.0,Acne
+Ditropan XL,2,9.0,0.0,0.0,100.0,Prostatitis
+PEG3350,2,8.5,0.0,0.0,100.0,Constipation
+Oxyfast,2,10.0,0.0,0.0,100.0,Pain
+Clocortolone,2,10.0,0.0,0.0,100.0,Dermatitis
+Clindamax,2,5.5,50.0,0.0,50.0,Bacterial Vaginitis
+Cleocin HCl,2,8.5,0.0,0.0,100.0,Bone infection
+Menthol,2,9.0,0.0,0.0,100.0,Pain
+Menthol / zinc oxide,2,10.0,0.0,0.0,100.0,Diaper Rash
+CitraNatal Assure,2,9.5,0.0,0.0,100.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Lomaira,2,7.5,0.0,50.0,50.0,Obesity
+Mepivacaine,2,4.5,50.0,0.0,50.0,Local Anesthesia
+Emtricitabine / rilpivirine / tenofovir alafenamide,2,10.0,0.0,0.0,100.0,HIV Infection
+Elinest,2,10.0,0.0,0.0,100.0,Birth Control
+Elestrin,2,9.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Elestat,2,9.5,0.0,0.0,100.0,"Conjunctivitis, Allergic"
+Electrolyte replacement solutions,2,9.0,0.0,0.0,100.0,Not Listed / Othe
+Lipofen,2,8.5,0.0,0.0,100.0,"Hyperlipoproteinemia Type IIa, Elevated LDL"
+Mestinon Timespan,2,9.5,0.0,0.0,100.0,Myasthenia Gravis
+Diazepam Intensol,2,10.0,0.0,0.0,100.0,Anxiety
+Lopid,2,9.5,0.0,0.0,100.0,High Cholesterol
+Nexavar,2,7.0,0.0,0.0,100.0,Thyroid Cance
+Nevirapine,2,8.5,0.0,0.0,100.0,HIV Infection
+Mycophenolic acid,2,9.0,0.0,0.0,100.0,Rejection Prophylaxis
+Myfortic,2,10.0,0.0,0.0,100.0,Rejection Prophylaxis
+Myleran,2,10.0,0.0,0.0,100.0,Chronic Myelogenous Leukemia
+Nafarelin,2,8.5,0.0,0.0,100.0,Endometriosis
+Naloxone / oxycodone,2,4.5,50.0,0.0,50.0,Pain
+Nepafenac,2,5.0,50.0,0.0,50.0,Postoperative Increased Intraocular Pressure
+Neoral,2,9.5,0.0,0.0,100.0,Idiopathic Thrombocytopenic Purpura
+Neo-Poly-Dex,2,5.0,50.0,0.0,50.0,"Conjunctivitis, Bacterial"
+Droperidol,2,2.5,100.0,0.0,0.0,Nausea/Vomiting
+Navane,2,9.0,0.0,0.0,100.0,Psychosis
+Natpara,2,8.5,0.0,0.0,100.0,Hypoparathyroidism
+Nasacort AQ,2,9.5,0.0,0.0,100.0,Allergic Rhinitis
+Namenda XR,2,5.5,50.0,0.0,50.0,Alzheimer's Disease
+Debrox,2,5.5,50.0,0.0,50.0,Ear Wax Impaction
+Magnesium amino acids chelate,2,10.0,0.0,0.0,100.0,Hypomagnesemia
+Dasabuvir / ombitasvir / paritaprevir / ritonavir,2,10.0,0.0,0.0,100.0,Hepatitis C
+Magnesium sulfate,2,5.5,50.0,0.0,50.0,Unknown
+Darbepoetin alfa,2,9.0,0.0,0.0,100.0,"Anemia, Chemotherapy Induced"
+Dantrolene,2,10.0,0.0,0.0,100.0,Unknown
+Egrifta,2,4.5,50.0,50.0,0.0,Lipodystrophy
+Maxair Autohaler,2,9.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Duramorph,2,7.0,50.0,0.0,50.0,Pain
+DuoNeb,2,9.5,0.0,0.0,100.0,"COPD, Maintenance"
+Menest,2,9.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Diphenhydramine / hydrocortisone,2,10.0,0.0,0.0,100.0,Pruritus
+Low-Ogestrel-21,2,8.0,0.0,0.0,100.0,Unknown
+Lotemax,2,5.5,50.0,0.0,50.0,Seasonal Allergic Conjunctivitis
+Mirapex ER,2,8.5,0.0,0.0,100.0,Parkinson's Disease
+Monovisc,2,5.0,50.0,0.0,50.0,Osteoarthritis
+Norfloxacin,2,5.5,50.0,0.0,50.0,Bladder Infection
+Mycelex Troche,2,3.5,50.0,50.0,0.0,Oral Thrush
+Nonoxynol 9,2,5.0,50.0,0.0,50.0,Birth Control
+Nizoral,2,10.0,0.0,0.0,100.0,Tinea Versicol
+Nitrostat,2,9.0,0.0,0.0,100.0,Angina
+Degarelix,2,8.5,0.0,0.0,100.0,Prostate Cance
+Crotamiton,2,10.0,0.0,0.0,100.0,Pruritus
+Creatine,2,4.0,50.0,0.0,50.0,Herbal Supplementation
+Cranberry,2,10.0,0.0,0.0,100.0,Urinary Tract Infection
+Nimodipine,2,9.0,0.0,0.0,100.0,Migraine Prevention
+Mucomyst,2,5.5,50.0,0.0,50.0,Expectoration
+Niferex,2,8.0,0.0,0.0,100.0,Iron Deficiency Anemia
+Nifedical XL,2,3.0,100.0,0.0,0.0,High Blood Pressure
+Mucinex DM,2,9.0,0.0,0.0,100.0,Cough
+Xylocaine Jelly,2,10.0,0.0,0.0,100.0,"Burns, External"
+EnteraGam,2,1.0,100.0,0.0,0.0,Irritable Bowel Syndrome
+Zanamivir,2,6.0,50.0,0.0,50.0,Influenza
+Panitumumab,2,1.0,100.0,0.0,0.0,Colorectal Cance
+Penicillin g benzathine,2,8.5,0.0,0.0,100.0,Bacterial Infection
+Afatinib,2,7.5,0.0,50.0,50.0,Non-Small Cell Lung Cance
+Enulose,2,9.5,0.0,0.0,100.0,Unknown
+Pemirolast,2,5.5,50.0,0.0,50.0,"Conjunctivitis, Allergic"
+Lidex,2,9.5,0.0,0.0,100.0,Dermatitis
+Epzicom,2,10.0,0.0,0.0,100.0,HIV Infection
+Pemoline,2,9.5,0.0,0.0,100.0,ADHD
+Xtandi,2,1.0,100.0,0.0,0.0,Prostate Cance
+Peginterferon beta-1a,2,8.5,0.0,0.0,100.0,Multiple Sclerosis
+Xolegel,2,7.5,0.0,50.0,50.0,Seborrheic Dermatitis
+Kybella,2,5.5,50.0,0.0,50.0,Submental Fullness
+EpiPen,2,10.0,0.0,0.0,100.0,Anaphylaxis
+Paremyd,2,2.0,100.0,0.0,0.0,Pupillary Dilation
+ZzzQuil,2,2.5,100.0,0.0,0.0,Insomnia
+Zaroxolyn,2,7.5,0.0,50.0,50.0,Edema
+Acarbose,2,4.5,50.0,0.0,50.0,"Diabetes, Type 2"
+Accolate,2,10.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Pegloticase,2,9.5,0.0,0.0,100.0,Gout
+Lidocaine / menthol,2,10.0,0.0,0.0,100.0,Muscle Pain
+Mucinex Maximum Strength,1,4.0,100.0,0.0,0.0,Bronchitis
+Aerobid,1,10.0,0.0,0.0,100.0,Asthma
+Anusol-HC Suppositories,1,1.0,100.0,0.0,0.0,Hemorrhoids
+Mucinex Fast-Max Severe Congestion & Cough,1,1.0,100.0,0.0,0.0,Cough and Nasal Congestion
+Mucinex Fast-Max Night Time Cold & Flu,1,5.0,0.0,100.0,0.0,Cold Symptoms
+Aquavite-E,1,1.0,100.0,0.0,0.0,Tardive Dyskinesia
+Aquoral,1,1.0,100.0,0.0,0.0,Xerostomia
+ActoPlus Met,1,9.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Motrin IB,1,10.0,0.0,0.0,100.0,Pain
+Motofen,1,10.0,0.0,0.0,100.0,"Diarrhea, Chronic"
+Aricept ODT,1,10.0,0.0,0.0,100.0,Mild Cognitive Impairment
+Monurol,1,1.0,100.0,0.0,0.0,Bladder Infection
+Arsenic trioxide,1,9.0,0.0,0.0,100.0,Acute Promyelocytic Leukemia
+Advil PM,1,9.0,0.0,0.0,100.0,Insomnia
+Generlac,1,10.0,0.0,0.0,100.0,Hepatic Encephalopathy
+Hyzine,1,8.0,0.0,0.0,100.0,Allergies
+Ibudone,1,7.0,0.0,0.0,100.0,Pain
+Desloratadine / pseudoephedrine,1,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Tetracaine,1,10.0,0.0,0.0,100.0,Cold Sores
+Tetrahydrozoline,1,10.0,0.0,0.0,100.0,Eye Redness
+DermaZinc Shampoo,1,10.0,0.0,0.0,100.0,Seborrheic Dermatitis
+Theo-24,1,9.0,0.0,0.0,100.0,"Asthma, Maintenance"
+TheraTears,1,9.0,0.0,0.0,100.0,Eye Redness
+Depakote Sprinkles,1,9.0,0.0,0.0,100.0,Mania
+Arixtra,1,6.0,0.0,100.0,0.0,Deep Vein Thrombosis
+Delatestryl,1,10.0,0.0,0.0,100.0,"Hypogonadism, Male"
+Dehydroepiandrosterone,1,8.0,0.0,0.0,100.0,Dietary Supplementation
+Tiazac,1,10.0,0.0,0.0,100.0,Atrial Fibrillation
+Tigan,1,8.0,0.0,0.0,100.0,Nausea/Vomiting
+Advicor,1,10.0,0.0,0.0,100.0,High Cholesterol
+Deconamine,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Timoptic,1,4.0,100.0,0.0,0.0,Intraocular Hypertension
+Timoptic Ocudose,1,7.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Tinzaparin,1,7.0,0.0,0.0,100.0,Deep Vein Thrombosis
+Mucinex Sinus-Max Full Force,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Anucort-HC,1,2.0,100.0,0.0,0.0,Psoriasis
+Thioridazine,1,8.0,0.0,0.0,100.0,Schizophrenia
+Hyaluronidase,1,10.0,0.0,0.0,100.0,Hypodermoclysis
+Hydralazine / hydrochlorothiazide / reserpine,1,3.0,100.0,0.0,0.0,High Blood Pressure
+Hydralazine / isosorbide dinitrate,1,9.0,0.0,0.0,100.0,Heart Failure
+Zileuton,1,1.0,100.0,0.0,0.0,"Asthma, Maintenance"
+Hydrochlorothiazide / moexipril,1,8.0,0.0,0.0,100.0,High Blood Pressure
+Xopenex HFA,1,10.0,0.0,0.0,100.0,"Asthma, acute"
+Menactra,1,1.0,100.0,0.0,0.0,Meningococcal Meningitis Prophylaxis
+Melquin HP,1,2.0,100.0,0.0,0.0,Dermatological Disorders
+Hydrocortone,1,8.0,0.0,0.0,100.0,Addison's Disease
+Melpaque HP,1,1.0,100.0,0.0,0.0,Dermatological Disorders
+Mellaril,1,10.0,0.0,0.0,100.0,Schizophrenia
+Desonate,1,10.0,0.0,0.0,100.0,Eczema
+Medi-Quik Spray,1,10.0,0.0,0.0,100.0,Pain
+Flagyl IV,1,7.0,0.0,0.0,100.0,Bacterial Infection
+Ammonium lactate / halobetasol,1,10.0,0.0,0.0,100.0,Psoriasis
+Mebendazole,1,1.0,100.0,0.0,0.0,Ascariasis
+Zicam Extreme Congestion Relief,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Maxzide,1,9.0,0.0,0.0,100.0,High Blood Pressure
+Ampicillin / sulbactam,1,7.0,0.0,0.0,100.0,Urinary Tract Infection
+Anacin,1,10.0,0.0,0.0,100.0,Pain
+Zestoretic,1,10.0,0.0,0.0,100.0,High Blood Pressure
+Maxifed DM,1,8.0,0.0,0.0,100.0,Cough and Nasal Congestion
+Maxidone,1,10.0,0.0,0.0,100.0,Pain
+Medrox,1,6.0,0.0,100.0,0.0,Muscle Pain
+Diprosone,1,10.0,0.0,0.0,100.0,Dermatological Disorders
+Tobrex,1,10.0,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Todays Health Nasal  Relief Extra Moisturizing,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Monopril,1,9.0,0.0,0.0,100.0,High Blood Pressure
+Moexipril,1,8.0,0.0,0.0,100.0,High Blood Pressure
+Moban,1,9.0,0.0,0.0,100.0,Schizophrenia
+Topical Anesthetic Dental Gel,1,1.0,100.0,0.0,0.0,Oral and Dental Conditions
+Mitoxantrone,1,10.0,0.0,0.0,100.0,Multiple Sclerosis
+Topicort LP,1,10.0,0.0,0.0,100.0,Psoriasis
+Topiragen,1,9.0,0.0,0.0,100.0,Seizure Prevention
+Torisel,1,9.0,0.0,0.0,100.0,Renal Cell Carcinoma
+Fostex Medicated,1,10.0,0.0,0.0,100.0,Acne
+Trametinib,1,9.0,0.0,0.0,100.0,"Melanoma, Metastatic"
+Trandolapril,1,2.0,100.0,0.0,0.0,Heart Failure
+Diphenhydramine / pseudoephedrine,1,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Fluorometholone,1,8.0,0.0,0.0,100.0,Steroid Responsive Inflammatory Conditions
+Fluoroplex,1,8.0,0.0,0.0,100.0,Skin Cance
+Fluvastatin,1,9.0,0.0,0.0,100.0,Unknown
+Diphenhydramine / phenylephrine,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Fortamet,1,10.0,0.0,0.0,100.0,Insulin Resistance Syndrome
+Fortical,1,1.0,100.0,0.0,0.0,Osteoporosis
+Zinc gluconate,1,7.0,0.0,0.0,100.0,Dietary Supplementation
+Fosinopril,1,10.0,0.0,0.0,100.0,High Blood Pressure
+Fosrenol,1,2.0,100.0,0.0,0.0,Hyperphosphatemia of Renal Failure
+Diprolene AF,1,9.0,0.0,0.0,100.0,Atopic Dermatitis
+Magnacet,1,10.0,0.0,0.0,100.0,Pain
+Magaldrate / simethicone,1,10.0,0.0,0.0,100.0,Indigestion
+Avar,1,10.0,0.0,0.0,100.0,Acne
+Avar LS Cleanser,1,10.0,0.0,0.0,100.0,Seborrheic Dermatitis
+Aveed,1,1.0,100.0,0.0,0.0,"Hypogonadism, Male"
+Macugen,1,9.0,0.0,0.0,100.0,Macular Degeneration
+Aventyl Hydrochloride,1,1.0,100.0,0.0,0.0,Reflex Sympathetic Dystrophy Syndrome
+Avita,1,10.0,0.0,0.0,100.0,Acne
+Systane Ultra,1,1.0,100.0,0.0,0.0,Dry Eye Disease
+AbobotulinumtoxinA,1,5.0,0.0,100.0,0.0,acial Wrinkles
+Abraxane,1,10.0,0.0,0.0,100.0,Breast Cance
+HyoMax SL,1,9.0,0.0,0.0,100.0,Irritable Bowel Syndrome
+Tafinlar,1,9.0,0.0,0.0,100.0,"Melanoma, Metastatic"
+Tagamet,1,8.0,0.0,0.0,100.0,Stomach Ulce
+Take Action,1,10.0,0.0,0.0,100.0,Emergency Contraception
+Glumetza,1,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+MG217 Medicated Tar,1,9.0,0.0,0.0,100.0,Psoriasis
+Tandem,1,10.0,0.0,0.0,100.0,Iron Deficiency Anemia
+MCT,1,2.0,100.0,0.0,0.0,Dietary Supplementation
+Tapazole,1,10.0,0.0,0.0,100.0,Hyperthyroidism
+Glucovance,1,8.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Absorbine Jr.,1,10.0,0.0,0.0,100.0,Rheumatoid Arthritis
+Targretin,1,9.0,0.0,0.0,100.0,Cutaneous T-cell Lymphoma
+MVI Adult,1,1.0,100.0,0.0,0.0,Dietary Supplementation
+Sulfinpyrazone,1,9.0,0.0,0.0,100.0,Gouty Arthritis
+Sulfur,1,10.0,0.0,0.0,100.0,Acne
+Sumadan,1,8.0,0.0,0.0,100.0,Acne
+Supprelin LA,1,9.0,0.0,0.0,100.0,Precocious Puberty
+Suprenza,1,10.0,0.0,0.0,100.0,Weight Loss
+Dapagliflozin / metformin,1,8.0,0.0,0.0,100.0,min)
+Danocrine,1,10.0,0.0,0.0,100.0,Endometriosis
+Symlin,1,9.0,0.0,0.0,100.0,"Diabetes, Type 2"
+pHisoHex,1,10.0,0.0,0.0,100.0,"Skin Disinfection, Preoperative"
+SymlinPen 60,1,10.0,0.0,0.0,100.0,"Diabetes, Type 1"
+Symmetrel,1,8.0,0.0,0.0,100.0,Parkinson's Disease
+Gold sodium thiomalate,1,10.0,0.0,0.0,100.0,Rheumatoid Arthritis
+Mandelamine,1,10.0,0.0,0.0,100.0,Prevention of Bladder infection
+Atropine,1,3.0,100.0,0.0,0.0,Not Listed / Othe
+Acyclovir / hydrocortisone,1,10.0,0.0,0.0,100.0,Cold Sores
+Magnesium gluconate,1,10.0,0.0,0.0,100.0,Dietary Supplementation
+Atrovent HFA,1,7.0,0.0,0.0,100.0,"COPD, Maintenance"
+Goldenseal,1,10.0,0.0,0.0,100.0,Skin and Structure Infection
+Atrovent Nasal,1,10.0,0.0,0.0,100.0,Rhinorrhea
+Attapulgite,1,10.0,0.0,0.0,100.0,Diarrhea
+Augmentin ES-600,1,3.0,100.0,0.0,0.0,Strep Throat
+Augmentin XR,1,9.0,0.0,0.0,100.0,Skin and Structure Infection
+Magnesium aspartate,1,7.0,0.0,0.0,100.0,Dietary Supplementation
+Marplan,1,8.0,0.0,0.0,100.0,Depression
+Ginkgo,1,6.0,0.0,100.0,0.0,Herbal Supplementation
+Ginger,1,10.0,0.0,0.0,100.0,Nausea/Vomiting
+Fleet Phospho Soda,1,6.0,0.0,100.0,0.0,Unknown
+Flolan,1,6.0,0.0,100.0,0.0,Pulmonary Hypertension
+Flonase Allergy Relief,1,1.0,100.0,0.0,0.0,Rhinitis
+Flonase Sensimist,1,3.0,100.0,0.0,0.0,Allergic Rhinitis
+Florastor,1,10.0,0.0,0.0,100.0,Diarrhea
+Florinef Acetate,1,10.0,0.0,0.0,100.0,Postural Orthostatic Tachycardia Syndrome
+Mumps virus vaccine,1,4.0,100.0,0.0,0.0,Mumps Prophylaxis
+Floxin,1,10.0,0.0,0.0,100.0,Campylobacter Gastroenteritis
+FluMist Quadrivalent,1,1.0,100.0,0.0,0.0,Influenza Prophylaxis
+M-Zole 3,1,1.0,100.0,0.0,0.0,Vaginal Yeast Infection
+Gildess 24 Fe,1,2.0,100.0,0.0,0.0,Birth Control
+Acetaminophen / caffeine / magnesium salicylate,1,10.0,0.0,0.0,100.0,Muscle Pain
+Hylira,1,10.0,0.0,0.0,100.0,Dermatitis
+Adriamycin,1,10.0,0.0,0.0,100.0,Cance
+HyoMax,1,8.0,0.0,0.0,100.0,Irritable Bowel Syndrome
+Anexsia,1,8.0,0.0,0.0,100.0,Pain
+HyoMax SR,1,8.0,0.0,0.0,100.0,Crohn's Disease
+Advate,1,9.0,0.0,0.0,100.0,Hemophilia A
+Gentamicin,1,10.0,0.0,0.0,100.0,Skin and Structure Infection
+Hyoscyamine / methenamine / methylene blue / sodium biphosphate,1,10.0,0.0,0.0,100.0,Urinary Tract Infection
+Hyosyne,1,8.0,0.0,0.0,100.0,Irritable Bowel Syndrome
+Fludarabine,1,6.0,0.0,100.0,0.0,Chronic Lymphocytic Leukemia
+M-End PE,1,10.0,0.0,0.0,100.0,Cough and Nasal Congestion
+Absorica,1,1.0,100.0,0.0,0.0,Acne
+Ecallantide,1,10.0,0.0,0.0,100.0,Hereditary Angioedema
+Asendin,1,10.0,0.0,0.0,100.0,Depression
+Damiana,1,10.0,0.0,0.0,100.0,Erectile Dysfunction
+Aspirin / diphenhydramine,1,9.0,0.0,0.0,100.0,Insomnia
+Accupril,1,5.0,0.0,100.0,0.0,Heart Failure
+Dallergy,1,6.0,0.0,100.0,0.0,Nasal Congestion
+DDAVP Nasal,1,9.0,0.0,0.0,100.0,Diabetes Insipidus
+Atacand,1,1.0,100.0,0.0,0.0,High Blood Pressure
+DDAVP,1,10.0,0.0,0.0,100.0,Diabetes Insipidus
+Acetaminophen / aspirin,1,8.0,0.0,0.0,100.0,Back Pain
+Atovaquone,1,10.0,0.0,0.0,100.0,Malaria
+Taztia XT,1,9.0,0.0,0.0,100.0,Unknown
+Tekturna HCT,1,10.0,0.0,0.0,100.0,High Blood Pressure
+Glimepiride / rosiglitazone,1,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Tenex,1,10.0,0.0,0.0,100.0,Unknown
+Tenoretic 50,1,9.0,0.0,0.0,100.0,High Blood Pressure
+Nafcillin,1,9.0,0.0,0.0,100.0,Bone infection
+Glimepiride / pioglitazone,1,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Acebutolol,1,9.0,0.0,0.0,100.0,High Blood Pressure
+Mylanta Gas,1,3.0,100.0,0.0,0.0,Gas
+Mylanta,1,10.0,0.0,0.0,100.0,GERD
+D3,1,10.0,0.0,0.0,100.0,Vitamin D Deficiency
+Gadoxetate disodium,1,1.0,100.0,0.0,0.0,Liver Magnetic Resonance Imaging
+Mepron,1,1.0,100.0,0.0,0.0,Babesiosis
+Gamunex,1,10.0,0.0,0.0,100.0,Primary Immunodeficiency Syndrome
+Mepolizumab,1,10.0,0.0,0.0,100.0,Asthma
+Zostavax,1,10.0,0.0,0.0,100.0,"Herpes Zoster, Prophylaxis"
+Garlic,1,10.0,0.0,0.0,100.0,Bacterial Infection
+Gastrocrom,1,9.0,0.0,0.0,100.0,Systemic Mastocytosis
+Aloe vera,1,10.0,0.0,0.0,100.0,"Burns, External"
+Zecuity,1,3.0,100.0,0.0,0.0,Migraine
+Alogliptin,1,1.0,100.0,0.0,0.0,"Diabetes, Type 2"
+Travatan Z,1,10.0,0.0,0.0,100.0,Intraocular Hypertension
+Aloxi,1,10.0,0.0,0.0,100.0,"Nausea/Vomiting, Postoperative"
+Abacavir / lamivudine / zidovudine,1,9.0,0.0,0.0,100.0,HIV Infection
+Alphagan P,1,10.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Alphanine SD,1,9.0,0.0,0.0,100.0,Hemophilia B
+Alsuma,1,10.0,0.0,0.0,100.0,Migraine
+Altoprev,1,9.0,0.0,0.0,100.0,"High Cholesterol, Familial Heterozygous"
+Altretamine,1,5.0,0.0,100.0,0.0,Ovarian Cance
+Mephyton,1,10.0,0.0,0.0,100.0,Vitamin K Deficiency
+Vasotec,1,3.0,100.0,0.0,0.0,Diabetic Kidney Disease
+Vectibix,1,8.0,0.0,0.0,100.0,Colorectal Cance
+Vectical,1,10.0,0.0,0.0,100.0,Psoriasis
+Aloprim,1,10.0,0.0,0.0,100.0,Gout
+Dilt-XR,1,10.0,0.0,0.0,100.0,Atrial Fibrillation
+Aller-Ease,1,1.0,100.0,0.0,0.0,Urticaria
+Alocril,1,10.0,0.0,0.0,100.0,"Conjunctivitis, Allergic"
+Acetaminophen / dextromethorphan / guaifenesin / phenylephrine,1,10.0,0.0,0.0,100.0,Cold Symptoms
+Dilaudid-HP,1,2.0,100.0,0.0,0.0,Pain
+Gramicidin / neomycin / polymyxin b,1,1.0,100.0,0.0,0.0,"Conjunctivitis, Bacterial"
+Gris-PEG,1,10.0,0.0,0.0,100.0,Dermatophytosis
+Acetaminophen / caffeine / pyrilamine,1,5.0,0.0,100.0,0.0,Premenstrual Syndrome
+Zyrtec-D 12 Hour,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Zantryl,1,10.0,0.0,0.0,100.0,Obesity
+H.P. Acthar Gel,1,1.0,100.0,0.0,0.0,Multiple Sclerosis
+Zosyn,1,9.0,0.0,0.0,100.0,Deep Neck Infection
+Hair Regrowth Treatment for Women,1,1.0,100.0,0.0,0.0,Unknown
+"Hair, Skin & Nails",1,3.0,100.0,0.0,0.0,Dietary Supplementation
+Fragmin,1,10.0,0.0,0.0,100.0,Unknown
+Zarontin,1,10.0,0.0,0.0,100.0,Seizures
+Furadantin,1,10.0,0.0,0.0,100.0,Bladder Infection
+Diastat,1,10.0,0.0,0.0,100.0,Muscle Spasm
+Methacholine,1,7.0,0.0,0.0,100.0,Diagnosis and Investigation
+Gablofen,1,1.0,100.0,0.0,0.0,Cerebral Spasticity
+Zeasorb-AF Drying Gel,1,10.0,0.0,0.0,100.0,Tinea Pedis
+Meropenem,1,8.0,0.0,0.0,100.0,Skin or Soft Tissue Infection
+Gadopentetate dimeglumine,1,1.0,100.0,0.0,0.0,CNS Magnetic Resonance Imaging
+Dichlorphenamide,1,9.0,0.0,0.0,100.0,Hypokalemic Periodic Paralysis
+Vitamin D2,1,10.0,0.0,0.0,100.0,Vitamin D Deficiency
+Doral,1,10.0,0.0,0.0,100.0,Insomnia
+Dong quai,1,1.0,100.0,0.0,0.0,Headache
+Dolobid,1,1.0,100.0,0.0,0.0,Pain
+Vivelle,1,10.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Abacavir / lamivudine,1,10.0,0.0,0.0,100.0,HIV Infection
+Doc-Q-Lax,1,8.0,0.0,0.0,100.0,"Constipation, Acute"
+Afrin 4 Hour Extra Moisturizing,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Afrin NoDrip Sinus,1,5.0,0.0,100.0,0.0,Nasal Congestion
+Dobutamine,1,1.0,100.0,0.0,0.0,Not Listed / Othe
+AirDuo Respiclick,1,9.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Zinc sulfate,1,9.0,0.0,0.0,100.0,Vitamin/Mineral Supplementation and Deficiency
+Westhroid,1,10.0,0.0,0.0,100.0,Underactive Thyroid
+Aldomet,1,3.0,100.0,0.0,0.0,High Blood Pressure
+Westcort,1,10.0,0.0,0.0,100.0,Eczema
+Aleve-D Sinus & Cold,1,9.0,0.0,0.0,100.0,Sinus Symptoms
+Alimta,1,8.0,0.0,0.0,100.0,Non-Small Cell Lung Cance
+A + D Cracked Skin Relief,1,10.0,0.0,0.0,100.0,Bacterial Skin Infection
+Alka-Seltzer Cold and Sinus,1,10.0,0.0,0.0,100.0,Sinus Symptoms
+depo-subQ provera 104,1,1.0,100.0,0.0,0.0,Birth Control
+Vontrol,1,10.0,0.0,0.0,100.0,Vertig
+Vospire ER,1,2.0,100.0,0.0,0.0,Bronchospasm Prophylaxis
+Vosol HC,1,8.0,0.0,0.0,100.0,Otitis Externa
+Divigel,1,1.0,100.0,0.0,0.0,Postmenopausal Symptoms
+Velcade,1,10.0,0.0,0.0,100.0,Multiple Myeloma
+Velphoro,1,2.0,100.0,0.0,0.0,Hyperphosphatemia of Renal Failure
+Mephobarbital,1,9.0,0.0,0.0,100.0,Epilepsy
+Meperitab,1,10.0,0.0,0.0,100.0,Pain
+Xgeva,1,1.0,100.0,0.0,0.0,Hypercalcemia of Malignancy
+Xeljanz XR,1,9.0,0.0,0.0,100.0,Rheumatoid Arthritis
+Menopur,1,10.0,0.0,0.0,100.0,llicle Stimulation
+Vesanoid,1,8.0,0.0,0.0,100.0,Acute Promyelocytic Leukemia
+Zioptan,1,9.0,0.0,0.0,100.0,Glaucoma/Intraocular Hypertension
+Vestura,1,1.0,100.0,0.0,0.0,Birth Control
+Vicks Dayquil Cold & Flu Relief,1,10.0,0.0,0.0,100.0,Sinus Symptoms
+Zirgan,1,6.0,0.0,100.0,0.0,Herpes Simplex Dendritic Keratitis
+Xalkori,1,8.0,0.0,0.0,100.0,Non-Small Cell Lung Cance
+Vicks Nyquil D Cold and Flu Nighttime Relief,1,5.0,0.0,100.0,0.0,Cold Symptoms
+Vicks Sinex 12-Hour Decongestant Nasal Spray,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Victrelis,1,10.0,0.0,0.0,100.0,Hepatitis C
+Vincasar PFS,1,10.0,0.0,0.0,100.0,Cance
+Meningococcal group B vaccine,1,7.0,0.0,0.0,100.0,"Meningitis, Meningococcal"
+Viramune,1,1.0,100.0,0.0,0.0,HIV Infection
+VisRx Dose Pack,1,10.0,0.0,0.0,100.0,Sinus Symptoms
+Dornase alfa,1,10.0,0.0,0.0,100.0,Cystic Fibrosis
+Doripenem,1,10.0,0.0,0.0,100.0,Urinary Tract Infection
+Vitamin C,1,10.0,0.0,0.0,100.0,Dietary Supplementation
+Vicks Formula 44,1,5.0,0.0,100.0,0.0,Cough
+Tums Smoothies,1,1.0,100.0,0.0,0.0,Indigestion
+TussiCaps,1,9.0,0.0,0.0,100.0,Cough
+Zejula,1,1.0,100.0,0.0,0.0,Ovarian Cance
+Tylenol 8 Hour,1,9.0,0.0,0.0,100.0,Pain
+Mimvey,1,1.0,100.0,0.0,0.0,Postmenopausal Symptoms
+Mifepristone,1,7.0,0.0,0.0,100.0,Abortion
+Midostaurin,1,8.0,0.0,0.0,100.0,Systemic Mastocytosis
+Amcinonide,1,10.0,0.0,0.0,100.0,Dermatitis
+Yellow fever vaccine,1,5.0,0.0,100.0,0.0,Yellow Fever Prophylaxis
+GaviLyte-C,1,2.0,100.0,0.0,0.0,Bowel Preparation
+All Day Allergy,1,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Midamor,1,1.0,100.0,0.0,0.0,High Blood Pressure
+Haldol Decanoate,1,8.0,0.0,0.0,100.0,Psychosis
+HalfLytely and Bisacodyl,1,9.0,0.0,0.0,100.0,Bowel Preparation
+Halfan,1,10.0,0.0,0.0,100.0,Malaria
+Micrainin,1,10.0,0.0,0.0,100.0,Anxiety
+Halog-E,1,10.0,0.0,0.0,100.0,Eczema
+Headache Relief PM,1,6.0,0.0,100.0,0.0,Insomnia
+Hemax,1,8.0,0.0,0.0,100.0,Vitamin/Mineral Supplementation and Deficiency
+Heme iron polypeptide,1,10.0,0.0,0.0,100.0,Vitamin/Mineral Supplementation and Deficiency
+Hemin,1,10.0,0.0,0.0,100.0,Porphyria
+Hepatitis b adult vaccine,1,1.0,100.0,0.0,0.0,Hepatitis B Prevention
+Midol PM,1,7.0,0.0,0.0,100.0,Pain
+Antihemophilic factor / von willebrand factor,1,10.0,0.0,0.0,100.0,von Willebrand's Disease
+Maxidex,1,6.0,0.0,100.0,0.0,Unknown
+Anturol,1,3.0,100.0,0.0,0.0,Overactive Bladde
+Tranxene SD,1,10.0,0.0,0.0,100.0,Anxiety
+Maxichlor PSE DM,1,10.0,0.0,0.0,100.0,Cough and Nasal Congestion
+Travatan,1,10.0,0.0,0.0,100.0,Intraocular Hypertension
+Maxaron Forte,1,8.0,0.0,0.0,100.0,Anemia
+Trelstar,1,5.0,0.0,100.0,0.0,Prostate Cance
+Maxair,1,9.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Mavyret,1,10.0,0.0,0.0,100.0,Hepatitis C
+Dulcolax Stool Softener,1,5.0,0.0,100.0,0.0,Constipation
+Minivelle,1,4.0,100.0,0.0,0.0,Postmenopausal Symptoms
+Triavil,1,9.0,0.0,0.0,100.0,Anxiety
+Trilisate,1,7.0,0.0,0.0,100.0,Pain
+Trimipramine,1,9.0,0.0,0.0,100.0,Depression
+Drixoral Decongestant Non-Drowsy,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Triple Paste,1,10.0,0.0,0.0,100.0,Diaper Rash
+Triprolidine,1,10.0,0.0,0.0,100.0,Allergies
+Dramamine Less Drowsy,1,10.0,0.0,0.0,100.0,Motion Sickness
+Zenchent,1,6.0,0.0,100.0,0.0,Birth Control
+Trixaicin HP,1,9.0,0.0,0.0,100.0,Pain
+Trokendi XR,1,10.0,0.0,0.0,100.0,Seizure Prevention
+Tronolane Anesthetic for Hemorrhoids,1,10.0,0.0,0.0,100.0,Hemorrhoids
+TriLyte,1,4.0,100.0,0.0,0.0,Bowel Preparation
+Unasyn,1,9.0,0.0,0.0,100.0,Bone infection
+MetroCream,1,1.0,100.0,0.0,0.0,Rosacea
+Metolazone,1,9.0,0.0,0.0,100.0,Edema
+Univasc,1,8.0,0.0,0.0,100.0,High Blood Pressure
+Uptravi,1,2.0,100.0,0.0,0.0,Pulmonary Hypertension
+Urecholine,1,9.0,0.0,0.0,100.0,Abdominal Distension
+Urispas,1,3.0,100.0,0.0,0.0,Overactive Bladde
+Uristat,1,9.0,0.0,0.0,100.0,Dysuria
+Uroqid-Acid No2,1,10.0,0.0,0.0,100.0,Unknown
+Methitest,1,10.0,0.0,0.0,100.0,"Hypogonadism, Male"
+Acetaminophen / dextromethorphan / pseudoephedrine,1,8.0,0.0,0.0,100.0,Cold Symptoms
+Acrivastine / pseudoephedrine,1,10.0,0.0,0.0,100.0,Nasal Congestion
+Methergine,1,10.0,0.0,0.0,100.0,Migraine
+Valcyte,1,8.0,0.0,0.0,100.0,CMV Prophylaxis
+Diosmiplex,1,9.0,0.0,0.0,100.0,Dietary Supplementation
+Vanatab DX,1,9.0,0.0,0.0,100.0,Cough and Nasal Congestion
+Vancocin,1,7.0,0.0,0.0,100.0,Meningitis
+Vancocin HCl,1,10.0,0.0,0.0,100.0,Bone infection
+Dimethyl sulfoxide,1,10.0,0.0,0.0,100.0,Not Listed / Othe
+Dimetapp Children's Cold & Cough,1,1.0,100.0,0.0,0.0,Cough and Nasal Congestion
+Vasodilan,1,9.0,0.0,0.0,100.0,Raynaud's Syndrome
+Alka-Seltzer Plus Cold Formula Sparkling Original Effervescent Tablets,1,8.0,0.0,0.0,100.0,Sinus Symptoms
+Acetaminophen / dextromethorphan / phenylephrine,1,8.0,0.0,0.0,100.0,Sinus Symptoms
+Urso Forte,1,10.0,0.0,0.0,100.0,Biliary Cirrhosis
+Acetohydroxamic acid,1,9.0,0.0,0.0,100.0,Urinary Tract Infection
+Hetlioz,1,10.0,0.0,0.0,100.0,Insomnia
+Acetic acid / antipyrine / benzocaine / polycosanol,1,10.0,0.0,0.0,100.0,Ear Wax Impaction
+Dextromethorphan / phenylephrine / pyrilamine,1,10.0,0.0,0.0,100.0,Cold Symptoms
+Dexpanthenol,1,10.0,0.0,0.0,100.0,Dry Skin
+Humate-P,1,10.0,0.0,0.0,100.0,von Willebrand's Disease
+Dexpak Taperpak,1,10.0,0.0,0.0,100.0,Eczema
+Acetic acid,1,6.0,0.0,100.0,0.0,Wound Cleansing
+Devrom,1,10.0,0.0,0.0,100.0,Gas
+Amethyst,1,1.0,100.0,0.0,0.0,Birth Control
+Amevive,1,10.0,0.0,0.0,100.0,Psoriasis
+Ulesfia,1,8.0,0.0,0.0,100.0,Head Lice
+Amikin,1,1.0,100.0,0.0,0.0,Cystic Fibrosis
+Zaditor,1,10.0,0.0,0.0,100.0,"Conjunctivitis, Allergic"
+Amiloride,1,3.0,100.0,0.0,0.0,Edema
+Amino acids,1,9.0,0.0,0.0,100.0,Dietary Supplementation
+Micon 7,1,6.0,0.0,100.0,0.0,Vaginal Yeast Infection
+Amlodipine / atorvastatin,1,1.0,100.0,0.0,0.0,High Blood Pressure
+Zafirlukast,1,10.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Tylenol Arthritis Pain,1,9.0,0.0,0.0,100.0,Pain
+Tylenol Cold,1,2.0,100.0,0.0,0.0,Cold Symptoms
+Acetaminophen / pamabrom / pyrilamine,1,9.0,0.0,0.0,100.0,Premenstrual Syndrome
+Mevacor,1,1.0,100.0,0.0,0.0,High Cholesterol
+Desyrel Dividose,1,7.0,0.0,0.0,100.0,Insomnia
+QNASL,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Qudexy XR,1,3.0,100.0,0.0,0.0,Migraine Prevention
+Empagliflozin / metformin,1,10.0,0.0,0.0,100.0,min)
+Quibron-T,1,1.0,100.0,0.0,0.0,"Asthma, acute"
+Buproban,1,1.0,100.0,0.0,0.0,Smoking Cessation
+Eligard,1,10.0,0.0,0.0,100.0,Prostate Cance
+Eletone,1,1.0,100.0,0.0,0.0,Dry Skin
+Excedrin Back & Body,1,9.0,0.0,0.0,100.0,Pain
+L-Carnitine,1,8.0,0.0,0.0,100.0,Peripheral Neuropathy
+Lac-Hydrin,1,10.0,0.0,0.0,100.0,Dry Skin
+Lamictal ODT,1,9.0,0.0,0.0,100.0,Bipolar Disorde
+Lindane,1,3.0,100.0,0.0,0.0,Head Lice
+Acetaminophen / dextromethorphan / doxylamine,1,10.0,0.0,0.0,100.0,Unknown
+Clarinex,1,8.0,0.0,0.0,100.0,Allergic Rhinitis
+Lamivudine / zidovudine,1,2.0,100.0,0.0,0.0,Occupational Exposure
+Cladribine,1,10.0,0.0,0.0,100.0,Hairy Cell Leukemia
+Lanolin,1,10.0,0.0,0.0,100.0,Dry Skin
+Lanoxicaps,1,10.0,0.0,0.0,100.0,Atrial Fibrillation
+Lanthanum carbonate,1,9.0,0.0,0.0,100.0,Hyperphosphatemia of Renal Failure
+Lapatinib,1,10.0,0.0,0.0,100.0,"Breast Cancer, Metastatic"
+Citric acid / simethicone / sodium bicarbonate,1,10.0,0.0,0.0,100.0,Gas
+Larin Fe 1.5 / 30,1,3.0,100.0,0.0,0.0,Birth Control
+Ergomar,1,9.0,0.0,0.0,100.0,Migraine
+Oxy-10,1,10.0,0.0,0.0,100.0,Acne
+Oxtellar XR,1,10.0,0.0,0.0,100.0,Seizures
+Claritin-D 12 Hour,1,9.0,0.0,0.0,100.0,Nasal Congestion
+Clioquinol,1,10.0,0.0,0.0,100.0,Tinea Pedis
+Protriptyline,1,9.0,0.0,0.0,100.0,Depression
+Clinoril,1,10.0,0.0,0.0,100.0,"Gout, Acute"
+Cleocin Ovules,1,10.0,0.0,0.0,100.0,Bacterial Vaginitis
+Capex,1,10.0,0.0,0.0,100.0,Atopic Dermatitis
+Capsin,1,1.0,100.0,0.0,0.0,Pain
+Capzasin,1,1.0,100.0,0.0,0.0,Pain
+Clemastine,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Capzasin-P,1,1.0,100.0,0.0,0.0,Osteoarthritis
+ClearLax,1,10.0,0.0,0.0,100.0,Constipation
+Carbinoxamine,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Lorabid,1,9.0,0.0,0.0,100.0,Sinusitis
+Pyrithione zinc,1,9.0,0.0,0.0,100.0,Dandruff
+Cardizem LA,1,2.0,100.0,0.0,0.0,High Blood Pressure
+Provida DHA,1,6.0,0.0,100.0,0.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Prozac Weekly,1,9.0,0.0,0.0,100.0,Anxiety and Stress
+Psorcon,1,10.0,0.0,0.0,100.0,Skin Rash
+Lomedia 24 Fe,1,5.0,0.0,100.0,0.0,Birth Control
+Pulmicort Respules,1,10.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Loestrin 21 1.5 / 30,1,3.0,100.0,0.0,0.0,Birth Control
+Purinethol,1,10.0,0.0,0.0,100.0,Autoimmune Hepatitis
+Enemeez Mini,1,9.0,0.0,0.0,100.0,Constipation
+Pyridoxine,1,9.0,0.0,0.0,100.0,Nausea/Vomiting
+Pyrimethamine,1,10.0,0.0,0.0,100.0,Malaria Prevention
+Pyrimethamine / sulfadoxine,1,10.0,0.0,0.0,100.0,Malaria
+Loprox,1,8.0,0.0,0.0,100.0,Seborrheic Dermatitis
+Kineret,1,10.0,0.0,0.0,100.0,Schnitzler Syndrome
+Kionex,1,6.0,0.0,100.0,0.0,Hyperkalemia
+KneeRelief,1,10.0,0.0,0.0,100.0,Muscle Pain
+Coal tar / salicylic acid / sulfur,1,9.0,0.0,0.0,100.0,Psoriasis
+Coagulation factor ix,1,6.0,0.0,100.0,0.0,actor IX Deficiency
+Kytril,1,10.0,0.0,0.0,100.0,"Nausea/Vomiting, Postoperative"
+Ethacrynic acid,1,8.0,0.0,0.0,100.0,Edema
+Clove,1,10.0,0.0,0.0,100.0,Oral and Dental Conditions
+Ethchlorvynol,1,10.0,0.0,0.0,100.0,Insomnia
+Ethmozine,1,10.0,0.0,0.0,100.0,Ventricular Tachycardia
+Eurax,1,9.0,0.0,0.0,100.0,Pruritus
+Opcicon One-Step,1,10.0,0.0,0.0,100.0,Emergency Contraception
+Ery-Tab,1,7.0,0.0,0.0,100.0,Bronchitis
+Refresh Liquigel,1,1.0,100.0,0.0,0.0,Dry Eye Disease
+Regorafenib,1,1.0,100.0,0.0,0.0,Gastrointestinal Stromal Tum
+Relenza,1,9.0,0.0,0.0,100.0,Influenza
+Remodulin,1,4.0,100.0,0.0,0.0,Pulmonary Hypertension
+Renagel,1,7.0,0.0,0.0,100.0,Hyperphosphatemia of Renal Failure
+Onzetra Xsail,1,1.0,100.0,0.0,0.0,Migraine
+Olysio,1,10.0,0.0,0.0,100.0,Hepatitis C
+Olux-E,1,10.0,0.0,0.0,100.0,Atopic Dermatitis
+Reslizumab,1,8.0,0.0,0.0,100.0,Asthma
+Resorcinol / sulfur,1,10.0,0.0,0.0,100.0,Acne
+Briellyn,1,4.0,100.0,0.0,0.0,Birth Control
+Ogen,1,10.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Reese's Pinworm Medicine,1,1.0,100.0,0.0,0.0,Pinworm Infection (Enterobius vermicularis)
+Erythrocin,1,5.0,0.0,100.0,0.0,Strep Throat
+Otrexup,1,9.0,0.0,0.0,100.0,Rheumatoid Arthritis
+Ornex,1,10.0,0.0,0.0,100.0,Unknown
+Orapred,1,7.0,0.0,0.0,100.0,Unknown
+Calcifediol,1,10.0,0.0,0.0,100.0,Hyperparathyroidism Secondary to Renal Impairment
+Calcium / vitamin d,1,9.0,0.0,0.0,100.0,Osteoporosis
+Calcium acetate,1,3.0,100.0,0.0,0.0,Hyperphosphatemia
+Calcium carbonate / risedronate,1,3.0,100.0,0.0,0.0,Osteoporosis
+Quinidine,1,8.0,0.0,0.0,100.0,Arrhythmia
+Qutenza,1,1.0,100.0,0.0,0.0,Peripheral Neuropathy
+Orajel,1,7.0,0.0,0.0,100.0,Aphthous Ulce
+"Rabies vaccine, human diploid cell",1,10.0,0.0,0.0,100.0,Rabies Prophylaxis
+Codeine / guaifenesin / pseudoephedrine,1,2.0,100.0,0.0,0.0,Cold Symptoms
+Colyte,1,1.0,100.0,0.0,0.0,Bowel Preparation
+Collagenase,1,7.0,0.0,0.0,100.0,Keratosis
+Raspberry,1,9.0,0.0,0.0,100.0,Diarrhea
+Readi-Cat,1,9.0,0.0,0.0,100.0,Computed Tomography
+Readi-Cat 2,1,1.0,100.0,0.0,0.0,Computed Tomography
+Rebif Rebidose,1,8.0,0.0,0.0,100.0,Multiple Sclerosis
+RectiCare,1,10.0,0.0,0.0,100.0,Hemorrhoids
+Juleber,1,10.0,0.0,0.0,100.0,Birth Control
+Codimal DM,1,10.0,0.0,0.0,100.0,Cold Symptoms
+Juvederm Voluma XC,1,7.0,0.0,0.0,100.0,acial Wrinkles
+Kazano,1,1.0,100.0,0.0,0.0,"Diabetes, Type 2"
+Ketalar,1,10.0,0.0,0.0,100.0,Anesthesia
+Radium 223 dichloride,1,10.0,0.0,0.0,100.0,Prostate Cance
+PhosLo,1,8.0,0.0,0.0,100.0,Hyperphosphatemia
+Epoprostenol,1,10.0,0.0,0.0,100.0,Pulmonary Hypertension
+Epivir,1,10.0,0.0,0.0,100.0,HIV Infection
+Pimtrea,1,1.0,100.0,0.0,0.0,Birth Control
+Pin-X,1,7.0,0.0,0.0,100.0,Pinworm Infection (Enterobius vermicularis)
+Pindolol,1,3.0,100.0,0.0,0.0,High Blood Pressure
+Epinastine,1,8.0,0.0,0.0,100.0,"Conjunctivitis, Allergic"
+Piperonyl butoxide / pyrethrins,1,5.0,0.0,100.0,0.0,Head Lice
+Pirmella 1 / 35,1,1.0,100.0,0.0,0.0,Birth Control
+Eovist,1,10.0,0.0,0.0,100.0,Liver Magnetic Resonance Imaging
+Eskalith-CR,1,10.0,0.0,0.0,100.0,Bipolar Disorde
+Enzalutamide,1,1.0,100.0,0.0,0.0,Prostate Cance
+Proscar,1,2.0,100.0,0.0,0.0,Benign Prostatic Hyperplasia
+Estratest,1,10.0,0.0,0.0,100.0,Hot Flashes
+Pennyroyal,1,7.0,0.0,0.0,100.0,Herbal Supplementation
+Lazanda,1,10.0,0.0,0.0,100.0,Breakthrough Pain
+Leader Nicotine Polacrilex,1,2.0,100.0,0.0,0.0,Smoking Cessation
+Lemtrada,1,10.0,0.0,0.0,100.0,Multiple Sclerosis
+Lenalidomide,1,1.0,100.0,0.0,0.0,Multiple Myeloma
+Penlac Nail Lacquer,1,8.0,0.0,0.0,100.0,"Onychomycosis, Fingernail"
+Levo-Dromoran,1,10.0,0.0,0.0,100.0,Pain
+Levo-T,1,8.0,0.0,0.0,100.0,Hashimoto's disease
+Levodopa,1,8.0,0.0,0.0,100.0,Restless Legs Syndrome
+Levophed,1,8.0,0.0,0.0,100.0,Hypotension
+Enfuvirtide,1,10.0,0.0,0.0,100.0,HIV Infection
+Estrasorb,1,7.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Cisapride,1,1.0,100.0,0.0,0.0,GERD
+Ciclodan,1,10.0,0.0,0.0,100.0,"Onychomycosis, Toenail"
+Pentobarbital,1,10.0,0.0,0.0,100.0,Insomnia
+Pentothal,1,10.0,0.0,0.0,100.0,Anesthesia
+Cholestyramine Light,1,9.0,0.0,0.0,100.0,Irritable Bowel Syndrome
+Peppermint,1,10.0,0.0,0.0,100.0,Nausea/Vomiting
+Cholecalciferol / folic acid,1,5.0,0.0,100.0,0.0,Dietary Supplementation
+Perforomist,1,7.0,0.0,0.0,100.0,"COPD, Maintenance"
+Peri-Colace,1,10.0,0.0,0.0,100.0,"Constipation, Acute"
+Peridex,1,10.0,0.0,0.0,100.0,Gingivitis
+Pernox,1,10.0,0.0,0.0,100.0,Acne
+Pexeva,1,10.0,0.0,0.0,100.0,Anxiety
+Eptifibatide,1,8.0,0.0,0.0,100.0,Percutaneous Coronary Intervention
+Lincocin,1,10.0,0.0,0.0,100.0,Bacterial Infection
+Cerezyme,1,9.0,0.0,0.0,100.0,Gaucher Disease
+Ceritinib,1,5.0,0.0,100.0,0.0,Non-Small Cell Lung Cance
+Limbrel 500,1,8.0,0.0,0.0,100.0,Osteoarthritis
+Cetaphil Lotion,1,1.0,100.0,0.0,0.0,Dry Skin
+Cetirizine / pseudoephedrine,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Limbitrol,1,9.0,0.0,0.0,100.0,Depression
+Equetro,1,7.0,0.0,0.0,100.0,Bipolar Disorde
+Chlorambucil,1,9.0,0.0,0.0,100.0,Chronic Lymphocytic Leukemia
+Chlorcyclizine / phenylephrine,1,10.0,0.0,0.0,100.0,Rhinitis
+Chlorothiazide,1,10.0,0.0,0.0,100.0,Edema
+Phenylephrine / pyrilamine,1,10.0,0.0,0.0,100.0,Sinusitis
+Phendiet,1,8.0,0.0,0.0,100.0,Obesity
+Cefotaxime,1,10.0,0.0,0.0,100.0,Skin or Soft Tissue Infection
+Ceftibuten,1,8.0,0.0,0.0,100.0,Sinusitis
+Cenestin,1,10.0,0.0,0.0,100.0,Hypoestrogenism
+Prefrin,1,10.0,0.0,0.0,100.0,Eye Redness
+Pregnyl,1,10.0,0.0,0.0,100.0,Ovulation Induction
+Pacerone,1,10.0,0.0,0.0,100.0,Arrhythmia
+Prevacid OTC,1,8.0,0.0,0.0,100.0,GERD
+Prevalite,1,8.0,0.0,0.0,100.0,Crohn's Disease
+Prezista,1,3.0,100.0,0.0,0.0,HIV Infection
+Prialt,1,1.0,100.0,0.0,0.0,Pain
+Primatene,1,10.0,0.0,0.0,100.0,Cold Symptoms
+Primlev,1,9.0,0.0,0.0,100.0,Pain
+Enjuvia,1,10.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Pro-Den Rx,1,1.0,100.0,0.0,0.0,Prevention of Dental Caries
+PEG-3350 with Electolytes,1,10.0,0.0,0.0,100.0,Gastrointestinal Decontamination
+Procrit,1,1.0,100.0,0.0,0.0,Anemia
+Ozurdex,1,10.0,0.0,0.0,100.0,Uveitis
+Oxytocin,1,10.0,0.0,0.0,100.0,Labor Induction
+Oxymetholone,1,10.0,0.0,0.0,100.0,Anemia
+Proglycem,1,9.0,0.0,0.0,100.0,Hypoglycemia
+Prolastin-C,1,10.0,0.0,0.0,100.0,Alpha-1 Proteinase Inhibitor Deficiency
+Prolensa,1,10.0,0.0,0.0,100.0,Postoperative Ocular Inflammation
+Proleukin,1,10.0,0.0,0.0,100.0,Renal Cell Carcinoma
+Promacta,1,10.0,0.0,0.0,100.0,Aplastic Anemia
+Clioquinol / hydrocortisone,1,10.0,0.0,0.0,100.0,Dermatitis
+Privigen,1,10.0,0.0,0.0,100.0,Primary Immunodeficiency Syndrome
+Enstilar,1,3.0,100.0,0.0,0.0,Plaque Psoriasis
+Penicillamine,1,8.0,0.0,0.0,100.0,Wilson's Disease
+Plexion Cleanser,1,9.0,0.0,0.0,100.0,Rosacea
+Podophyllum resin,1,7.0,0.0,0.0,100.0,Human Papilloma Virus
+Pemetrexed,1,10.0,0.0,0.0,100.0,Non-Small Cell Lung Cance
+Poly Iron,1,10.0,0.0,0.0,100.0,Iron Deficiency Anemia
+Polysporin First Aid Antibiotic Ointment,1,1.0,100.0,0.0,0.0,Unknown
+Polytrim,1,9.0,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Pomalidomide,1,10.0,0.0,0.0,100.0,Multiple Myeloma
+Potassium iodide,1,10.0,0.0,0.0,100.0,Hyperthyroidism
+Peganone,1,1.0,100.0,0.0,0.0,Epilepsy
+Pralatrexate,1,1.0,100.0,0.0,0.0,Peripheral T-cell Lymphoma
+Cefepime,1,9.0,0.0,0.0,100.0,Skin and Structure Infection
+Parathyroid hormone,1,7.0,0.0,0.0,100.0,Hypoparathyroidism
+Prax,1,8.0,0.0,0.0,100.0,Pruritus
+Praziquantel,1,7.0,0.0,0.0,100.0,"Paragonimus westermani, Lung Fluke"
+Parafon Forte DSC,1,2.0,100.0,0.0,0.0,Muscle Spasm
+Panlor SS,1,10.0,0.0,0.0,100.0,Pain
+Pancreatin,1,9.0,0.0,0.0,100.0,Chronic Pancreatitis
+Carfilzomib,1,1.0,100.0,0.0,0.0,Multiple Myeloma
+Carmol 20,1,9.0,0.0,0.0,100.0,Dermatological Disorders
+PanOxyl 10% Acne Foaming Wash,1,10.0,0.0,0.0,100.0,Acne
+Pamine,1,7.0,0.0,0.0,100.0,Irritable Bowel Syndrome
+Palladone,1,10.0,0.0,0.0,100.0,Pain
+Cefazolin,1,1.0,100.0,0.0,0.0,Bacterial Endocarditis Prevention
+Pedi-Dri,1,8.0,0.0,0.0,100.0,Vaginal Yeast Infection
+Sinemet CR,1,8.0,0.0,0.0,100.0,Parkinson's Disease
+Skeeter Stik,1,10.0,0.0,0.0,100.0,Pruritus
+Sleep Aid,1,10.0,0.0,0.0,100.0,Insomnia
+Slippery elm,1,10.0,0.0,0.0,100.0,Herbal Supplementation
+Slo-Niacin,1,10.0,0.0,0.0,100.0,High Cholesterol
+Slow Fe,1,3.0,100.0,0.0,0.0,Iron Deficiency Anemia
+Sodium bicarbonate,1,10.0,0.0,0.0,100.0,Asystole
+Nicotrol NS,1,10.0,0.0,0.0,100.0,Smoking Cessation
+Bag Balm,1,8.0,0.0,0.0,100.0,Dry Skin
+Niacinamide,1,2.0,100.0,0.0,0.0,Niacin Deficiency
+Nexium IV,1,8.0,0.0,0.0,100.0,GERD
+Nexafed Nasal Decongestant,1,2.0,100.0,0.0,0.0,Nasal Congestion
+Cortizone-10,1,10.0,0.0,0.0,100.0,Eczema
+Bee pollen,1,10.0,0.0,0.0,100.0,Herbal Supplementation
+Belladonna,1,1.0,100.0,0.0,0.0,Irritable Bowel Syndrome
+Belviq XR,1,10.0,0.0,0.0,100.0,Obesity
+Benazepril / hydrochlorothiazide,1,5.0,0.0,100.0,0.0,High Blood Pressure
+Bendroflumethiazide / nadolol,1,10.0,0.0,0.0,100.0,High Blood Pressure
+Benemid,1,10.0,0.0,0.0,100.0,Gout
+Sodium hypochlorite,1,10.0,0.0,0.0,100.0,Topical Disinfection
+Sodium polystyrene sulfonate,1,10.0,0.0,0.0,100.0,Hyperkalemia
+Nevanac,1,7.0,0.0,0.0,100.0,Postoperative Ocular Inflammation
+Solarcaine Burn Relief,1,1.0,100.0,0.0,0.0,Sunburn
+Solarcaine First Aid Medicated Spray,1,10.0,0.0,0.0,100.0,"Burns, External"
+Soma Compound with Codeine,1,9.0,0.0,0.0,100.0,Muscle Spasm
+Beconase AQ,1,9.0,0.0,0.0,100.0,Allergic Rhinitis
+Feraheme,1,10.0,0.0,0.0,100.0,Iron Deficiency Anemia
+Ferralet 90,1,10.0,0.0,0.0,100.0,Anemia
+Ferrlecit,1,5.0,0.0,100.0,0.0,Anemia Associated with Chronic Renal Failure
+Ferrous fumarate,1,10.0,0.0,0.0,100.0,Iron Deficiency Anemia
+Ferumoxytol,1,10.0,0.0,0.0,100.0,Iron Deficiency Anemia
+FiberCon,1,9.0,0.0,0.0,100.0,Constipation
+Filgrastim,1,10.0,0.0,0.0,100.0,Neutropenia
+Nitrolingual Pumpspray,1,9.0,0.0,0.0,100.0,Heart Attack
+Nisoldipine,1,1.0,100.0,0.0,0.0,Raynaud's Syndrome
+Nimotop,1,10.0,0.0,0.0,100.0,Ischemic Stroke
+Cytra-K,1,10.0,0.0,0.0,100.0,Urinary Tract Stones
+Cyklokapron,1,10.0,0.0,0.0,100.0,Bleeding Disorde
+Sine-Off Maximum Strength,1,10.0,0.0,0.0,100.0,Sinus Symptoms
+Intal,1,1.0,100.0,0.0,0.0,"Asthma, Maintenance"
+Intal Inhaler,1,10.0,0.0,0.0,100.0,"Asthma, Maintenance"
+Integra F,1,9.0,0.0,0.0,100.0,Anemia
+Cuvitru,1,9.0,0.0,0.0,100.0,Primary Immunodeficiency Syndrome
+Intron A,1,1.0,100.0,0.0,0.0,Hepatitis C
+Inulin,1,5.0,0.0,100.0,0.0,Dietary Fiber Supplementation
+Iohexol,1,7.0,0.0,0.0,100.0,Body Imaging
+Irinotecan,1,5.0,0.0,100.0,0.0,Colorectal Cance
+Crinone,1,4.0,100.0,0.0,0.0,Progesterone Insufficiency
+Silver nitrate,1,10.0,0.0,0.0,100.0,Topical Disinfection
+Simbrinza,1,9.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Cosopt,1,9.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Cyclopentolate,1,4.0,100.0,0.0,0.0,Uveitis
+Dazidox,1,10.0,0.0,0.0,100.0,Chronic Pain
+Ifosfamide,1,10.0,0.0,0.0,100.0,Testicular Cance
+Ilevro,1,10.0,0.0,0.0,100.0,Postoperative Ocular Inflammation
+Dasetta 7 / 7 / 7,1,1.0,100.0,0.0,0.0,Birth Control
+Immune globulin intravenous and subcutaneous,1,10.0,0.0,0.0,100.0,Primary Immunodeficiency Syndrome
+Inapsine,1,2.0,100.0,0.0,0.0,Nausea/Vomiting
+Dasetta 1 / 35,1,3.0,100.0,0.0,0.0,Birth Control
+IncobotulinumtoxinA,1,5.0,0.0,100.0,0.0,Cervical Dystonia
+Incruse Ellipta,1,10.0,0.0,0.0,100.0,COPD
+Darvocet-N 50,1,5.0,0.0,100.0,0.0,Pain
+Infumorph,1,9.0,0.0,0.0,100.0,Chronic Pain
+Ingenol,1,9.0,0.0,0.0,100.0,Actinic Keratosis
+Sorbitol,1,9.0,0.0,0.0,100.0,Constipation
+Innohep,1,10.0,0.0,0.0,100.0,Deep Vein Thrombosis
+Insulin aspart / insulin aspart protamine,1,10.0,0.0,0.0,100.0,"Diabetes, Type 1"
+Insulin aspart / insulin degludec,1,8.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Femtrace,1,10.0,0.0,0.0,100.0,Postmenopausal Symptoms
+Fenugreek,1,10.0,0.0,0.0,100.0,Herbal Supplementation
+B3-500-Gr,1,10.0,0.0,0.0,100.0,High Cholesterol
+BC Fast Pain Relief,1,10.0,0.0,0.0,100.0,Headache
+BP Wash,1,9.0,0.0,0.0,100.0,Acne
+Bacitracin,1,1.0,100.0,0.0,0.0,Bacterial Skin Infection
+Bacitracin / neomycin / polymyxin b / pramoxine,1,10.0,0.0,0.0,100.0,Bacterial Skin Infection
+Sudafed PE Severe Cold,1,9.0,0.0,0.0,100.0,Cold Symptoms
+Daptomycin,1,10.0,0.0,0.0,100.0,Skin and Structure Infection
+Darvocet A500,1,9.0,0.0,0.0,100.0,Unknown
+Neupogen,1,10.0,0.0,0.0,100.0,Neutropenia Associated with Chemotherapy
+Sotalol Hydrochloride AF,1,10.0,0.0,0.0,100.0,Atrial Fibrillation
+Nesina,1,7.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Spectracef,1,1.0,100.0,0.0,0.0,Unknown
+Neostigmine,1,10.0,0.0,0.0,100.0,Myasthenia Gravis
+Stavzor,1,10.0,0.0,0.0,100.0,Mania
+Neevo DHA,1,10.0,0.0,0.0,100.0,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+Necitumumab,1,10.0,0.0,0.0,100.0,Non-Small Cell Lung Cance
+Stivarga,1,10.0,0.0,0.0,100.0,Colorectal Cance
+Streptokinase,1,10.0,0.0,0.0,100.0,Heart Attack
+Striant,1,7.0,0.0,0.0,100.0,"Hypogonadism, Male"
+Striverdi Respimat,1,10.0,0.0,0.0,100.0,COPD
+Azulfidine,1,1.0,100.0,0.0,0.0,Ulcerative Colitis
+Sucroferric oxyhydroxide,1,6.0,0.0,100.0,0.0,Hyperphosphatemia of Renal Failure
+Sudafed 12-Hour,1,9.0,0.0,0.0,100.0,Nasal Congestion
+Nateglinide,1,1.0,100.0,0.0,0.0,"Diabetes, Type 2"
+Sudafed PE Pressure + Pain,1,4.0,100.0,0.0,0.0,Sinus Symptoms
+Axid,1,10.0,0.0,0.0,100.0,GERD
+Narcan Injection,1,8.0,0.0,0.0,100.0,Reversal of Opioid Sedation
+Ayr Saline Nasal,1,1.0,100.0,0.0,0.0,Nasal Congestion
+Azelex,1,8.0,0.0,0.0,100.0,Rosacea
+Azilect,1,10.0,0.0,0.0,100.0,Parkinson's Disease
+Azmacort,1,10.0,0.0,0.0,100.0,Asthma
+Azo Urinary Pain Relief,1,10.0,0.0,0.0,100.0,Interstitial Cystitis
+Azo-Cranberry,1,9.0,0.0,0.0,100.0,Urinary Tract Infection
+Natesto,1,8.0,0.0,0.0,100.0,"Hypogonadism, Male"
+Nutropin,1,10.0,0.0,0.0,100.0,Unknown
+Rogaine Men's Extra Strength,1,9.0,0.0,0.0,100.0,Alopecia
+Rolapitant,1,10.0,0.0,0.0,100.0,"Nausea/Vomiting, Chemotherapy Induced"
+Romidepsin,1,1.0,100.0,0.0,0.0,Peripheral T-cell Lymphoma
+Romiplostim,1,10.0,0.0,0.0,100.0,Idiopathic Thrombocytopenic Purpura
+Ropivacaine,1,1.0,100.0,0.0,0.0,Labor Pain
+Nutraplus,1,9.0,0.0,0.0,100.0,Dry Skin
+NuOx,1,10.0,0.0,0.0,100.0,Acne
+Nplate,1,9.0,0.0,0.0,100.0,Idiopathic Thrombocytopenic Purpura
+Royal jelly,1,10.0,0.0,0.0,100.0,Herbal Supplementation
+Rozex,1,1.0,100.0,0.0,0.0,Rosacea
+Ruconest,1,10.0,0.0,0.0,100.0,Hereditary Angioedema
+Sertaconazole,1,10.0,0.0,0.0,100.0,Tinea Pedis
+Novolin 70 / 30,1,3.0,100.0,0.0,0.0,"Diabetes, Type 2"
+NovoLog Mix 70 / 30,1,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+NovoLog FlexPen,1,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Norvir,1,1.0,100.0,0.0,0.0,HIV Infection
+Dynacin,1,8.0,0.0,0.0,100.0,Acne
+Biltricide,1,3.0,100.0,0.0,0.0,Schistosoma japonicum
+Biotene Mouthwash,1,1.0,100.0,0.0,0.0,Xerostomia
+Duoplant,1,9.0,0.0,0.0,100.0,Dermatological Disorders
+Excedrin Tension Headache,1,9.0,0.0,0.0,100.0,Headache
+Exparel,1,10.0,0.0,0.0,100.0,Pain
+Eyebright,1,10.0,0.0,0.0,100.0,Nasal Congestion
+FML Forte Liquifilm,1,7.0,0.0,0.0,100.0,Eye Redness
+Novolin N,1,10.0,0.0,0.0,100.0,"Diabetes, Type 2"
+Brinzolamide,1,1.0,100.0,0.0,0.0,"Glaucoma, Open Angle"
+Brivaracetam,1,8.0,0.0,0.0,100.0,Seizures
+Briviact,1,1.0,100.0,0.0,0.0,Seizures
+Brodalumab,1,10.0,0.0,0.0,100.0,Plaque Psoriasis
+Bromfenac,1,5.0,0.0,100.0,0.0,Postoperative Ocular Inflammation
+Cortisone,1,4.0,100.0,0.0,0.0,Dermatomyositis
+Cortef,1,9.0,0.0,0.0,100.0,Adrenocortical Insufficiency
+Brovana,1,10.0,0.0,0.0,100.0,"COPD, Maintenance"
+Corn Huskers Lotion,1,10.0,0.0,0.0,100.0,Dry Skin
+Coricidin HBP Cold & Flu,1,9.0,0.0,0.0,100.0,Cold Symptoms
+Constulose,1,10.0,0.0,0.0,100.0,"Constipation, Chronic"
+Conivaptan,1,9.0,0.0,0.0,100.0,Euvolemic Hyponatremia
+Rocaltrol,1,10.0,0.0,0.0,100.0,Hypocalcemia
+Conestat alfa,1,10.0,0.0,0.0,100.0,Hereditary Angioedema
+Rheumatrex Dose Pack,1,2.0,100.0,0.0,0.0,Rheumatoid Arthritis
+Compro,1,10.0,0.0,0.0,100.0,Nausea/Vomiting
+Compoz Nighttime Sleep Aid,1,10.0,0.0,0.0,100.0,Insomnia
+Cometriq,1,1.0,100.0,0.0,0.0,Thyroid Cance
+Rifabutin,1,3.0,100.0,0.0,0.0,"Mycobacterium avium-intracellulare, Treatment"
+Rifadin,1,10.0,0.0,0.0,100.0,"Tuberculosis, Prophylaxis"
+Riociguat,1,1.0,100.0,0.0,0.0,Pulmonary Hypertension
+Nystop,1,1.0,100.0,0.0,0.0,Unknown
+Nuwiq,1,8.0,0.0,0.0,100.0,Hemophilia A
+Robitussin Cold Cough and Flu,1,10.0,0.0,0.0,100.0,Cold Symptoms
+Robitussin CoughGels Long-Acting,1,10.0,0.0,0.0,100.0,Cough
+Reyataz,1,10.0,0.0,0.0,100.0,HIV Infection
+Norpace,1,8.0,0.0,0.0,100.0,Arrhythmia
+Salvax Duo,1,10.0,0.0,0.0,100.0,t Care
+Sancuso,1,10.0,0.0,0.0,100.0,"Nausea/Vomiting, Chemotherapy Induced"
+Normodyne,1,7.0,0.0,0.0,100.0,High Blood Pressure
+Norlyda,1,6.0,0.0,100.0,0.0,Birth Control
+Savaysa,1,1.0,100.0,0.0,0.0,Atrial Fibrillation
+Schiff Move Free,1,5.0,0.0,100.0,0.0,Dietary Supplementation
+Scullcap,1,9.0,0.0,0.0,100.0,Herbal Supplementation
+Scytera,1,10.0,0.0,0.0,100.0,Psoriasis
+Bensal HP,1,10.0,0.0,0.0,100.0,Dermatological Disorders
+Norinyl 1+35,1,10.0,0.0,0.0,100.0,Acne
+Norgesic Forte,1,10.0,0.0,0.0,100.0,Muscle Spasm
+Fabior,1,10.0,0.0,0.0,100.0,Acne
+Benzoyl peroxide / salicylic acid,1,8.0,0.0,0.0,100.0,Acne
+Benzoyl peroxide / sulfur,1,10.0,0.0,0.0,100.0,Acne
+Betapace AF,1,1.0,100.0,0.0,0.0,Atrial Flutte
+Bexarotene,1,10.0,0.0,0.0,100.0,Cutaneous T-cell Lymphoma
+Nor-QD,1,4.0,100.0,0.0,0.0,Unknown
+Sectral,1,10.0,0.0,0.0,100.0,High Blood Pressure
+Selsun Blue,1,1.0,100.0,0.0,0.0,Tinea Versicol
+Nizoral Topical,1,10.0,0.0,0.0,100.0,Tinea Corporis
+Semprex-D,1,10.0,0.0,0.0,100.0,Allergic Rhinitis
+Senexon,1,6.0,0.0,100.0,0.0,Constipation
+Nizoral A-D,1,10.0,0.0,0.0,100.0,Dandruff
+Sensorcaine-MPF,1,10.0,0.0,0.0,100.0,Local Anesthesia
+Benzoyl peroxide / hydrocortisone,1,10.0,0.0,0.0,100.0,Acne
+Lymphoseek,1,10.0,0.0,0.0,100.0,Diagnosis and Investigation
+Fallback Solo,1,8.0,0.0,0.0,100.0,Emergency Contraception
+Luxiq,1,10.0,0.0,0.0,100.0,Dermatological Disorders
+Fast Freeze,1,8.0,0.0,0.0,100.0,Pain
+Luminal,1,9.0,0.0,0.0,100.0,Seizures
+Isoproterenol,1,10.0,0.0,0.0,100.0,"Asthma, acute"
+Isoptin SR,1,10.0,0.0,0.0,100.0,Cluster Headaches
+Ludiomil,1,10.0,0.0,0.0,100.0,Major Depressive Disorde
+Isoxsuprine,1,10.0,0.0,0.0,100.0,Cerebrovascular Insufficiency
+Isradipine,1,5.0,0.0,100.0,0.0,Raynaud's Syndrome
+Istalol,1,10.0,0.0,0.0,100.0,"Glaucoma, Open Angle"
+Ivabradine,1,10.0,0.0,0.0,100.0,Heart Failure
+Norpace CR,1,10.0,0.0,0.0,100.0,Arrhythmia
+Jantoven,1,9.0,0.0,0.0,100.0,Prevention of Thromboembolism in Atrial Fibrillation
+Jencycla,1,1.0,100.0,0.0,0.0,Birth Control
+Bivalirudin,1,10.0,0.0,0.0,100.0,Percutaneous Coronary Intervention
+Boceprevir,1,10.0,0.0,0.0,100.0,Hepatitis C
+Lotrimin AF Athlete's Foot Powder,1,9.0,0.0,0.0,100.0,Unknown
+Bortezomib,1,9.0,0.0,0.0,100.0,Multiple Myeloma
+Loteprednol / tobramycin,1,7.0,0.0,0.0,100.0,"Conjunctivitis, Bacterial"
+Bosulif,1,10.0,0.0,0.0,100.0,Chronic Myelogenous Leukemia
+Lorcet,1,10.0,0.0,0.0,100.0,Pain
+Brethine,1,7.0,0.0,0.0,100.0,Premature Lab
+Saizen,1,9.0,0.0,0.0,100.0,Adult Human Growth Hormone Deficiency
+Salicylic acid / sulfur,1,10.0,0.0,0.0,100.0,Dandruff
+Ivacaftor,1,10.0,0.0,0.0,100.0,Cystic Fibrosis
